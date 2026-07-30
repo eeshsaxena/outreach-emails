@@ -45,6 +45,7 @@ CITY_RULES = [
     ("Lucknow", ("lucknow", "vibhuti khand", "gomti nagar")),
     ("Prayagraj", ("prayagraj", "allahabad")),
     ("Gorakhpur", ("gorakhpur",)),
+    ("Deoria", ("deoria",)),
     ("Indore", ("indore",)),
     ("Bhopal", ("bhopal",)),
     ("Gwalior", ("gwalior",)),

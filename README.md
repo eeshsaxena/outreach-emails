@@ -19,7 +19,7 @@ Designed to streamline internship outreach by combining verified contact data wi
 - **Rounds 1-3**: Dubai/UAE tech companies (#1-143)
 - **Rounds 4-8**: GIFT City, Infocity, Kudasan, Sargasan, Gandhinagar (#144-191)
 - **Round 9**: PDPU corridor, Infocity expansion, Arrow/eInfochips (#192-198)
-- **Round 10+**: pan-India expansion — Bengaluru, Hyderabad, Pune, Jaipur, Lucknow, Kota, and other metros (see `city_*.csv` batches)
+- **Round 10+**: pan-India expansion — Bengaluru, Hyderabad, Pune, Jaipur, Lucknow, Kota, Deoria, and other cities (see `city_*.csv` batches)
 
 ## Categories
 
