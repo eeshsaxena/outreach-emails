@@ -1,3 +1,6 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Sanjay Chaudhary,gujarat,vadodara,IIIT Vadodara,IIIT,CSE,sanjayc@iiitvadodara.ac.in,"Cloud Computing, Big Data, Machine Learning",https://www.iiitvadodara.ac.in/faculty/cse,1,queued,
 Rahul Dubey,gujarat,vadodara,IIIT Vadodara,IIIT,CSE,rahuldubey@iiitvadodara.ac.in,"Computer Vision, Deep Learning",https://www.iiitvadodara.ac.in/faculty/cse,1,queued,
+Rinku Sharma,gujarat,vadodara,IIIT Vadodara,IIIT,CSE,rinku@iiitvadodara.ac.in,"Natural Language Processing, Text Mining",https://www.iiitvadodara.ac.in/faculty/cse,1,queued,
+Bhaskar Chaudhury,gujarat,vadodara,IIIT Vadodara,IIIT,CSE,bhaskar@iiitvadodara.ac.in,"Algorithms, Complexity, Logic",https://www.iiitvadodara.ac.in/faculty/cse,1,queued,
+Shrikant Tiwari,gujarat,vadodara,IIIT Vadodara,IIIT,CSE,stiwari@iiitvadodara.ac.in,"Biometrics, Signal Processing",https://www.iiitvadodara.ac.in/faculty/cse,1,queued,

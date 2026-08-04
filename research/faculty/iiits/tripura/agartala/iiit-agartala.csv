@@ -1,2 +1,4 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Sushanta Kumar Sahu,tripura,agartala,IIIT Agartala,IIIT,CSE,sksahu@iiitagartala.ac.in,"Machine Learning, Pattern Recognition",https://www.iiitagartala.ac.in/faculty/cse,1,queued,
+Rajesh Bose,tripura,agartala,IIIT Agartala,IIIT,CSE,rajeshbose@iiitagartala.ac.in,"Network Security, Cryptography",https://www.iiitagartala.ac.in/faculty/cse,1,queued,
+Sandip Dutta,tripura,agartala,IIIT Agartala,IIIT,CSE,sandip@iiitagartala.ac.in,"Signal Processing, Deep Learning",https://www.iiitagartala.ac.in/faculty/cse,1,queued,

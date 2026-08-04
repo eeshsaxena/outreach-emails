@@ -1,2 +1,4 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Satya Pranav P,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,satya@rguktn.ac.in,"Distributed Systems, Networks",https://rguktn.ac.in/academics/faculty/cse,1,queued,
+Subhash Chandra Satapathy,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,scsat@rguktn.ac.in,"Machine Learning, Swarm Intelligence",https://rguktn.ac.in/academics/faculty/cse,1,queued,
+Venkateswara Rao M,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,vrao@rguktn.ac.in,"Image Processing, Pattern Recognition",https://rguktn.ac.in/academics/faculty/cse,1,queued,

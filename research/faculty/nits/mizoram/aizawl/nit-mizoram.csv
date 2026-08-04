@@ -1,2 +1,5 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Zoramthanga,mizoram,aizawl,NIT Mizoram,NIT,CSE,zthanga@nitmz.ac.in,"Networks, Machine Learning",https://www.nitmz.ac.in/faculties/cse,1,queued,
+Lalhmangaihzuala,mizoram,aizawl,NIT Mizoram,NIT,CSE,lzuala@nitmz.ac.in,"Software Engineering, Agile Methodology",https://www.nitmz.ac.in/faculties/cse,1,queued,
+H. Zosangzuali,mizoram,aizawl,NIT Mizoram,NIT,CSE,hzosangzuali@nitmz.ac.in,"Data Mining, Big Data Analytics",https://www.nitmz.ac.in/faculties/cse,1,queued,
+Lal Hmingliana,mizoram,aizawl,NIT Mizoram,NIT,CSE,lalhmingliana@nitmz.ac.in,"Image Processing, Computer Vision",https://www.nitmz.ac.in/faculties/cse,1,queued,

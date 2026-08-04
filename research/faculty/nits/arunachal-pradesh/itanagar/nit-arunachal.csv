@@ -1,2 +1,6 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Prabin Bora,arunachal-pradesh,itanagar,NIT Arunachal Pradesh,NIT,CSE,pbora@nitap.ac.in,"Image Processing, Computer Vision",https://nitap.ac.in/page/Faculty-CSE,1,queued,
+Arun Kumar Yadav,arunachal-pradesh,itanagar,NIT Arunachal Pradesh,NIT,CSE,akyadav@nitap.ac.in,"Wireless Networks, Security, Cryptography",https://nitap.ac.in/page/Faculty-CSE,1,queued,
+Santosh Kumar Bharti,arunachal-pradesh,itanagar,NIT Arunachal Pradesh,NIT,CSE,skbharti@nitap.ac.in,"Machine Learning, Deep Learning, NLP",https://nitap.ac.in/page/Faculty-CSE,1,queued,
+Sandeep Chaurasia,arunachal-pradesh,itanagar,NIT Arunachal Pradesh,NIT,CSE,schaurasia@nitap.ac.in,"Image Compression, Biometrics",https://nitap.ac.in/page/Faculty-CSE,1,queued,
+Thipendra P Singh,arunachal-pradesh,itanagar,NIT Arunachal Pradesh,NIT,CSE,tpsingh@nitap.ac.in,"Distributed Computing, Cloud, Security",https://nitap.ac.in/page/Faculty-CSE,1,queued,

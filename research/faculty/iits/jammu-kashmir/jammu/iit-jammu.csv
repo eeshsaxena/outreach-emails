@@ -2,3 +2,6 @@ name,state,city,institute,institute_type,department,email,research_area,personal
 Anand Gupta,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,anand.gupta@iitjammu.ac.in,"Machine Learning, Data Analytics",https://www.iitjammu.ac.in/faculty/anand,1,queued,
 Deepa Gupta,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,deepa.gupta@iitjammu.ac.in,"Computer Vision, Image Processing",https://www.iitjammu.ac.in/faculty/deepa,1,queued,
 Vivek Bohara,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,vivek.bohara@iitjammu.ac.in,"Wireless Communications, 5G, IoT",https://www.iitjammu.ac.in/faculty/vivek,1,queued,
+Bhupendra Nath Tiwari,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,bntiwari@iitjammu.ac.in,"Computational Mathematics, HPC",https://www.iitjammu.ac.in/faculty/bntiwari,1,queued,
+Srikanta Murthy K,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,srikanta@iitjammu.ac.in,"Document Analysis, Pattern Recognition, NLP",https://www.iitjammu.ac.in/faculty/srikanta,1,queued,
+Avinash Kaur,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,avinash@iitjammu.ac.in,"Distributed Systems, Security",https://www.iitjammu.ac.in/faculty/avinash,1,queued,

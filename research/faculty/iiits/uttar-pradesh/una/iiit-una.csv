@@ -1,2 +1,4 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Gaurav Harit,uttar-pradesh,una,IIIT Una,IIIT,CSE,gharit@iiituna.ac.in,"Computer Vision, Image Processing, Machine Learning",https://www.iiituna.ac.in/faculty/cse,1,queued,
+Prem Shankar Gupta,uttar-pradesh,una,IIIT Una,IIIT,CSE,psg@iiituna.ac.in,"Soft Computing, Neural Networks",https://www.iiituna.ac.in/faculty/cse,1,queued,
+Pradeep Kumar Singh,uttar-pradesh,una,IIIT Una,IIIT,CSE,pksingh@iiituna.ac.in,"Swarm Intelligence, Evolutionary Algorithms",https://www.iiituna.ac.in/faculty/cse,1,queued,

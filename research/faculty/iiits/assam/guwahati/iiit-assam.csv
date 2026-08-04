@@ -1,2 +1,5 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Sanjoy Das,assam,guwahati,IIIT Assam,IIIT,CSE,sanjoy@iiitassam.ac.in,"Machine Learning, Algorithms",https://www.iiitassam.ac.in/faculty/cse,1,queued,
+Utpal Nandi,assam,guwahati,IIIT Assam,IIIT,CSE,utpal@iiitassam.ac.in,"Deep Learning, NLP, Information Retrieval",https://www.iiitassam.ac.in/faculty/cse,1,queued,
+Debasish Dey,assam,guwahati,IIIT Assam,IIIT,CSE,debasish@iiitassam.ac.in,"Computer Networks, Security",https://www.iiitassam.ac.in/faculty/cse,1,queued,
+Monowar H. Bhuyan,assam,guwahati,IIIT Assam,IIIT,CSE,monowar@iiitassam.ac.in,"Network Intrusion Detection, Machine Learning",https://www.iiitassam.ac.in/faculty/cse,1,queued,

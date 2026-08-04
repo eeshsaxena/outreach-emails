@@ -1,2 +1,4 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Rajesh K,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,rajesh@rguktrkv.ac.in,"Machine Learning, Computer Vision",https://rguktrkv.ac.in/Academics/faculty/cse,1,queued,
+Suresh Babu P,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,sureshbabu@rguktrkv.ac.in,"Wireless Sensor Networks, IoT",https://rguktrkv.ac.in/Academics/faculty/cse,1,queued,
+Madhavi Devi M,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,madhavi@rguktrkv.ac.in,"Data Mining, Big Data, Deep Learning",https://rguktrkv.ac.in/Academics/faculty/cse,1,queued,

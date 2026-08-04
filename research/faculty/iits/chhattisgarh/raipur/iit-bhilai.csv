@@ -2,3 +2,7 @@ name,state,city,institute,institute_type,department,email,research_area,personal
 Renu Rameshan,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,renu@iitbhilai.ac.in,"Computer Vision, Image Processing",https://www.iitbhilai.ac.in/faculty/renu,1,queued,
 Saurabh Tiwari,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,stiwari@iitbhilai.ac.in,"Machine Learning, Data Mining",https://www.iitbhilai.ac.in/faculty/stiwari,1,queued,
 Shailendra Jain,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,sjain@iitbhilai.ac.in,"Networks, Security",https://www.iitbhilai.ac.in/faculty/sjain,1,queued,
+administration@iitbhilai.ac.in,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,administration@iitbhilai.ac.in,,,1,queued,
+Santosh Kumar Vishvakarma,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,skvishvakarma@iitbhilai.ac.in,"VLSI, Embedded Systems, IoT",https://www.iitbhilai.ac.in/index.php?pid=skvishvakarma,1,queued,
+Saurabh Shukla,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,shukla@iitbhilai.ac.in,"Compilers, Program Analysis",https://www.iitbhilai.ac.in/index.php?pid=shukla,1,queued,
+Priyanka Harjule,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,pharjule@iitbhilai.ac.in,"Deep Learning, Medical AI, NLP",https://www.iitbhilai.ac.in/index.php?pid=pharjule,1,queued,

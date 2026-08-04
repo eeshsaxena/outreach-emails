@@ -1,2 +1,5 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 John P. Sahoo,kerala,kottayam,IIIT Kottayam,IIIT,CSE,john@iiitkottayam.ac.in,"Machine Learning, Cloud Computing",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Jeny Rajan,kerala,kottayam,IIIT Kottayam,IIIT,CSE,jeny@iiitkottayam.ac.in,"Medical Image Processing, Computer Vision",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Rafeeque P C,kerala,kottayam,IIIT Kottayam,IIIT,CSE,rafeeque@iiitkottayam.ac.in,"Information Security, Network Security",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Aneesh Krishna,kerala,kottayam,IIIT Kottayam,IIIT,CSE,aneesh@iiitkottayam.ac.in,"Software Engineering, Formal Methods",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,

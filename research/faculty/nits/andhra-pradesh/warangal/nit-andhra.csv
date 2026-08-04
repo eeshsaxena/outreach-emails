@@ -1,3 +1,6 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Lalitha Bhavani S,andhra-pradesh,tadepalligudem,NIT Andhra Pradesh,NIT,CSE,lalitha@nitandhra.ac.in,"Machine Learning, NLP, Data Analytics",https://nitandhra.ac.in/main/content/faculty_cse,1,queued,
 Prashant Mukherjee,andhra-pradesh,tadepalligudem,NIT Andhra Pradesh,NIT,CSE,prashant@nitandhra.ac.in,"Distributed Systems, Cloud Computing",https://nitandhra.ac.in/main/content/faculty_cse,1,queued,
+Anuradha Banerjee,andhra-pradesh,tadepalligudem,NIT Andhra Pradesh,NIT,CSE,anuradha@nitandhra.ac.in,"Wireless Sensor Networks, IoT, Image Processing",https://nitandhra.ac.in/main/content/faculty_cse,1,queued,
+Debabrata Swain,andhra-pradesh,tadepalligudem,NIT Andhra Pradesh,NIT,CSE,dswain@nitandhra.ac.in,"Machine Learning, Pattern Recognition",https://nitandhra.ac.in/main/content/faculty_cse,1,queued,
+Saroj Kumar Panigrahy,andhra-pradesh,tadepalligudem,NIT Andhra Pradesh,NIT,CSE,skpanigrahy@nitandhra.ac.in,"Image Steganography, Watermarking, Security",https://nitandhra.ac.in/main/content/faculty_cse,1,queued,

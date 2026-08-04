@@ -2,3 +2,6 @@ name,state,city,institute,institute_type,department,email,research_area,personal
 Clint P. George,goa,ponda,IIT Goa,IIT,CSE,clint@iitgoa.ac.in,"Machine Learning, Statistical Learning",https://www.iitgoa.ac.in/faculty/clint,1,queued,
 Sameer Kulkarni,goa,ponda,IIT Goa,IIT,CSE,sameer@iitgoa.ac.in,"Computer Networks, SDN, Security",https://www.iitgoa.ac.in/faculty/sameer,1,queued,
 Vineeth Paleri,goa,ponda,IIT Goa,IIT,CSE,vineeth@iitgoa.ac.in,"Compilers, Formal Methods, Program Analysis",https://www.iitgoa.ac.in/faculty/vineeth,1,queued,
+Rahul Gupta,goa,ponda,IIT Goa,IIT,CSE,rahulgupta@iitgoa.ac.in,"Program Synthesis, Deep Learning for Code",https://www.iitgoa.ac.in/rahulgupta,1,queued,
+Anand S Abhyankar,goa,ponda,IIT Goa,IIT,CSE,ananda@iitgoa.ac.in,"Computer Vision, Biometrics",https://www.iitgoa.ac.in/ananda,1,queued,
+Piyush Rai,goa,ponda,IIT Goa,IIT,CSE,piyush@iitgoa.ac.in,"Bayesian ML, Generative Models",https://www.iitgoa.ac.in/piyush,1,queued,

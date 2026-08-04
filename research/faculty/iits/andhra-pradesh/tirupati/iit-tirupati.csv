@@ -2,3 +2,6 @@ name,state,city,institute,institute_type,department,email,research_area,personal
 Ankit Mondal,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,ankitm@iittp.ac.in,"Networks, Distributed Systems",https://www.iittp.ac.in/faculty/ankitm,1,queued,
 Aruna Malapati,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,aruna@iittp.ac.in,"Machine Learning, NLP, Text Mining",https://www.iittp.ac.in/faculty/aruna,1,queued,
 Rekha Singhal,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,rekha@iittp.ac.in,"Distributed Systems, Cloud, IoT",https://www.iittp.ac.in/faculty/rekha,1,queued,
+Soumya Jana,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,soumyajana@iittp.ac.in,"Computer Vision, Deep Learning",https://www.iittp.ac.in/soumyajana,1,queued,
+Prasanna Mishra,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,prasanna@iittp.ac.in,"Algorithms, Complexity Theory",https://www.iittp.ac.in/prasanna,1,queued,
+Rajesh Singla,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,rajeshsingla@iittp.ac.in,"Wireless Networks, Embedded Systems",https://www.iittp.ac.in/rajeshsingla,1,queued,

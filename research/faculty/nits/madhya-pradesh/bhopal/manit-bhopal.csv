@@ -2,3 +2,6 @@ name,state,city,institute,institute_type,department,email,research_area,personal
 Deepak Singh Tomar,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,dstomar@manit.ac.in,"Machine Learning, Neural Networks, Data Mining",https://www.manit.ac.in/content/deepak-singh-tomar,1,queued,
 Rekha Pandit,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,rekha@manit.ac.in,"Computer Vision, Image Processing",https://www.manit.ac.in/content/rekha-pandit,1,queued,
 Sanjay Silakari,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,ssilakari@manit.ac.in,"Data Mining, Machine Learning, Cloud Computing",https://www.manit.ac.in/content/sanjay-silakari,1,queued,
+Vivek Jaglan,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,vjaglan@manit.ac.in,"Wireless Networks, QoS, Scheduling",https://www.manit.ac.in/content/vivek-jaglan,1,queued,
+Kamal Kumar Sharma,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,kksharma@manit.ac.in,"Signal Processing, Image Analysis",https://www.manit.ac.in/content/kamal-sharma,1,queued,
+Aditya Trivedi,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,atrivedi@manit.ac.in,"Cryptography, Network Security, Blockchain",https://www.manit.ac.in/content/aditya-trivedi,1,queued,

@@ -1,2 +1,4 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Arnab Sarkar,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,arnab@iitg.ac.in,"Machine Learning, Signal Processing",https://www.iitg.ac.in/arnab,1,queued,Operates out of IIT Guwahati temporarily
+Bhogeswar Borah,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,bogesh@iitg.ac.in,"Data Mining, Bioinformatics",https://www.iitg.ac.in/bogesh,2,queued,Coordinates with NE campus
+Diganta Goswami,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,dgoswami@iitg.ac.in,"Real-Time Systems, Embedded Computing",https://www.iitg.ac.in/dgoswami,2,queued,

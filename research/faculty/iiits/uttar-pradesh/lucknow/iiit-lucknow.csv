@@ -1,3 +1,5 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Rohit Agarwal,uttar-pradesh,lucknow,IIIT Lucknow,IIIT,CSE,rohit@iiitl.ac.in,"Machine Learning, Computer Vision",https://www.iiitl.ac.in/faculty/cse,1,queued,
 Anand Singh Jalal,uttar-pradesh,lucknow,IIIT Lucknow,IIIT,CSE,anandjalal@iiitl.ac.in,"Computer Vision, Biometrics, Image Processing",https://www.iiitl.ac.in/faculty/cse,1,queued,
+Saumya Bhadauria,uttar-pradesh,lucknow,IIIT Lucknow,IIIT,CSE,saumya@iiitl.ac.in,"Steganography, Watermarking, Security",https://www.iiitl.ac.in/faculty/cse,1,queued,
+Mukesh Prasad,uttar-pradesh,lucknow,IIIT Lucknow,IIIT,CSE,mukesh@iiitl.ac.in,"Deep Learning, Brain-Computer Interface",https://www.iiitl.ac.in/faculty/cse,1,queued,

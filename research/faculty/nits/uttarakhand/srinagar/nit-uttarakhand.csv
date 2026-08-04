@@ -1,2 +1,5 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Harish Kumar Shakya,uttarakhand,srinagar,NIT Uttarakhand,NIT,CSE,hkshakya@nituk.ac.in,"Software Engineering, Machine Learning",https://www.nituk.ac.in/faculty/cse,1,queued,
+Poonam Verma,uttarakhand,srinagar,NIT Uttarakhand,NIT,CSE,pverma@nituk.ac.in,"Soft Computing, Pattern Recognition",https://www.nituk.ac.in/faculty/cse,1,queued,
+Yashwant Singh,uttarakhand,srinagar,NIT Uttarakhand,NIT,CSE,ysingh@nituk.ac.in,"Distributed Systems, Cloud Computing",https://www.nituk.ac.in/faculty/cse,1,queued,
+Bhupender Kumar,uttarakhand,srinagar,NIT Uttarakhand,NIT,CSE,bkumar@nituk.ac.in,"Computer Networks, Security Protocols",https://www.nituk.ac.in/faculty/cse,1,queued,

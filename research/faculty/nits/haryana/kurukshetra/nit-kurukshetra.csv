@@ -2,3 +2,6 @@ name,state,city,institute,institute_type,department,email,research_area,personal
 Anil Saini,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,anilsaini@nitkkr.ac.in,"Computer Vision, Image Processing, Deep Learning",https://nitkkr.ac.in/faculty/cse,1,queued,
 Pawan Kumar Dahiya,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,pkdahiya@nitkkr.ac.in,"Network Security, Cryptography, IoT",https://nitkkr.ac.in/faculty/cse,1,queued,
 Shailendra Singh,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,ssingh@nitkkr.ac.in,"Machine Learning, Big Data, Algorithms",https://nitkkr.ac.in/faculty/cse,1,queued,
+Dinesh Kumar,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,dinesh@nitkkr.ac.in,"Parallel Computing, HPC, Grid Computing",https://nitkkr.ac.in/faculty/cse,1,queued,
+Harish Kumar,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,hkumar@nitkkr.ac.in,"Bioinformatics, Pattern Recognition",https://nitkkr.ac.in/faculty/cse,1,queued,
+Kamna Solanki,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,kamna@nitkkr.ac.in,"Software Engineering, Testing, Metrics",https://nitkkr.ac.in/faculty/cse,1,queued,

@@ -1,3 +1,5 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Ch. Srinivasa Rao,telangana,basar,IIIT Basar,IIIT,CSE,csrao@rgukt.ac.in,"Machine Learning, Data Mining",https://rgukt.ac.in/academics/faculty,1,queued,
 V. Ravi Kumar,telangana,basar,IIIT Basar,IIIT,CSE,ravikumar@rgukt.ac.in,"Embedded Systems, IoT",https://rgukt.ac.in/academics/faculty,1,queued,
+A. Govardhan,telangana,basar,IIIT Basar,IIIT,CSE,govardhan@rgukt.ac.in,"Data Warehousing, Web Mining",https://rgukt.ac.in/academics/faculty,1,queued,
+R. Bhramaramba,telangana,basar,IIIT Basar,IIIT,CSE,bhramaramba@rgukt.ac.in,"Knowledge Discovery, Deep Learning",https://rgukt.ac.in/academics/faculty,1,queued,
