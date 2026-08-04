@@ -2,3 +2,13 @@ name,state,city,institute,institute_type,department,email,research_area,personal
 Arnab Sarkar,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,arnab@iitg.ac.in,"Machine Learning, Signal Processing",https://www.iitg.ac.in/arnab,1,queued,Operates out of IIT Guwahati temporarily
 Bhogeswar Borah,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,bogesh@iitg.ac.in,"Data Mining, Bioinformatics",https://www.iitg.ac.in/bogesh,2,queued,Coordinates with NE campus
 Diganta Goswami,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,dgoswami@iitg.ac.in,"Real-Time Systems, Embedded Computing",https://www.iitg.ac.in/dgoswami,2,queued,
+Pinku Ranjan,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,pinku@iitg.ac.in,"Computer Networks, Sensor Networks",https://iitg.ac.in/pinku,2,queued,
+Priyankoo Sarmah,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,priyankoo@iitg.ac.in,Speech and Language Processing,https://iitg.ac.in/priyankoo,2,queued,
+Rashmi Dutta Baruah,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,rashmidb@iitg.ac.in,"Machine Learning, Neural Networks, Robotics",https://iitg.ac.in/rashmidb,2,queued,
+Sushanta Karmakar,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,skarmakar@iitg.ac.in,"Algorithms, Graph Theory, Combinatorics",https://iitg.ac.in/skarmakar,2,queued,
+Kaushik Dutta,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,kdutta@iitg.ac.in,"Distributed Databases, Cloud Computing",https://iitg.ac.in/kdutta,2,queued,
+Malaya Kumar Nath,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,malayakn@iitg.ac.in,"Image Processing, Biomedical Imaging",https://iitg.ac.in/malayakn,2,queued,
+Prabin Kumar Bora,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,pkb@iitg.ac.in,"Signal Processing, Video Coding",https://iitg.ac.in/pkb,2,queued,
+Arijit Sinha,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,arijit@iitg.ac.in,"Computer Vision, Medical Image Analysis",https://iitg.ac.in/arijit,2,queued,
+Deepak Gupta,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,deepakg@iitg.ac.in,"NLP, Information Retrieval, Social Media",https://iitg.ac.in/deepakg,2,queued,
+Krisna Nath,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,knath@iitg.ac.in,"Parallel Computing, HPC",https://iitg.ac.in/knath,2,queued,
