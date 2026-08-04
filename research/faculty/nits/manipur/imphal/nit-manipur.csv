@@ -1,3 +1,11 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Hironmoy Roy,manipur,imphal,NIT Manipur,NIT,CSE,hironmoy@nitmanipur.ac.in,"Network Security, Cryptography",https://www.nitmanipur.ac.in/faculty/cse,1,queued,
 Salam Priyokumar Singh,manipur,imphal,NIT Manipur,NIT,CSE,priyokumar@nitmanipur.ac.in,"Algorithms, Machine Learning",https://www.nitmanipur.ac.in/faculty/cse,1,queued,
+Meenakshi Sharma,manipur,imphal,NIT Manipur,NIT,CSE,meenakshi@nitmanipur.ac.in,"Soft Computing, Fuzzy Logic",https://www.nitmanipur.ac.in/faculty/cse,1,queued,
+Ngangbam Phalguni Singh,manipur,imphal,NIT Manipur,NIT,CSE,nphalguni@nitmanipur.ac.in,"Image Processing, Pattern Recognition",https://www.nitmanipur.ac.in/faculty/cse,1,queued,
+Rakesh Kumar Tiwari,manipur,imphal,NIT Manipur,NIT,CSE,rktiwari@nitmanipur.ac.in,"Computer Networks, IoT, Security",https://www.nitmanipur.ac.in/faculty/cse,1,queued,
+Th. Shanta Kumar Singh,manipur,imphal,NIT Manipur,NIT,CSE,thskumar@nitmanipur.ac.in,"Machine Learning, Data Mining",https://nitmanipur.ac.in/cse,1,queued,
+Khumukcham Robindro Singh,manipur,imphal,NIT Manipur,NIT,CSE,krobindro@nitmanipur.ac.in,"Algorithms, Bioinformatics",https://nitmanipur.ac.in/cse,1,queued,
+Ranita Khumukcham,manipur,imphal,NIT Manipur,NIT,CSE,ranita@nitmanipur.ac.in,"Computer Vision, Feature Extraction",https://nitmanipur.ac.in/cse,1,queued,
+Pao Lam Chanu,manipur,imphal,NIT Manipur,NIT,CSE,paolam@nitmanipur.ac.in,"Deep Learning, NLP, Language Models",https://nitmanipur.ac.in/cse,1,queued,
+Romesh Laishram,manipur,imphal,NIT Manipur,NIT,CSE,romesh@nitmanipur.ac.in,"Cloud Computing, Virtualization",https://nitmanipur.ac.in/cse,1,queued,

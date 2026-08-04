@@ -1,2 +1,11 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Satya Pranav P,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,satya@rguktn.ac.in,"Distributed Systems, Networks",https://rguktn.ac.in/academics/faculty/cse,1,queued,
+Subhash Chandra Satapathy,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,scsat@rguktn.ac.in,"Machine Learning, Swarm Intelligence",https://rguktn.ac.in/academics/faculty/cse,1,queued,
+Venkateswara Rao M,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,vrao@rguktn.ac.in,"Image Processing, Pattern Recognition",https://rguktn.ac.in/academics/faculty/cse,1,queued,
+Prasad Reddy P.V.G.D,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,pvgdpr@rguktn.ac.in,"Big Data Analytics, Hadoop, Spark",https://rguktn.ac.in/cse,1,queued,
+N. Rajesh Kumar,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,nrk@rguktn.ac.in,"Computer Networks, Security",https://rguktn.ac.in/cse,1,queued,
+S. Phani Kumar,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,spk@rguktn.ac.in,"Soft Computing, Evolutionary Algorithms",https://rguktn.ac.in/cse,1,queued,
+B. Suresh Kumar,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,bskumar@rguktn.ac.in,"Database Systems, Data Warehousing",https://rguktn.ac.in/cse,1,queued,
+G. Nageswara Rao,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,gnrao@rguktn.ac.in,"Object-Oriented Systems, Design Patterns",https://rguktn.ac.in/cse,1,queued,
+V. Vijaya Kumar,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,vvk@rguktn.ac.in,"Medical Image Processing, Telemedicine",https://rguktn.ac.in/cse,1,queued,
+T. Madhu,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,tmadhu@rguktn.ac.in,"Embedded Systems, Real-time Computing",https://rguktn.ac.in/cse,1,queued,

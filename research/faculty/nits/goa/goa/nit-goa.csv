@@ -1,3 +1,12 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Uma Mudenagudi,goa,goa,NIT Goa,NIT,CSE,uma@nitgoa.ac.in,"Computer Vision, Machine Learning",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
 Veeresh Gupta,goa,goa,NIT Goa,NIT,CSE,veeresh@nitgoa.ac.in,"Distributed Systems, Networks",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
+Anil Kumar Naik,goa,goa,NIT Goa,NIT,CSE,anilkumar@nitgoa.ac.in,"Information Security, Cryptography",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
+Prachee Patil,goa,goa,NIT Goa,NIT,CSE,prachee@nitgoa.ac.in,"Database Systems, Data Mining",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
+Haridas S,goa,goa,NIT Goa,NIT,CSE,haridas@nitgoa.ac.in,"Machine Learning, Big Data Analytics",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
+Sheetal Rathi,goa,goa,NIT Goa,NIT,CSE,sheetal@nitgoa.ac.in,"Software Engineering, AI, Cloud Computing",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
+Vijay Ukani,goa,goa,NIT Goa,NIT,CSE,vijay@nitgoa.ac.in,"Natural Language Processing, Web Mining",https://nitgoa.ac.in/cse,1,queued,
+Reena Monica P,goa,goa,NIT Goa,NIT,CSE,reena@nitgoa.ac.in,"Computer Vision, Healthcare AI",https://nitgoa.ac.in/cse,1,queued,
+Mangesh Bedekar,goa,goa,NIT Goa,NIT,CSE,mangesh@nitgoa.ac.in,"Algorithms, Complexity, Combinatorics",https://nitgoa.ac.in/cse,1,queued,
+Shridhar Devamane,goa,goa,NIT Goa,NIT,CSE,shridhar@nitgoa.ac.in,"Cloud Computing, Big Data, Hadoop",https://nitgoa.ac.in/cse,1,queued,
+Srinath Doss,goa,goa,NIT Goa,NIT,CSE,srinath@nitgoa.ac.in,"Cybersecurity, Blockchain, Privacy",https://nitgoa.ac.in/cse,1,queued,

@@ -1,2 +1,13 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Rajesh K,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,rajesh@rguktrkv.ac.in,"Machine Learning, Computer Vision",https://rguktrkv.ac.in/Academics/faculty/cse,1,queued,
+Suresh Babu P,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,sureshbabu@rguktrkv.ac.in,"Wireless Sensor Networks, IoT",https://rguktrkv.ac.in/Academics/faculty/cse,1,queued,
+Madhavi Devi M,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,madhavi@rguktrkv.ac.in,"Data Mining, Big Data, Deep Learning",https://rguktrkv.ac.in/Academics/faculty/cse,1,queued,
+P. Venkata Subba Reddy,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,pvsr@rguktrkv.ac.in,"Graph Theory, Algorithms",https://rguktrkv.ac.in/cse,1,queued,
+K. Sai Prasad,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,ksaiprasad@rguktrkv.ac.in,"Network Security, Intrusion Detection",https://rguktrkv.ac.in/cse,1,queued,
+T. Ravi Kumar,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,trk@rguktrkv.ac.in,"Computer Vision, Object Detection",https://rguktrkv.ac.in/cse,1,queued,
+V. Ravi Sankar,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,vrs@rguktrkv.ac.in,"Software Engineering, Testing",https://rguktrkv.ac.in/cse,1,queued,
+B. Srinivasa Rao,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,bsrao@rguktrkv.ac.in,"Cloud Computing, Distributed Systems",https://rguktrkv.ac.in/cse,1,queued,
+M. Padmavathamma,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,mpadma@rguktrkv.ac.in,"Cryptography, Digital Signatures",https://rguktrkv.ac.in/cse,1,queued,
+A. Ramamurthy,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,aramu@rguktrkv.ac.in,"Deep Learning, Autonomous Systems",https://rguktrkv.ac.in/cse,1,queued,
+D. Evangelin Geetha,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,devangelin@rguktrkv.ac.in,"Software Testing, Quality Assurance",https://rguktrkv.ac.in/cse,1,queued,
+T. V. Gireesh Kumar,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,tvgkumar@rguktrkv.ac.in,"Distributed Databases, Cloud Storage",https://rguktrkv.ac.in/cse,1,queued,

@@ -1,2 +1,11 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Sushanta Kumar Sahu,tripura,agartala,IIIT Agartala,IIIT,CSE,sksahu@iiitagartala.ac.in,"Machine Learning, Pattern Recognition",https://www.iiitagartala.ac.in/faculty/cse,1,queued,
+Rajesh Bose,tripura,agartala,IIIT Agartala,IIIT,CSE,rajeshbose@iiitagartala.ac.in,"Network Security, Cryptography",https://www.iiitagartala.ac.in/faculty/cse,1,queued,
+Sandip Dutta,tripura,agartala,IIIT Agartala,IIIT,CSE,sandip@iiitagartala.ac.in,"Signal Processing, Deep Learning",https://www.iiitagartala.ac.in/faculty/cse,1,queued,
+Pintu Chandra Shill,tripura,agartala,IIIT Agartala,IIIT,CSE,pintu@iiitagartala.ac.in,"Evolutionary Computation, Multi-obj Optimization",https://iiitagartala.ac.in/cse,1,queued,
+Sujoy Chatterjee,tripura,agartala,IIIT Agartala,IIIT,CSE,sujoy@iiitagartala.ac.in,"Computer Vision, Action Recognition",https://iiitagartala.ac.in/cse,1,queued,
+Suparna Biswas,tripura,agartala,IIIT Agartala,IIIT,CSE,suparna@iiitagartala.ac.in,"Wireless Networks, Smart Grid, IoT",https://iiitagartala.ac.in/cse,1,queued,
+Subrata Dutta,tripura,agartala,IIIT Agartala,IIIT,CSE,subratad@iiitagartala.ac.in,"Software Engineering, DevOps, Testing",https://iiitagartala.ac.in/cse,1,queued,
+Ratan Kumar Ghosh,tripura,agartala,IIIT Agartala,IIIT,CSE,rkghosh@iiitagartala.ac.in,"Algorithms, Distributed Computing",https://iiitagartala.ac.in/cse,1,queued,
+Gouranga Saha,tripura,agartala,IIIT Agartala,IIIT,CSE,gsaha@iiitagartala.ac.in,"Machine Learning, Bioinformatics",https://iiitagartala.ac.in/cse,1,queued,
+Anirban Sarkar,tripura,agartala,IIIT Agartala,IIIT,CSE,asarkar@iiitagartala.ac.in,"Object-Oriented Modeling, UML",https://iiitagartala.ac.in/cse,1,queued,

@@ -1,3 +1,13 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Dhanesh Ramachandram,kerala,palakkad,IIT Palakkad,IIT,CSE,dhanesh@iitpkd.ac.in,"Deep Learning, Computer Vision, Robotics",https://iitpkd.ac.in/people/dhanesh,1,queued,
 Sobhan Babu Cherukuri,kerala,palakkad,IIT Palakkad,IIT,CSE,sobhan@iitpkd.ac.in,"Machine Learning, Optimization",https://iitpkd.ac.in/people/sobhan,1,queued,
+Manoj Gupta,kerala,palakkad,IIT Palakkad,IIT,CSE,manojg@iitpkd.ac.in,"Algorithms, Graph Theory, Data Structures",https://iitpkd.ac.in/people/manojg,1,queued,
+Nithin V George,kerala,palakkad,IIT Palakkad,IIT,CSE,nithin@iitpkd.ac.in,"Adaptive Signal Processing, Neural Networks",https://iitpkd.ac.in/people/nithin,1,queued,
+Krishnakumar Menon,kerala,palakkad,IIT Palakkad,IIT,CSE,krishna@iitpkd.ac.in,"Security, Cryptography, Privacy",https://iitpkd.ac.in/people/krishna,1,queued,
+Shamik Sural,kerala,palakkad,IIT Palakkad,IIT,CSE,shamik@iitpkd.ac.in,"Data Mining, Access Control, Security",https://iitpkd.ac.in/people/shamik,1,queued,
+Pramod Gaur,kerala,palakkad,IIT Palakkad,IIT,CSE,pramod@iitpkd.ac.in,"Brain-Computer Interface, EEG, Deep Learning",https://iitpkd.ac.in/people/pramod,1,queued,
+Subrahmanyam Kalyanasundaram,kerala,palakkad,IIT Palakkad,IIT,CSE,kalyana@iitpkd.ac.in,"Combinatorics, Graph Theory, Computational Biology",https://iitpkd.ac.in/people/kalyana,1,queued,
+Jasine Babu,kerala,palakkad,IIT Palakkad,IIT,CSE,jasine@iitpkd.ac.in,"Graph Algorithms, Approximation Algorithms",https://iitpkd.ac.in/people/jasine,1,queued,
+Srimanta Mandal,kerala,palakkad,IIT Palakkad,IIT,CSE,smandal@iitpkd.ac.in,"Combinatorics, Algorithms, Information Theory",https://iitpkd.ac.in/people/smandal,1,queued,
+Prabuchandran K J,kerala,palakkad,IIT Palakkad,IIT,CSE,prabuc@iitpkd.ac.in,"Reinforcement Learning, Stochastic Systems",https://iitpkd.ac.in/people/prabuc,1,queued,
+Bheemarjuna Reddy Tamma,kerala,palakkad,IIT Palakkad,IIT,CSE,btamma@iitpkd.ac.in,"Wireless Networks, 5G, Network Slicing",https://iitpkd.ac.in/people/btamma,1,queued,

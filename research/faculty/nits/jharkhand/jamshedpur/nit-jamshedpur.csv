@@ -1,3 +1,11 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Anand Mohan,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,anandmohan@nitjsr.ac.in,"Machine Learning, Image Processing",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
 Hari Mohan Pandey,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,hmpandey@nitjsr.ac.in,"Evolutionary Algorithms, Optimization, Bio-inspired Computing",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Prabhat Kumar,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,prabhat@nitjsr.ac.in,"Security, Cloud Computing, IoT",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Rajeev Srivastava,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,rajeevsri@nitjsr.ac.in,"Computer Vision, Image Analysis, Medical AI",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Binod Kumar,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,binod@nitjsr.ac.in,"Distributed Systems, Ad hoc Networks",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Arun Kumar Yadav,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,akyadavcs@nitjsr.ac.in,"Wireless Sensor Networks, Routing Protocols",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Md. Iftekhar Hussain,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,miftekhar@nitjsr.ac.in,"Software Engineering, Agile, Testing",https://nitjsr.ac.in/cs,1,queued,
+Nirmal Kumar Gupta,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,nkgupta@nitjsr.ac.in,"Parallel Algorithms, Computational Intelligence",https://nitjsr.ac.in/cs,1,queued,
+Subodh Wairya,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,swairya@nitjsr.ac.in,"VLSI Circuit Design, Low Power Design",https://nitjsr.ac.in/cs,1,queued,
+Chhabi Rani Panigrahi,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,crpanigrahi@nitjsr.ac.in,"Cloud Computing, Green Computing",https://nitjsr.ac.in/cs,1,queued,

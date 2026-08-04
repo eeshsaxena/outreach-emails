@@ -1,2 +1,11 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 John P. Sahoo,kerala,kottayam,IIIT Kottayam,IIIT,CSE,john@iiitkottayam.ac.in,"Machine Learning, Cloud Computing",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Jeny Rajan,kerala,kottayam,IIIT Kottayam,IIIT,CSE,jeny@iiitkottayam.ac.in,"Medical Image Processing, Computer Vision",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Rafeeque P C,kerala,kottayam,IIIT Kottayam,IIIT,CSE,rafeeque@iiitkottayam.ac.in,"Information Security, Network Security",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Aneesh Krishna,kerala,kottayam,IIIT Kottayam,IIIT,CSE,aneesh@iiitkottayam.ac.in,"Software Engineering, Formal Methods",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Supriya M H,kerala,kottayam,IIIT Kottayam,IIIT,CSE,supriya@iiitkottayam.ac.in,"Cloud Computing, Green Computing",https://iiitkottayam.ac.in/cse,1,queued,
+Sreehari Hari P,kerala,kottayam,IIIT Kottayam,IIIT,CSE,sreehari@iiitkottayam.ac.in,"Machine Learning, Predictive Analytics",https://iiitkottayam.ac.in/cse,1,queued,
+Arun Das,kerala,kottayam,IIIT Kottayam,IIIT,CSE,arun@iiitkottayam.ac.in,"NLP, Multilingual NLP, Low-resource Languages",https://iiitkottayam.ac.in/cse,1,queued,
+Sreekanth P,kerala,kottayam,IIIT Kottayam,IIIT,CSE,sreekanth@iiitkottayam.ac.in,"IoT, Edge Intelligence, Smart Systems",https://iiitkottayam.ac.in/cse,1,queued,
+Krishnashree Achuthan,kerala,kottayam,IIIT Kottayam,IIIT,CSE,krishnashree@iiitkottayam.ac.in,"Cyber Security, Vulnerability Analysis",https://iiitkottayam.ac.in/cse,1,queued,
+Supriya M H,kerala,kottayam,IIIT Kottayam,IIIT,CSE,supriyamh@iiitkottayam.ac.in,"Cloud Computing, Green Computing",https://iiitkottayam.ac.in/cse,1,queued,

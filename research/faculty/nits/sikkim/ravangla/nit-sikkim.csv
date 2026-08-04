@@ -1,3 +1,11 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 Utpal Nandi,sikkim,ravangla,NIT Sikkim,NIT,CSE,utpal@nitsikkim.ac.in,"Machine Learning, Deep Learning",https://www.nitsikkim.ac.in/faculty/cse,1,queued,
 Debarka Sengupta,sikkim,ravangla,NIT Sikkim,NIT,CSE,debarka@nitsikkim.ac.in,"Bioinformatics, Computational Biology",https://www.nitsikkim.ac.in/faculty/cse,1,queued,
+Samarjit Kar,sikkim,ravangla,NIT Sikkim,NIT,CSE,skar@nitsikkim.ac.in,"Fuzzy Optimization, Multi-objective Problems",https://nitsikkim.ac.in/cse,1,queued,
+Arnab Bhattacharya,sikkim,ravangla,NIT Sikkim,NIT,CSE,abhattacharya@nitsikkim.ac.in,"Databases, Spatio-temporal Data, Data Mining",https://nitsikkim.ac.in/cse,1,queued,
+Soumya Ranjan Nayak,sikkim,ravangla,NIT Sikkim,NIT,CSE,srnayak@nitsikkim.ac.in,"Computer Vision, Fractal Analysis",https://nitsikkim.ac.in/cse,1,queued,
+Lalremruata Hmar,sikkim,ravangla,NIT Sikkim,NIT,CSE,lhmar@nitsikkim.ac.in,"Networks, IoT, Embedded Systems",https://nitsikkim.ac.in/cse,1,queued,
+Santosh Biswas,sikkim,ravangla,NIT Sikkim,NIT,CSE,sbiswas@nitsikkim.ac.in,"Formal Verification, Model Checking",https://nitsikkim.ac.in/cse,1,queued,
+Subarna Shakya,sikkim,ravangla,NIT Sikkim,NIT,CSE,sshakya@nitsikkim.ac.in,"Blockchain, Cloud, Big Data",https://nitsikkim.ac.in/cse,1,queued,
+Birendra Kumar Sharma,sikkim,ravangla,NIT Sikkim,NIT,CSE,bksharma@nitsikkim.ac.in,"Information Security, Steganography",https://nitsikkim.ac.in/cse,1,queued,
+Puja Kumari Gupta,sikkim,ravangla,NIT Sikkim,NIT,CSE,pkgupta@nitsikkim.ac.in,"Software Testing, Quality Assurance",https://nitsikkim.ac.in/cse,1,queued,

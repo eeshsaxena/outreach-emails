@@ -1,2 +1,11 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
 K. Hemanta Kumar Singh,manipur,imphal,IIIT Manipur,IIIT,CSE,hemanta@iiitmanipur.ac.in,"Computer Networks, Machine Learning",https://www.iiitmanipur.ac.in/faculties/cse,1,queued,
+Khumanthem Manglem Singh,manipur,imphal,IIIT Manipur,IIIT,CSE,manglem@iiitmanipur.ac.in,"Image Processing, Digital Watermarking",https://www.iiitmanipur.ac.in/faculties/cse,1,queued,
+Wahengbam Kanan Kumar,manipur,imphal,IIIT Manipur,IIIT,CSE,kanan@iiitmanipur.ac.in,"Deep Learning, Computer Vision",https://www.iiitmanipur.ac.in/faculties/cse,1,queued,
+Rajkumar Rajendran,manipur,imphal,IIIT Manipur,IIIT,CSE,rajkumar@iiitmanipur.ac.in,"Data Mining, Pattern Recognition",https://iiitmanipur.ac.in/cse,1,queued,
+Chungkham Dhanachandra Singh,manipur,imphal,IIIT Manipur,IIIT,CSE,cdhana@iiitmanipur.ac.in,"Image Segmentation, Clustering",https://iiitmanipur.ac.in/cse,1,queued,
+Laishram Shyam Sundar Meitei,manipur,imphal,IIIT Manipur,IIIT,CSE,lssm@iiitmanipur.ac.in,"NLP, Low-resource Language Processing",https://iiitmanipur.ac.in/cse,1,queued,
+Surchita Rawat,manipur,imphal,IIIT Manipur,IIIT,CSE,srawat@iiitmanipur.ac.in,"Networks, IoT, Edge Computing",https://iiitmanipur.ac.in/cse,1,queued,
+Aheibam Dinamani Singh,manipur,imphal,IIIT Manipur,IIIT,CSE,adinamani@iiitmanipur.ac.in,"Machine Translation, Computational Linguistics",https://iiitmanipur.ac.in/cse,1,queued,
+Koijam Sanatomba Meitei,manipur,imphal,IIIT Manipur,IIIT,CSE,ksanatomba@iiitmanipur.ac.in,"Soft Computing, Fuzzy Systems",https://iiitmanipur.ac.in/cse,1,queued,
+Moirangthem Dennis Singh,manipur,imphal,IIIT Manipur,IIIT,CSE,mdennis@iiitmanipur.ac.in,"Deep Learning, Visual Question Answering",https://iiitmanipur.ac.in/cse,1,queued,
