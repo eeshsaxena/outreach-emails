@@ -3,7 +3,8 @@
 
 Checks that every research faculty CSV, plus faculty_master.csv and the research
 dead_removed.csv, carries the canonical schema header, and that any populated
-institute_type value is one of IIT / NIT / IIIT. Exits non-zero on any problem so
+institute_type value is one of IIT / NIT / IIIT / IISc / IISER / BITS. Exits
+non-zero on any problem so
 CI fails loudly instead of letting a malformed row into the dataset.
 
 Usage:
@@ -23,7 +24,7 @@ FACULTY_HEADER = [
     "department", "email", "research_area", "personal_site",
     "priority", "status", "notes",
 ]
-VALID_TYPES = {"IIT", "NIT", "IIIT"}
+VALID_TYPES = {"IIT", "NIT", "IIIT", "IISc", "IISER", "BITS"}
 
 errors = []
 
