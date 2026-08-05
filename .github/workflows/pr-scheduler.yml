@@ -51,8 +51,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "princedubey45"
-          git config user.email "princedubey01011@gmail.com"
+          git config user.name "eeshsaxena"
+          git config user.email "eeshsaxena@gmail.com"
 
           STATUS=$(git status --porcelain)
           if [ -z "$STATUS" ]; then
@@ -70,6 +70,6 @@ jobs:
           gh pr create \
             --repo eeshsaxena/outreach-emails \
             --base master \
-            --head "princedubey45:${BRANCH_NAME}" \
+            --head "${BRANCH_NAME}" \
             --title "data(batch): daily city outreach email batch update for $(date +'%Y-%m-%d')" \
             --body "Automated daily outreach emails update for verified IT companies and academic institutions. Validated and deduplicated according to CONTRIBUTING.md guidelines." || echo "PR already open or created."
