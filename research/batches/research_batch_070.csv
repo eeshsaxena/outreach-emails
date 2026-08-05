@@ -1,0 +1,31 @@
+name,institute,institute_type,department,email,research_area,personal_site,priority,status,state,city,notes
+Rajesh Kedia,IIT Hyderabad,IIT,CSE,rkedia@cse.iith.ac.in,"Computer Architecture, Embedded Systems, VLSI Design Automation",https://iith.ac.in/~rkedia/,,queued,telangana,hyderabad,
+Rakesh Venkat,IIT Hyderabad,IIT,CSE,rakesh@cse.iith.ac.in,"Approximation Algorithms, Complexity Theory",http://www.iith.ac.in/~rakeshvenkat,,queued,telangana,hyderabad,
+Ramakrishna Upadrasta,IIT Hyderabad,IIT,CSE,ramakrishna@cse.iith.ac.in,"Programming Languages, Compiler Optimizations, Parallelizing Compilers, Program Optimizations, Static Analysis, Verification, Algorithms, Combinatorial Optimization, Theory of Algorithms",http://www.iith.ac.in/~ramakrishna/,,queued,telangana,hyderabad,
+Rogers Mathew,IIT Hyderabad,IIT,CSE,rogers@cse.iith.ac.in,"Combinatorics, Graph Theory, and Graph Algorithms.",https://iith.ac.in/~rogers/,,queued,telangana,hyderabad,
+Sathya Peri,IIT Hyderabad,IIT,CSE,sathya_p@cse.iith.ac.in,"Parallel Programming, Software Transactional Memory, Distributed Systems, Theory of Databases, Algorithm Analysis, Networking Algorithms",http://www.iith.ac.in/~sathya_p/,,queued,telangana,hyderabad,
+Saurabh kumar,IIT Hyderabad,IIT,CSE,saurabhkr@cse.iith.ac.in,"Cyber Security, Mobile Security, Cyber forensics and Malware Analysis.",https://skmtr1.github.io/,,queued,telangana,hyderabad,
+Shibam Ghosh,IIT Hyderabad,IIT,CSE,shibam@cse.iith.ac.in,"Design and cryptanalysis of symmetric-key cryptographic primitives and related areas,security analysis of cryptographic implementations and the practical aspects of cryptanalysis",https://shibamcrs.github.io/,,queued,telangana,hyderabad,
+Shirshendu Das,IIT Hyderabad,IIT,CSE,shirshendu@cse.iith.ac.in,"Computer Architecture, Hardware Security, and Emerging Memory Technologies..",https://sites.google.com/view/shirshendudas/home,,queued,telangana,hyderabad,
+Sobhan Babu,IIT Hyderabad,IIT,CSE,sobhan@cse.iith.ac.in,"Big Data Analytics, Graph Theory and Applied Algorithms",https://www.iith.ac.in/~sobhan/,,queued,telangana,hyderabad,
+Subrahmanyam Kalyanasundaram,IIT Hyderabad,IIT,CSE,subruk@cse.iith.ac.in,"Complexity Theory, Probabilistic Techniques, Algebra, Randomized Algorithms",http://www.iith.ac.in/~subruk/,,queued,telangana,hyderabad,
+Adithya Vadapalli,IIT Kanpur,IIT,CSE,avadapalli@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/avadapalli,,queued,uttar-pradesh,kanpur,Assistant Professor
+Amartya Sanyal,IIT Kanpur,IIT,CSE,asanyal@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/asanyal,,queued,uttar-pradesh,kanpur,Machine Learning
+Amey Karkare,IIT Kanpur,IIT,CSE,karkare@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/karkare,,queued,uttar-pradesh,kanpur,Professor
+Amitangshu Pal,IIT Kanpur,IIT,CSE,amitangshu@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/amitangshu,,queued,uttar-pradesh,kanpur,Assistant Professor
+Angshuman Karmakar,IIT Kanpur,IIT,CSE,angshuman@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/angshuman,,queued,uttar-pradesh,kanpur,Assistant Professor
+Anil Seth,IIT Kanpur,IIT,CSE,seth@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/seth,,queued,uttar-pradesh,kanpur,Professor
+Anshu Yadav,IIT Kanpur,IIT,CSE,anshuy@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/anshuy,,queued,uttar-pradesh,kanpur,Assistant Professor
+Arnab Bhattacharya,IIT Kanpur,IIT,CSE,arnabb@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/arnabb,,queued,uttar-pradesh,kanpur,Professor
+Ashutosh Modi,IIT Kanpur,IIT,CSE,ashutoshm@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/ashutoshm,,queued,uttar-pradesh,kanpur,Associate Professor
+Debadatta Mishra,IIT Kanpur,IIT,CSE,deba@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/deba,,queued,uttar-pradesh,kanpur,Associate Professor
+Debapriya Basu Roy,IIT Kanpur,IIT,CSE,dbroy@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/dbroy,,queued,uttar-pradesh,kanpur,Assistant Professor
+Gunjan Kumar,IIT Kanpur,IIT,CSE,gunjan@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/gunjan,,queued,uttar-pradesh,kanpur,Assistant Professor
+Hamim Zafar,IIT Kanpur,IIT,CSE,hamim@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/hamim,,queued,uttar-pradesh,kanpur,Associate Professor
+Indranil Saha,IIT Kanpur,IIT,CSE,isaha@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/isaha,,queued,uttar-pradesh,kanpur,Professor
+M A K P Singh,IIT Kanpur,IIT,CSE,makpsingh@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/makpsingh,,queued,uttar-pradesh,kanpur,Visiting Faculty
+Mainak Chaudhuri,IIT Kanpur,IIT,CSE,mainakc@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/mainakc,,queued,uttar-pradesh,kanpur,Professor
+Manindra Agrawal,IIT Kanpur,IIT,CSE,manindra@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/manindra,,queued,uttar-pradesh,kanpur,Professor
+Nisheeth K Vishnoi,IIT Kanpur,IIT,CSE,nisheethkv@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/nisheethkv,,queued,uttar-pradesh,kanpur,Visiting Faculty
+Nisheeth Srivastava,IIT Kanpur,IIT,CSE,nsrivast@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/nsrivast,,queued,uttar-pradesh,kanpur,Professor
+Nitin Saxena,IIT Kanpur,IIT,CSE,nitin@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/nitin,,queued,uttar-pradesh,kanpur,Professor

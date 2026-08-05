@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amit Setia,punjab,ropar,IIT Ropar,IIT,Mathematics,asetia@iitrpr.ac.in,"Numerical Analysis, Integral Equations, Approximation",https://www.iitrpr.ac.in/asetia,1,queued,
+Harpreet Singh,punjab,ropar,IIT Ropar,IIT,Mathematics,harpreet@iitrpr.ac.in,"Statistics, Time Series, Statistical Machine Learning",https://www.iitrpr.ac.in/harpreet,1,queued,
+Mukesh Kumar,punjab,ropar,IIT Ropar,IIT,Mathematics,mkumar@iitrpr.ac.in,"Fluid Mechanics, Computational Methods, Heat Transfer",https://www.iitrpr.ac.in/mkumar,1,queued,
+Rupinder Kaur,punjab,ropar,IIT Ropar,IIT,Mathematics,rupinder@iitrpr.ac.in,"Algebra, Graph Theory, Discrete Mathematics",https://www.iitrpr.ac.in/rupinder,1,queued,

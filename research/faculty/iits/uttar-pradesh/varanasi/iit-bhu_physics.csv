@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amit Kumar Singh,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Physics,aksingh.phy@iitbhu.ac.in,"Condensed Matter, Magnetic Nanomaterials, Spintronics",https://www.iitbhu.ac.in/dept/phy/people/aksinghphy,1,queued,
+Gyan Prakash Srivastava,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Physics,gpsrivastava.phy@iitbhu.ac.in,"Computational Physics, Phonons, Materials Theory",https://www.iitbhu.ac.in/dept/phy/people/gpsrivastavaphy,1,queued,
+Pankaj Mishra,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Physics,pmishra.phy@iitbhu.ac.in,"Soft Matter, Polymer Physics, Computational Biophysics",https://www.iitbhu.ac.in/dept/phy/people/pmishraphy,1,queued,
+Saurabh Saxena,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Physics,ssaxena.phy@iitbhu.ac.in,"Laser Spectroscopy, Atomic Physics, Quantum Optics",https://www.iitbhu.ac.in/dept/phy/people/ssaxenaphy,1,queued,

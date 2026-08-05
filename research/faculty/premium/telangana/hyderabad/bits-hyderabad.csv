@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Aruna Malapati,telangana,hyderabad,BITS Hyderabad,BITS,CSE,arunam@hyderabad.bits-pilani.ac.in,"Machine Learning, NLP, Text Mining",https://www.bits-pilani.ac.in/hyderabad/arunamalapati/profile,1,queued,
+Venkatesh Vinayakarao,telangana,hyderabad,BITS Hyderabad,BITS,CSE,p20180002@hyderabad.bits-pilani.ac.in,"Cloud Computing, Distributed Systems, Resource Management",https://www.bits-pilani.ac.in/hyderabad/venkatesh/profile,1,queued,
+Lavanya Marla,telangana,hyderabad,BITS Hyderabad,BITS,CSE,lavanyam@hyderabad.bits-pilani.ac.in,"Operations Research, Optimization, Transportation",https://www.bits-pilani.ac.in/hyderabad/lavanyam/profile,1,queued,
+Swaroop Joshi,telangana,hyderabad,BITS Hyderabad,BITS,CSE,swaroopj@hyderabad.bits-pilani.ac.in,"Computer Networks, SDN, Network Security",https://www.bits-pilani.ac.in/hyderabad/swaroopj/profile,1,queued,
+Raghuveer Thirukovalluru,telangana,hyderabad,BITS Hyderabad,BITS,CSE,raghuveer@hyderabad.bits-pilani.ac.in,"Computer Vision, Deep Learning, Medical Imaging",https://www.bits-pilani.ac.in/hyderabad/raghuveer/profile,1,queued,
+Sachin Chaudhari,telangana,hyderabad,BITS Hyderabad,BITS,CSE,sachin.chaudhari@hyderabad.bits-pilani.ac.in,"Wireless Communications, Signal Processing, 5G",https://www.bits-pilani.ac.in/hyderabad/sachinchaudhari/profile,1,queued,
+Vinay Chamola,telangana,hyderabad,BITS Hyderabad,BITS,CSE,vinaychamola@hyderabad.bits-pilani.ac.in,"Blockchain, IoT, Vehicular Networks, 5G",https://www.bits-pilani.ac.in/hyderabad/vinaychamola/profile,1,queued,
+Sudeepta Mishra,telangana,hyderabad,BITS Hyderabad,BITS,CSE,sudeepta@hyderabad.bits-pilani.ac.in,"Data Mining, Big Data, Healthcare Analytics",https://www.bits-pilani.ac.in/hyderabad/sudeepta/profile,1,queued,

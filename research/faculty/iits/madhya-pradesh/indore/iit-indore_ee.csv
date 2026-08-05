@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhishek Sharma,madhya-pradesh,indore,IIT Indore,IIT,EE,asharma@iiti.ac.in,"Power Electronics, Renewable Energy, Smart Grid",https://ee.iiti.ac.in/faculty/asharma,1,queued,
+Aniruddha Chandra,madhya-pradesh,indore,IIT Indore,IIT,EE,aniruddha@iiti.ac.in,"Wireless Communications, Channel Modeling, OFDM",https://ee.iiti.ac.in/faculty/aniruddha,1,queued,
+Gaurav Trivedi,madhya-pradesh,indore,IIT Indore,IIT,EE,gtrivedi@iiti.ac.in,"VLSI Design, Low Power Circuits, Embedded Systems",https://ee.iiti.ac.in/faculty/gtrivedi,1,queued,
+Kamlesh Patel,madhya-pradesh,indore,IIT Indore,IIT,EE,kpatel@iiti.ac.in,"Signal Processing, Image Analysis, Machine Learning",https://ee.iiti.ac.in/faculty/kpatel,1,queued,
+Santosh Gupta,madhya-pradesh,indore,IIT Indore,IIT,EE,sgupta@iiti.ac.in,"Power Systems, FACTS, Power Quality",https://ee.iiti.ac.in/faculty/sgupta,1,queued,
+Sumit Dwivedi,madhya-pradesh,indore,IIT Indore,IIT,EE,sdwivedi@iiti.ac.in,"Speech Processing, Audio Analysis, Deep Learning",https://ee.iiti.ac.in/faculty/sdwivedi,1,queued,

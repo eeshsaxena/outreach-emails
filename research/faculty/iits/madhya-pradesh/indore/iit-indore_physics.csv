@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Kumar Sao,madhya-pradesh,indore,IIT Indore,IIT,Physics,aksao@iiti.ac.in,"Astrophysics, Gravitational Waves, Cosmology",https://phy.iiti.ac.in/faculty/aksao,1,queued,
+Debabrata Banerjee,madhya-pradesh,indore,IIT Indore,IIT,Physics,dbanerjee@iiti.ac.in,"Quantum Optics, BEC, Ultracold Atoms",https://phy.iiti.ac.in/faculty/dbanerjee,1,queued,
+Haranath Ghosh,madhya-pradesh,indore,IIT Indore,IIT,Physics,hghosh@iiti.ac.in,"Condensed Matter Theory, Topological Insulators",https://phy.iiti.ac.in/faculty/hghosh,1,queued,
+Rakesh Kumar,madhya-pradesh,indore,IIT Indore,IIT,Physics,rkumar@iiti.ac.in,"Plasma Physics, Laser-matter Interaction",https://phy.iiti.ac.in/faculty/rkumar,1,queued,
+Sonu Mishra,madhya-pradesh,indore,IIT Indore,IIT,Physics,smishra@iiti.ac.in,"Spintronics, Magnetic Materials, Nanotechnology",https://phy.iiti.ac.in/faculty/smishra,1,queued,
+Vivek Saraswat,madhya-pradesh,indore,IIT Indore,IIT,Physics,vsaraswat@iiti.ac.in,"Biophysics, Protein Folding, Molecular Simulation",https://phy.iiti.ac.in/faculty/vsaraswat,1,queued,

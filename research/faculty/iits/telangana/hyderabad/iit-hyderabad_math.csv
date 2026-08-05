@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Debashis Ghoshal,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,debashis@math.iith.ac.in,"String Theory, Matrix Models, Mathematical Physics",https://math.iith.ac.in/~debashis,1,queued,
+K. Sumesh,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,ksumesh@math.iith.ac.in,"Functional Analysis, Operator Spaces",https://math.iith.ac.in/~ksumesh,1,queued,
+Narayana Swamy,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,narayana@math.iith.ac.in,"Statistics, Biostatistics, Machine Learning",https://math.iith.ac.in/~narayana,1,queued,
+Rafikul Alam,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,rafikul@math.iith.ac.in,"Numerical Linear Algebra, Matrix Polynomials",https://math.iith.ac.in/~rafikul,1,queued,
+Sanjay Kumar Panda,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,skpanda@math.iith.ac.in,"Coding Theory, Number Theory, Cryptography",https://math.iith.ac.in/~skpanda,1,queued,
+Sayan Mukherjee,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,sayanm@math.iith.ac.in,"Topology, Geometry, AI for Mathematics",https://math.iith.ac.in/~sayanm,1,queued,
+Shilpa Gondhali,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,shilpag@math.iith.ac.in,"Algebraic Topology, Obstruction Theory",https://math.iith.ac.in/~shilpag,1,queued,
+V. Mukundan,telangana,hyderabad,IIT Hyderabad,IIT,Mathematics,vmukundan@math.iith.ac.in,"Commutative Algebra, Algebraic Geometry",https://math.iith.ac.in/~vmukundan,1,queued,

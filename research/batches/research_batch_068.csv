@@ -1,0 +1,31 @@
+name,institute,institute_type,department,email,research_area,personal_site,priority,status,state,city,notes
+Nikhil Balaji,IIT Delhi,IIT,CSE,nbalaji@cse.iitd.ac.in,"Automata Theory, Quantitative Verification, Computational Complexity...",,,queued,delhi,new-delhi,Assistant Professor
+Piyush Kumar Sharma,IIT Delhi,IIT,CSE,piyush@cse.iitd.ac.in,"Network Security, Privacy and Computer Systems...",,,queued,delhi,new-delhi,Assistant Professor
+Preeti Ranjan Panda,IIT Delhi,IIT,CSE,panda@cse.iitd.ac.in,"Embedded Systems, Hardware Accelerators for AI/ML, Computer ...",,,queued,delhi,new-delhi,Professor
+Prem Kalra,IIT Delhi,IIT,CSE,pkalra@cse.iitd.ac.in,,,,queued,delhi,new-delhi,
+Ragesh Jaiswal,IIT Delhi,IIT,CSE,rjaiswal@cse.iitd.ac.in,"Algorithms, Complexity Analysis...",,,queued,delhi,new-delhi,Professor
+Rajendra Kumar,IIT Delhi,IIT,CSE,r_kumar@cse.iitd.ac.in,"Quantum Computing, Fine-grained Complexity and Cryptography...",,,queued,delhi,new-delhi,Assistant Professor
+Rijurekha Sen,IIT Delhi,IIT,CSE,riju@cse.iitd.ac.in,"Mobile and Embedded Systems (Hardware Architecture, OS, Sensing, ...",,,queued,delhi,new-delhi,Associate Professor
+S. Arun-Kumar,IIT Delhi,IIT,CSE,sak@cse.iitd.ac.in,,,,queued,delhi,new-delhi,
+S.K. Gupta,IIT Delhi,IIT,CSE,skg@cse.iitd.ac.in,,,,queued,delhi,new-delhi,
+Sandeep Sen,IIT Delhi,IIT,CSE,sandeep.sen@ashoka.edu.in,,,,queued,delhi,new-delhi,
+Sanjiva Prasad,IIT Delhi,IIT,CSE,sanjiva@cse.iitd.ac.in,"Semantics and Verification, Programming Languages, Concurrent Systems...",,,queued,delhi,new-delhi,Professor
+Saroj Kaushik,IIT Delhi,IIT,CSE,saroj.kaushik@snu.edu.in,,,,queued,delhi,new-delhi,
+Smruti Ranjan Sarangi,IIT Delhi,IIT,CSE,srsarangi@cse.iitd.ac.in,"Intelligent Systems, ML- and LLM-based System Design, AR/VR, ...",,,queued,delhi,new-delhi,Professor
+Sorav Bansal,IIT Delhi,IIT,CSE,sbansal@cse.iitd.ac.in,"Operating Systems, Compilers...",,,queued,delhi,new-delhi,Professor
+Subhashis Banerjee,IIT Delhi,IIT,CSE,suban@ashoka.edu.in,,,,queued,delhi,new-delhi,
+Subodh Vishnu Sharma,IIT Delhi,IIT,CSE,svs@cse.iitd.ac.in,"Formal Methods, Program Analysis, Concurrent Systems...",,,queued,delhi,new-delhi,Associate Professor
+Sumit Diware,IIT Delhi,IIT,CSE,sdiware@cse.iitd.ac.in,"Hardware systems, VLSI design, Computing architectures for AI...",,,queued,delhi,new-delhi,Assistant Professor
+Tarun Mangla,IIT Delhi,IIT,CSE,tmangla@cse.iitd.ac.in,Computer Network...,,,queued,delhi,new-delhi,Assistant Professor
+Vaishnavi Sundararajan,IIT Delhi,IIT,CSE,vaishnavi@cse.iitd.ac.in,"Formal methods, Verification and Security...",,,queued,delhi,new-delhi,Assistant Professor
+Venkata Vivek Kumar Koppula,IIT Delhi,IIT,CSE,kvenkata@cse.iitd.ac.in,"Theoretical Cryptography, Quantum Computing...",,,queued,delhi,new-delhi,Assistant Professor
+Vijay Keswani,IIT Delhi,IIT,CSE,vkeswani@cse.iitd.ac.in,"Algorithms and Society, Responsible AI and ML, Participatory Tech, ...",,,queued,delhi,new-delhi,Assistant Professor
+Vireshwar Kumar,IIT Delhi,IIT,CSE,viresh@cse.iitd.ac.in,"Security and Privacy in Cyber-Physical Systems, Applied Cryptography, ...",,,queued,delhi,new-delhi,Assistant Professor
+Yogish Sabharwal,IIT Delhi,IIT,CSE,ysabharwal@in.ibm.com,High Performance Computing Group IBM India Research ...,,,queued,delhi,new-delhi,STSM & Manager-HPC
+Amit Awekar,IIT Guwahati,IIT,CSE,awekar@iitg.ac.in,,http://www.iitg.ac.in/awekar,,queued,assam,guwahati,email = IITG homepage username convention; verify before sending
+Aryabartta Sahu,IIT Guwahati,IIT,CSE,asahu@iitg.ac.in,,https://www.iitg.ac.in/asahu,,queued,assam,guwahati,email = IITG homepage username convention; verify before sending
+Ashish Anand,IIT Guwahati,IIT,CSE,anand.ashish@iitg.ac.in,,https://www.iitg.ac.in/anand.ashish,,queued,assam,guwahati,email = IITG homepage username convention; verify before sending
+Benny George K,IIT Guwahati,IIT,CSE,ben@iitg.ac.in,,https://www.iitg.ac.in/ben,,queued,assam,guwahati,email = IITG homepage username convention; verify before sending
+Chandan Karfa,IIT Guwahati,IIT,CSE,ckarfa@iitg.ac.in,,http://www.iitg.ac.in/ckarfa,,queued,assam,guwahati,email = IITG homepage username convention; verify before sending
+Deepanjan Kesh,IIT Guwahati,IIT,CSE,deepkesh@iitg.ac.in,,https://www.iitg.ac.in/deepkesh,,queued,assam,guwahati,email = IITG homepage username convention; verify before sending
+G. Sajith,IIT Guwahati,IIT,CSE,sajith@iitg.ac.in,,https://www.iitg.ac.in/sajith,,queued,assam,guwahati,email = IITG homepage username convention; verify before sending

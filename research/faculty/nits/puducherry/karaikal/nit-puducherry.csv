@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A. Antony Selva Kumaran,puducherry,karaikal,NIT Puducherry,NIT,CSE,antony@nitpy.ac.in,"Machine Learning, Data Mining, Soft Computing",https://nitpy.ac.in/faculty/cse,1,queued,
+C. Sundar,puducherry,karaikal,NIT Puducherry,NIT,CSE,sundar@nitpy.ac.in,"Computer Networks, Wireless Communications",https://nitpy.ac.in/faculty/cse,1,queued,
+M. Prabukumar,puducherry,karaikal,NIT Puducherry,NIT,CSE,prabukumar@nitpy.ac.in,"Remote Sensing, Image Processing, Deep Learning",https://nitpy.ac.in/faculty/cse,1,queued,
+S. Karthik,puducherry,karaikal,NIT Puducherry,NIT,CSE,skarthik@nitpy.ac.in,"Network Security, Intrusion Detection, AI",https://nitpy.ac.in/faculty/cse,1,queued,
+A. Rajesh,puducherry,karaikal,NIT Puducherry,NIT,CSE,arajesh@nitpy.ac.in,"Machine Learning, Deep Learning, Computer Vision",https://nitpy.ac.in/cse,1,queued,
+B. Srinivasan,puducherry,karaikal,NIT Puducherry,NIT,CSE,bsrinivasan@nitpy.ac.in,"Distributed Systems, Grid Computing, Cloud",https://nitpy.ac.in/cse,1,queued,
+G. Anand,puducherry,karaikal,NIT Puducherry,NIT,CSE,ganand@nitpy.ac.in,"Graph Theory, Algorithms, Combinatorial Optimization",https://nitpy.ac.in/cse,1,queued,
+K. Ramya,puducherry,karaikal,NIT Puducherry,NIT,CSE,kramya@nitpy.ac.in,"Data Mining, Big Data Analytics, IoT",https://nitpy.ac.in/cse,1,queued,
+P. Nithyanandam,puducherry,karaikal,NIT Puducherry,NIT,CSE,pnithya@nitpy.ac.in,"Embedded Systems, VLSI Design, Digital Signal Processing",https://nitpy.ac.in/cse,1,queued,
+R. Thamilselvan,puducherry,karaikal,NIT Puducherry,NIT,CSE,rthamilselvan@nitpy.ac.in,"Bioinformatics, Computational Biology, Machine Learning",https://nitpy.ac.in/cse,1,queued,

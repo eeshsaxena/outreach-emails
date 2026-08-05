@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Andreas Dengel,tamil-nadu,chennai,IIT Madras,IIT,EE,andreas@ee.iitm.ac.in,"Document Analysis, Machine Learning, Pattern Recognition",https://www.ee.iitm.ac.in/~andreas,1,queued,
+Anil Prabhakar,tamil-nadu,chennai,IIT Madras,IIT,EE,anilpr@ee.iitm.ac.in,"Photonics, Quantum Communication, Optical Fiber",https://www.ee.iitm.ac.in/~anilpr,1,queued,
+Arul Lakshminarayan,tamil-nadu,chennai,IIT Madras,IIT,EE,arul@physics.iitm.ac.in,"Quantum Chaos, Quantum Information, Many-body Systems",https://physics.iitm.ac.in/~arul,1,queued,
+Ganapati Panda,tamil-nadu,chennai,IIT Madras,IIT,EE,gpanda@ee.iitm.ac.in,"Signal Processing, Machine Learning, Neural Networks",https://www.ee.iitm.ac.in/~gpanda,1,queued,
+Kaushik Mitra,tamil-nadu,chennai,IIT Madras,IIT,EE,kaushik@ee.iitm.ac.in,"Computational Photography, Computer Vision, Image Processing",https://www.ee.iitm.ac.in/~kaushik,1,queued,
+Krishna Jagannathan,tamil-nadu,chennai,IIT Madras,IIT,EE,krishnaj@ee.iitm.ac.in,"Stochastic Networks, Queuing Theory, Machine Learning",https://www.ee.iitm.ac.in/~krishnaj,1,queued,
+Madhavan Swaminathan,tamil-nadu,chennai,IIT Madras,IIT,EE,madhavan@ee.iitm.ac.in,"Signal Integrity, Electronic Packaging, AI for EDA",https://www.ee.iitm.ac.in/~madhavan,1,queued,
+Nitin Chandrachoodan,tamil-nadu,chennai,IIT Madras,IIT,EE,nitin@ee.iitm.ac.in,"VLSI, Reconfigurable Computing, Embedded Systems",https://www.ee.iitm.ac.in/~nitin,1,queued,
+Ravi Shenoy,tamil-nadu,chennai,IIT Madras,IIT,EE,rshenoy@ee.iitm.ac.in,"Power Electronics, Motor Drives, Renewable Energy",https://www.ee.iitm.ac.in/~rshenoy,1,queued,
+V. Kamakoti,tamil-nadu,chennai,IIT Madras,IIT,EE,kama@cse.iitm.ac.in,"Computer Architecture, Processor Design, VLSI",https://www.cse.iitm.ac.in/~kama,1,queued,

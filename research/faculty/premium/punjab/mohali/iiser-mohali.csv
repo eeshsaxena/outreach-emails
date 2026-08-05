@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Deepak Bhatt,punjab,mohali,IISER Mohali,IISER,Physical Sciences,deepakb@iisermohali.ac.in,"Computational Condensed Matter, Machine Learning for Materials",https://www.iisermohali.ac.in/faculty/phs/deepakb,1,queued,
+Nikhil Bhagwat,punjab,mohali,IISER Mohali,IISER,Computational Sciences,nikhilb@iisermohali.ac.in,"Machine Learning, Neuroimaging, Biomedical Data Science",https://www.iisermohali.ac.in/faculty/css/nikhilb,1,queued,
+Pratyush Tiwary,punjab,mohali,IISER Mohali,IISER,Chemical Sciences,ptiwary@iisermohali.ac.in,"Molecular Dynamics, AI for Drug Discovery, Enhanced Sampling",https://www.iisermohali.ac.in/faculty/chs/ptiwary,1,queued,
+Sudipta Bhattacharjee,punjab,mohali,IISER Mohali,IISER,Mathematical Sciences,sudiptab@iisermohali.ac.in,"Algorithms, Computational Complexity, Combinatorics",https://www.iisermohali.ac.in/faculty/mss/sudiptab,1,queued,
+Vishwajeet Kumar,punjab,mohali,IISER Mohali,IISER,Computational Sciences,vishwajeet@iisermohali.ac.in,"NLP, Question Answering, Low-resource Languages",https://www.iisermohali.ac.in/faculty/css/vishwajeet,1,queued,

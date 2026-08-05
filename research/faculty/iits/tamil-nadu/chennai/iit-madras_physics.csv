@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Shaji,tamil-nadu,chennai,IIT Madras,IIT,Physics,anilshaji@iitm.ac.in,"Quantum Information, Quantum Computing, Open Systems",https://physics.iitm.ac.in/~anilshaji,1,queued,
+Balasubramanian Sriram,tamil-nadu,chennai,IIT Madras,IIT,Physics,bsriram@iitm.ac.in,"Statistical Mechanics, Chaos, Non-linear Dynamics",https://physics.iitm.ac.in/~bsriram,1,queued,
+Krishnamurthy Subramaniam,tamil-nadu,chennai,IIT Madras,IIT,Physics,ks@physics.iitm.ac.in,"Soft Condensed Matter, Biophysics, Statistical Physics",https://physics.iitm.ac.in/~ks,1,queued,
+Manikandan Padmanabhan,tamil-nadu,chennai,IIT Madras,IIT,Physics,mani@physics.iitm.ac.in,"Condensed Matter, Topological Materials, Superconductivity",https://physics.iitm.ac.in/~mani,1,queued,
+Rajesh Singh,tamil-nadu,chennai,IIT Madras,IIT,Physics,singhraj@physics.iitm.ac.in,"Statistical Physics, Active Matter, Biophysics",https://physics.iitm.ac.in/~singhraj,1,queued,
+Suresh Govindarajan,tamil-nadu,chennai,IIT Madras,IIT,Physics,suresh@physics.iitm.ac.in,"String Theory, Algebraic Geometry, Moonshine",https://physics.iitm.ac.in/~suresh,1,queued,
+Unnikrishnan C. S.,tamil-nadu,chennai,IIT Madras,IIT,Physics,unni@physics.iitm.ac.in,"Experimental Gravity, Precision Measurement, Metrology",https://physics.iitm.ac.in/~unni,1,queued,

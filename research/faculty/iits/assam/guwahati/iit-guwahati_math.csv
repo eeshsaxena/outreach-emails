@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Arup Bose,assam,guwahati,IIT Guwahati,IIT,Mathematics,abose@iitg.ac.in,"Random Matrices, Probability, Statistics",https://www.iitg.ac.in/abose,1,queued,
+Bhupen Deka,assam,guwahati,IIT Guwahati,IIT,Mathematics,bdeka@iitg.ac.in,"Numerical Analysis, Finite Element Methods, PDEs",https://www.iitg.ac.in/bdeka,1,queued,
+Dhriti Ranjan Dolai,assam,guwahati,IIT Guwahati,IIT,Mathematics,ddolai@iitg.ac.in,"Functional Analysis, Operator Theory",https://www.iitg.ac.in/ddolai,1,queued,
+Kalpesh Kapoor,assam,guwahati,IIT Guwahati,IIT,Mathematics,kalpesh@iitg.ac.in,"Algorithms, Complexity Theory, Logic",https://www.iitg.ac.in/kalpesh,1,queued,
+Rakhshan Butt,assam,guwahati,IIT Guwahati,IIT,Mathematics,rbutt@iitg.ac.in,"Algebraic Graph Theory, Combinatorics",https://www.iitg.ac.in/rbutt,1,queued,
+Rajeev Walia,assam,guwahati,IIT Guwahati,IIT,Mathematics,rwalia@iitg.ac.in,"Statistics, Reliability, Survival Analysis",https://www.iitg.ac.in/rwalia,1,queued,
+Shyamapada Modak,assam,guwahati,IIT Guwahati,IIT,Mathematics,smodak@iitg.ac.in,"Topology, Ideal Theory",https://www.iitg.ac.in/smodak,1,queued,
+Sudipta Dutta,assam,guwahati,IIT Guwahati,IIT,Mathematics,sudiptad@iitg.ac.in,"Functional Analysis, Banach Spaces, Operator Theory",https://www.iitg.ac.in/sudiptad,1,queued,

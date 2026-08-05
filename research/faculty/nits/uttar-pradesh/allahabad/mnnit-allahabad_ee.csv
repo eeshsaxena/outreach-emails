@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amod Kumar,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,EE,amod@mnnit.ac.in,"Power Systems, Smart Grid, Power Quality",https://www.mnnit.ac.in/institute/index.php/department/ee/faculty/amod,1,queued,
+K. S. Verma,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,EE,ksverma@mnnit.ac.in,"Power Systems, FACTS, Deregulated Power",https://www.mnnit.ac.in/institute/index.php/department/ee/faculty/ksverma,1,queued,
+Manisha Pattanaik,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,EE,manisha@mnnit.ac.in,"VLSI, Low Voltage Design, Nanoscale Circuits",https://www.mnnit.ac.in/institute/index.php/department/ece/faculty/manisha,1,queued,
+M. J. Nigam,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,EE,mjnigam@mnnit.ac.in,"Signal Processing, Image Processing, Medical Imaging",https://www.mnnit.ac.in/institute/index.php/department/ece/faculty/mjnigam,1,queued,
+P. K. Lehana,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,EE,pklehana@mnnit.ac.in,"Biomedical Signal Processing, Speech Analysis",https://www.mnnit.ac.in/institute/index.php/department/ece/faculty/pklehana,1,queued,
+Sanjay Kumar Sharma,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,EE,sksharma@mnnit.ac.in,"Antenna Design, Microwave Engineering, Electromagnetics",https://www.mnnit.ac.in/institute/index.php/department/ece/faculty/sksharma,1,queued,
+Vandana Vikas Thakare,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,EE,vvthakare@mnnit.ac.in,"Antenna, RF Design, Wireless Communications",https://www.mnnit.ac.in/institute/index.php/department/ece/faculty/vvthakare,1,queued,

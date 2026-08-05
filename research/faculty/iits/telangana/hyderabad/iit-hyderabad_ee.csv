@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhinav Kumar,telangana,hyderabad,IIT Hyderabad,IIT,EE,abhinavk@iith.ac.in,"Communication Systems, Signal Processing, Information Theory",https://people.iith.ac.in/abhinavk,1,queued,
+Chandra Sekhar Seelamantula,telangana,hyderabad,IIT Hyderabad,IIT,EE,css@iith.ac.in,"Signal Processing, Medical Imaging, Sampling Theory",https://people.iith.ac.in/css,1,queued,
+Dasari Narayana Rao,telangana,hyderabad,IIT Hyderabad,IIT,EE,dnrao@iith.ac.in,"Photonics, Holography, Laser Physics",https://people.iith.ac.in/dnrao,1,queued,
+Ketan Rajawat,telangana,hyderabad,IIT Hyderabad,IIT,EE,ketan@iith.ac.in,"Optimization, Signal Processing, Machine Learning",https://people.iith.ac.in/ketan,1,queued,
+Pramod Kachave,telangana,hyderabad,IIT Hyderabad,IIT,EE,pramod@iith.ac.in,"Power Electronics, Smart Grid, Energy Storage",https://people.iith.ac.in/pramod,1,queued,
+Subrahmanyam Mula,telangana,hyderabad,IIT Hyderabad,IIT,EE,smula@iith.ac.in,"VLSI Design, Embedded Systems, Computer Architecture",https://people.iith.ac.in/smula,1,queued,
+Sumohana Channappayya,telangana,hyderabad,IIT Hyderabad,IIT,EE,sumohana@iith.ac.in,"Image/Video Quality, Visual Perception, Computational Imaging",https://people.iith.ac.in/sumohana,1,queued,
+Yadaiah N.,telangana,hyderabad,IIT Hyderabad,IIT,EE,yadaiah@iith.ac.in,"Control Systems, Robotics, Electric Drives",https://people.iith.ac.in/yadaiah,1,queued,

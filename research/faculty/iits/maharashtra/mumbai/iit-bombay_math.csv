@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Debraj Ray,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,debraj.ray@math.iitb.ac.in,"Partial Differential Equations, Control Theory, Calculus of Variations",https://www.math.iitb.ac.in/~debraj,1,queued,
+Harish Seshadri,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,hseshadri@math.iitb.ac.in,"Differential Geometry, Riemannian Geometry",https://www.math.iitb.ac.in/~hseshadri,1,queued,
+Jugal Verma,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,jkv@math.iitb.ac.in,"Commutative Algebra, Combinatorics",https://www.math.iitb.ac.in/~jkv,1,queued,
+Sivaramakrishnan Sivasubramanian,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,srm@math.iitb.ac.in,"Combinatorics, Graph Theory, Algebraic Combinatorics",https://www.math.iitb.ac.in/~srm,1,queued,
+Sudhir Ghorpade,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,srg@math.iitb.ac.in,"Algebraic Geometry, Coding Theory, Combinatorics",https://www.math.iitb.ac.in/~srg,1,queued,
+Shobha Madan,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,smadan@math.iitb.ac.in,"Harmonic Analysis, Wavelet Theory",https://www.math.iitb.ac.in/~smadan,1,queued,
+Ravi Rao,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,ravi@math.tifr.res.in,"K-theory, Algebraic Groups, Commutative Algebra",https://www.math.iitb.ac.in/~ravi,1,queued,
+Santanu Dey,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,sdey@math.iitb.ac.in,"Operations Research, Integer Programming, Optimization",https://www.math.iitb.ac.in/~sdey,1,queued,
+Sivakanth Gopi,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,sgopi@math.iitb.ac.in,"Theoretical Computer Science, Coding Theory, Complexity",https://www.math.iitb.ac.in/~sgopi,1,queued,
+Srikanth Srinivasan,maharashtra,mumbai,IIT Bombay,IIT,Mathematics,srikanth@math.iitb.ac.in,"Computational Complexity, Combinatorics, Boolean Functions",https://www.math.iitb.ac.in/~srikanth,1,queued,

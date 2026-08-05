@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhinav Kumar,uttarakhand,roorkee,IIT Roorkee,IIT,EE,abhinavk@ee.iitr.ac.in,"Power Electronics, Motor Drives, EV Technology",https://faculty.iitr.ac.in/~abhinavkec,1,queued,
+Anand Sharma,uttarakhand,roorkee,IIT Roorkee,IIT,EE,anand.sharma@ec.iitr.ac.in,"MIMO Systems, Wireless Communications, 5G",https://faculty.iitr.ac.in/~anands,1,queued,
+Anil Kumar,uttarakhand,roorkee,IIT Roorkee,IIT,EE,anil.kumar@ee.iitr.ac.in,"Power Systems, HVDC, Smart Grid",https://faculty.iitr.ac.in/~anilkee,1,queued,
+Govind Bhatt,uttarakhand,roorkee,IIT Roorkee,IIT,EE,govind.bhatt@ec.iitr.ac.in,"MEMS, Microelectronics, Sensors",https://faculty.iitr.ac.in/~govindbec,1,queued,
+Karunesh Arya,uttarakhand,roorkee,IIT Roorkee,IIT,EE,karya@cs.iitr.ac.in,"Computer Vision, Machine Learning, Gesture Recognition",https://faculty.iitr.ac.in/~karyacs,1,queued,
+Mahesh Bhatt,uttarakhand,roorkee,IIT Roorkee,IIT,EE,mbhatt@ee.iitr.ac.in,"Machine Learning, Signal Processing, Biomedical",https://faculty.iitr.ac.in/~mbhattee,1,queued,
+Neeraj Gupta,uttarakhand,roorkee,IIT Roorkee,IIT,EE,ngupta@ec.iitr.ac.in,"RF/Microwave, Antenna Design, Wireless",https://faculty.iitr.ac.in/~nguptaec,1,queued,
+Pavan Chakraborty,uttarakhand,roorkee,IIT Roorkee,IIT,EE,pavan@cs.iitr.ac.in,"Computer Vision, Robotics, Deep Learning",https://faculty.iitr.ac.in/~pavancs,1,queued,
+Preeti Singh,uttarakhand,roorkee,IIT Roorkee,IIT,EE,preeti@ec.iitr.ac.in,"VLSI Design, Low Power Circuits, Digital Design",https://faculty.iitr.ac.in/~preetiecs,1,queued,
+Samarendra Dandapat,uttarakhand,roorkee,IIT Roorkee,IIT,EE,sdan@ee.iitr.ac.in,"Biomedical Signal Processing, Heart Rate Variability",https://faculty.iitr.ac.in/~sdanee,1,queued,

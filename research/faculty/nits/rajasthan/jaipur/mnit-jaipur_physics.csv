@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Deepika Bhatnagar,rajasthan,jaipur,MNIT Jaipur,NIT,Physics,deepikab@mnit.ac.in,"Nanomaterials, Photovoltaics, Thin Films",https://mnit.ac.in/dept_physics/faculty,1,queued,
+K. K. Maurya,rajasthan,jaipur,MNIT Jaipur,NIT,Physics,kkmaurya@mnit.ac.in,"Crystal Growth, Electro-optical Crystals",https://mnit.ac.in/dept_physics/faculty,1,queued,
+Narendra Singh,rajasthan,jaipur,MNIT Jaipur,NIT,Physics,nsingh@mnit.ac.in,"Condensed Matter, Magnetism, Alloys",https://mnit.ac.in/dept_physics/faculty,1,queued,
+Sanjay Sharma,rajasthan,jaipur,MNIT Jaipur,NIT,Physics,ssharma@mnit.ac.in,"Laser Physics, Spectroscopy, Fiber Sensors",https://mnit.ac.in/dept_physics/faculty,1,queued,

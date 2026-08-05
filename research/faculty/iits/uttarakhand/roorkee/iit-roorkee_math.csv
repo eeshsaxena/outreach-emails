@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Arvind Kumar Gupta,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,akg@ma.iitr.ac.in,"Traffic Flow, Conservation Laws, Applied Mathematics",https://faculty.iitr.ac.in/~akgma,1,queued,
+Biswajit Bera,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,bbera@ma.iitr.ac.in,"Fluid Mechanics, Magnetohydrodynamics",https://faculty.iitr.ac.in/~bberama,1,queued,
+Harish Chandra Yadav,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,hcyadav@ma.iitr.ac.in,"Number Theory, Algebraic K-theory",https://faculty.iitr.ac.in/~hcyadavma,1,queued,
+Manoj Kumar,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,mkumar@ma.iitr.ac.in,"Numerical Analysis, Differential Equations, Wavelets",https://faculty.iitr.ac.in/~mkumarma,1,queued,
+Ratan Kumar Giri,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,rkgiri@ma.iitr.ac.in,"Harmonic Analysis, Operator Theory",https://faculty.iitr.ac.in/~rkgirima,1,queued,
+Samir Kumar Das,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,skdas@ma.iitr.ac.in,"Computational Mathematics, Approximation Theory",https://faculty.iitr.ac.in/~skdasma,1,queued,
+Sanjeev Kumar,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,skumar@ma.iitr.ac.in,"Image Processing, Inverse Problems, Optimization",https://faculty.iitr.ac.in/~skumarma,1,queued,
+Saurabh Porwal,uttarakhand,roorkee,IIT Roorkee,IIT,Mathematics,sporwal@ma.iitr.ac.in,"Geometric Function Theory, Complex Analysis",https://faculty.iitr.ac.in/~sporwalma,1,queued,

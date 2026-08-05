@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ajay Kumar,delhi,new-delhi,IIT Delhi,IIT,Mathematics,ajaykr@maths.iitd.ac.in,"Harmonic Analysis, Wavelet Theory, Operator Theory",https://maths.iitd.ac.in/~ajaykr,1,queued,
+Amartya Kumar Dutta,delhi,new-delhi,IIT Delhi,IIT,Mathematics,akdutta@maths.iitd.ac.in,"Algebra, Polynomial Automorphisms, Commutative Algebra",https://maths.iitd.ac.in/~akdutta,1,queued,
+B. V. Rajarama Bhat,delhi,new-delhi,IIT Delhi,IIT,Mathematics,bvrajarama@maths.iitd.ac.in,"Operator Algebras, Quantum Probability, Functional Analysis",https://maths.iitd.ac.in/~bvrajarama,1,queued,
+Deepak Gumber,delhi,new-delhi,IIT Delhi,IIT,Mathematics,deepak@maths.iitd.ac.in,"Group Theory, Ring Theory, Algebra",https://maths.iitd.ac.in/~deepak,1,queued,
+Maneesh Kumar Singh,delhi,new-delhi,IIT Delhi,IIT,Mathematics,mks@maths.iitd.ac.in,"Algebraic Topology, Representation Theory",https://maths.iitd.ac.in/~mks,1,queued,
+Pankaj Jain,delhi,new-delhi,IIT Delhi,IIT,Mathematics,pankaj@maths.iitd.ac.in,"Functional Analysis, Inequalities, Differential Operators",https://maths.iitd.ac.in/~pankaj,1,queued,
+Rajendra Kumar Sharma,delhi,new-delhi,IIT Delhi,IIT,Mathematics,rksharma@maths.iitd.ac.in,"Coding Theory, Cryptography, Finite Fields",https://maths.iitd.ac.in/~rksharma,1,queued,
+Rekha Bhatt,delhi,new-delhi,IIT Delhi,IIT,Mathematics,rekha@maths.iitd.ac.in,"Statistics, Statistical Learning, Regression",https://maths.iitd.ac.in/~rekha,1,queued,
+Rupam Barman,delhi,new-delhi,IIT Delhi,IIT,Mathematics,rupam@maths.iitd.ac.in,"Number Theory, Modular Forms, Arithmetic Geometry",https://maths.iitd.ac.in/~rupam,1,queued,
+Siddhartha Gadgil,delhi,new-delhi,IIT Delhi,IIT,Mathematics,siddhartha@maths.iitd.ac.in,"Topology, Geometry, Formal Proofs, AI for Mathematics",https://maths.iitd.ac.in/~siddhartha,1,queued,

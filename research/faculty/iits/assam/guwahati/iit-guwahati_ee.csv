@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Kumar,assam,guwahati,IIT Guwahati,IIT,EE,anil@iitg.ac.in,"Power Electronics, Motor Drives, Renewable Energy",https://www.iitg.ac.in/anil,1,queued,
+Arnab Roy,assam,guwahati,IIT Guwahati,IIT,EE,arnabroy@iitg.ac.in,"VLSI Design, Embedded Systems, CAD",https://www.iitg.ac.in/arnabroy,1,queued,
+D. Ghosh,assam,guwahati,IIT Guwahati,IIT,EE,dghosh@iitg.ac.in,"Signal Processing, Biomedical Engineering, EEG Analysis",https://www.iitg.ac.in/dghosh,1,queued,
+Harshal Nemade,assam,guwahati,IIT Guwahati,IIT,EE,harshal@iitg.ac.in,"Microwave Engineering, Antenna, RF Design",https://www.iitg.ac.in/harshal,1,queued,
+Nayan M. Kakoty,assam,guwahati,IIT Guwahati,IIT,EE,nayan@iitg.ac.in,"Robotics, Prosthetics, Biomedical Devices",https://www.iitg.ac.in/nayan,1,queued,
+Prabin Kumar Bora,assam,guwahati,IIT Guwahati,IIT,EE,pkb@iitg.ac.in,"Video Coding, Computer Vision, Signal Processing",https://www.iitg.ac.in/pkb,1,queued,
+Samarendra Nath Sur,assam,guwahati,IIT Guwahati,IIT,EE,sns@iitg.ac.in,"Wireless Communication, Cognitive Radio, OFDM",https://www.iitg.ac.in/sns,1,queued,
+Shaik Rafi Ahamed,assam,guwahati,IIT Guwahati,IIT,EE,srfiahamed@iitg.ac.in,"VLSI, Mixed-signal Design, Biomedical Circuits",https://www.iitg.ac.in/srfiahamed,1,queued,
+Subhrakanti Dey,assam,guwahati,IIT Guwahati,IIT,EE,sdey@iitg.ac.in,"Stochastic Control, Networked Systems, Estimation",https://www.iitg.ac.in/sdey,1,queued,
+Vinayak Naik,assam,guwahati,IIT Guwahati,IIT,EE,vnaik@iitg.ac.in,"Distributed Systems, IoT, Mobile Computing",https://www.iitg.ac.in/vnaik,1,queued,

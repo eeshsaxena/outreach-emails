@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Balakrishnan Ashok,andhra-pradesh,tirupati,IISER Tirupati,IISER,Mathematics,balkrishna@iisertirupati.ac.in,"Statistical Learning, Probability, High-dimensional Data",https://www.iisertirupati.ac.in/faculty/balkrishna,1,queued,
+Chandra Shekhar Sharma,andhra-pradesh,tirupati,IISER Tirupati,IISER,Engineering,chandras@iisertirupati.ac.in,"Data-driven Manufacturing, AI for Materials, IoT",https://www.iisertirupati.ac.in/faculty/chandras,1,queued,
+Sreepathi Bhargav,andhra-pradesh,tirupati,IISER Tirupati,IISER,Physics,sbhargav@iisertirupati.ac.in,"Computational Physics, Machine Learning for Science",https://www.iisertirupati.ac.in/faculty/sbhargav,1,queued,

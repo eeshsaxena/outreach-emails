@@ -1,0 +1,31 @@
+name,institute,institute_type,department,email,research_area,personal_site,priority,status,state,city,notes
+Vikram Rentala,IIT Bombay,IIT,Physics,vikram@phy.iitb.ac.in,"High Energy Physics, Machine Learning for Physics",https://www.phy.iitb.ac.in/~vikram,1,queued,maharashtra,mumbai,
+Virendra Singh,IIT Bombay,IIT,CSE,viren@ee.iitb.ac.in,"Virendra Singh, Ph.D(NAIST, Japan) PROFESSOR Department of Electrical Engineering, and Department of Computer Science & Engineering Indian Institute of Technology Bombay Powai, Mumbai 400076 India E-m",https://www.cse.iitb.ac.in/~viren,1,queued,maharashtra,mumbai,
+Virendra Sule,IIT Bombay,IIT,EE,vrsule@ee.iitb.ac.in,"Control Theory, Algebraic Systems, Signal Processing",https://www.ee.iitb.ac.in/~vrsule,1,queued,maharashtra,mumbai,
+Abhradeep Guha Thakurta,IIT Delhi,IIT,CSE,athakurta@google.com,Machine Learning and Data Privacy...,,1,queued,delhi,new-delhi,Research Scientist at Google Deep Mind
+Adarsh Barik,IIT Delhi,IIT,CSE,adarshbarik1@cse.iitd.ac.in,"Optimization, Machine Learning, High-Dimensional Statistics, and ...",,1,queued,delhi,new-delhi,Assistant Professor
+Ajay Kumar,IIT Delhi,IIT,Mathematics,ajaykr@maths.iitd.ac.in,"Harmonic Analysis, Wavelet Theory, Operator Theory",https://maths.iitd.ac.in/~ajaykr,1,queued,delhi,new-delhi,
+Amartya Kumar Dutta,IIT Delhi,IIT,Mathematics,akdutta@maths.iitd.ac.in,"Algebra, Polynomial Automorphisms, Commutative Algebra",https://maths.iitd.ac.in/~akdutta,1,queued,delhi,new-delhi,
+Anupam Basu,IIT Delhi,IIT,EE,anbasu@ee.iitd.ac.in,"Signal Processing, Speech, Assistive Technology",https://www.ee.iitd.ac.in/~anbasu,1,queued,delhi,new-delhi,
+Anurag Sharma,IIT Delhi,IIT,Physics,asharma@physics.iitd.ac.in,"Photonics, Fiber Optics, Computational Electromagnetics",https://physics.iitd.ac.in/~asharma,1,queued,delhi,new-delhi,
+B. V. Rajarama Bhat,IIT Delhi,IIT,Mathematics,bvrajarama@maths.iitd.ac.in,"Operator Algebras, Quantum Probability, Functional Analysis",https://maths.iitd.ac.in/~bvrajarama,1,queued,delhi,new-delhi,
+Brejesh Lall,IIT Delhi,IIT,EE,brejesh@ee.iitd.ac.in,"Multimedia, Video Processing, Computer Vision",https://www.ee.iitd.ac.in/~brejesh,1,queued,delhi,new-delhi,
+Chetan Arora,IIT Delhi,IIT,CSE,chetan@cse.iitd.ac.in,Computer Vision and Machine Learning...,,1,queued,delhi,new-delhi,Professor
+Deepak Gumber,IIT Delhi,IIT,Mathematics,deepak@maths.iitd.ac.in,"Group Theory, Ring Theory, Algebra",https://maths.iitd.ac.in/~deepak,1,queued,delhi,new-delhi,
+Icmtech,IIT Delhi,IIT,CSE,icmtech@cse.iitd.ac.in,,,1,queued,delhi,new-delhi,
+Icphd,IIT Delhi,IIT,CSE,icphd@cse.iitd.ac.in,,,1,queued,delhi,new-delhi,
+Jayadeva,IIT Delhi,IIT,EE,jayadeva@ee.iitd.ac.in,"Machine Learning, Neural Networks, SVMs",https://www.ee.iitd.ac.in/~jayadeva,1,queued,delhi,new-delhi,
+Manav R. Bhatnagar,IIT Delhi,IIT,EE,manav@ee.iitd.ac.in,"Wireless Communications, MIMO, Cooperative Networks",https://www.ee.iitd.ac.in/~manav,1,queued,delhi,new-delhi,
+Maneesh Kumar Singh,IIT Delhi,IIT,Mathematics,mks@maths.iitd.ac.in,"Algebraic Topology, Representation Theory",https://maths.iitd.ac.in/~mks,1,queued,delhi,new-delhi,
+Manish Jain,IIT Delhi,IIT,Physics,manishjain@physics.iitd.ac.in,"Computational Materials Science, DFT, Machine Learning for Materials",https://physics.iitd.ac.in/~manishjain,1,queued,delhi,new-delhi,
+Mausam,IIT Delhi,IIT,CSE,mausam@cse.iitd.ac.in,"Artificial Intelligence, Natural Language Processing...",,1,queued,delhi,new-delhi,Professor
+Monika Agarwal,IIT Delhi,IIT,EE,monika@ee.iitd.ac.in,"Signal Processing, Ultrasound Imaging, Biomedical",https://www.ee.iitd.ac.in/~monika,1,queued,delhi,new-delhi,
+Pankaj Jain,IIT Delhi,IIT,Mathematics,pankaj@maths.iitd.ac.in,"Functional Analysis, Inequalities, Differential Operators",https://maths.iitd.ac.in/~pankaj,1,queued,delhi,new-delhi,
+Parag Singla,IIT Delhi,IIT,CSE,parags@cse.iitd.ac.in,"Machine Learning, Social Network Analysis, Artificial Intelligence...",,1,queued,delhi,new-delhi,Professor
+Pratap Kumar Sahoo,IIT Delhi,IIT,Physics,pksahoo@physics.iitd.ac.in,"Nanotechnology, 2D Materials, Surface Science",https://physics.iitd.ac.in/~pksahoo,1,queued,delhi,new-delhi,
+Prathosh A. P.,IIT Delhi,IIT,EE,prathosh@ee.iitd.ac.in,"Machine Learning, Signal Processing, Healthcare AI",https://www.ee.iitd.ac.in/~prathosh,1,queued,delhi,new-delhi,
+Priyanka Golia,IIT Delhi,IIT,CSE,pgolia@cse.iitd.ac.in,Formal Methods and Artificial Intelligence...,,1,queued,delhi,new-delhi,Assistant Professor
+Rahul Garg,IIT Delhi,IIT,CSE,rahulgarg@cse.iitd.ac.in,"Machine Learning, Big Data Analytics, Neuroimaging, High Performance ...",,1,queued,delhi,new-delhi,Professor
+Rahul Narain,IIT Delhi,IIT,CSE,narain@cse.iitd.ac.in,"Computer Graphics, Animation, Numerical Simulation...",,1,queued,delhi,new-delhi,Associate Professor
+Rajeev Shorey,IIT Delhi,IIT,CSE,rajeevshorey@gmail.com,"Communication Networks,Data Analytics, Machine Learning and Artificial ...",,1,queued,delhi,new-delhi,
+Rajendra Kumar Sharma,IIT Delhi,IIT,Mathematics,rksharma@maths.iitd.ac.in,"Coding Theory, Cryptography, Finite Fields",https://maths.iitd.ac.in/~rksharma,1,queued,delhi,new-delhi,

@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhay Kumar Singh,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,aksingh@iitk.ac.in,"Signal Processing, Image Analysis, Machine Learning",https://home.iitk.ac.in/~aksingh,1,queued,
+Angshul Majumdar,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,angshul@iitk.ac.in,"Compressed Sensing, Machine Learning, Biomedical Signal Processing",https://home.iitk.ac.in/~angshul,1,queued,
+Dhruva Raina,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,dhruva@iitk.ac.in,"Power Systems, Energy, Smart Grid",https://home.iitk.ac.in/~dhruva,1,queued,
+Laxmidhar Behera,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,lbehera@iitk.ac.in,"Robotics, Neural Networks, Intelligent Control",https://home.iitk.ac.in/~lbehera,1,queued,
+Nishchal Kumar Verma,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,nishchal@iitk.ac.in,"Machine Learning, Fault Diagnosis, Condition Monitoring",https://home.iitk.ac.in/~nishchal,1,queued,
+Priyadarshi Patnaik,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,ppnaik@iitk.ac.in,"Wireless Communications, Cognitive Radio, OFDM",https://home.iitk.ac.in/~ppnaik,1,queued,
+Rajat Kumar Pal,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,rajatpal@iitk.ac.in,"VLSI, CAD, Low Power Design",https://home.iitk.ac.in/~rajatpal,1,queued,
+Tanuja Srivastava,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,tanuja@iitk.ac.in,"Image Processing, Remote Sensing, Computer Vision",https://home.iitk.ac.in/~tanuja,1,queued,
+Tushar Sandhan,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,sandhan@iitk.ac.in,"Computer Vision, Robotics, Motion Analysis",https://home.iitk.ac.in/~sandhan,1,queued,
+Vinod Sharma,uttar-pradesh,kanpur,IIT Kanpur,IIT,EE,vinods@iitk.ac.in,"Information Theory, Wireless Networks, Coding",https://home.iitk.ac.in/~vinods,1,queued,

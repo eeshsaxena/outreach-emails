@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A. Jayalaxmi,telangana,warangal,NIT Warangal,NIT,EE,jayalaxmi@nitw.ac.in,"Power Systems, Machine Learning for Power, Smart Grid",https://www.nitw.ac.in/faculty/id/jayalaxmi,1,queued,
+B. Venkata Prasanth,telangana,warangal,NIT Warangal,NIT,EE,bvprasanth@nitw.ac.in,"VLSI, Low Power Design, Reconfigurable Systems",https://www.nitw.ac.in/faculty/id/bvprasanth,1,queued,
+K. Padmapriya,telangana,warangal,NIT Warangal,NIT,EE,kpadmapriya@nitw.ac.in,"Signal Processing, OFDM, Channel Estimation",https://www.nitw.ac.in/faculty/id/kpadmapriya,1,queued,
+M. Kowsalya,telangana,warangal,NIT Warangal,NIT,EE,mkowsalya@nitw.ac.in,"Power Electronics, Renewable Energy, Smart Grid",https://www.nitw.ac.in/faculty/id/mkowsalya,1,queued,
+N. V. Srikanth,telangana,warangal,NIT Warangal,NIT,EE,nvsrikanth@nitw.ac.in,"Wireless Networks, Cognitive Radio, Spectrum Management",https://www.nitw.ac.in/faculty/id/nvsrikanth,1,queued,
+P. Srinivasa Rao,telangana,warangal,NIT Warangal,NIT,EE,psrao@nitw.ac.in,"Digital Signal Processing, Image Reconstruction",https://www.nitw.ac.in/faculty/id/psrao,1,queued,
+S. Venkata Rajesh,telangana,warangal,NIT Warangal,NIT,EE,svrajesh@nitw.ac.in,"Control Systems, Mechatronics, Robotics",https://www.nitw.ac.in/faculty/id/svrajesh,1,queued,
+V. Usha Reddy,telangana,warangal,NIT Warangal,NIT,EE,vushar@nitw.ac.in,"Speech Processing, Pattern Recognition, NLP",https://www.nitw.ac.in/faculty/id/vushar,1,queued,

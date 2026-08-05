@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ayan Banerjee,west-bengal,mohanpur,IISER Kolkata,IISER,Physical Sciences,ayan.banerjee@iiserkol.ac.in,"Optical Tweezers, Machine Learning for Physics, Biophysics",https://www.iiserkol.ac.in/~ayan.banerjee,1,queued,
+Dibyendu Das,west-bengal,mohanpur,IISER Kolkata,IISER,Physical Sciences,dibyendu.das@iiserkol.ac.in,"Statistical Mechanics, Non-equilibrium Physics, Stochastic Models",https://www.iiserkol.ac.in/~dibyendu.das,1,queued,
+Mrinal Kanti Das,west-bengal,mohanpur,IISER Kolkata,IISER,Mathematics,mrinaldas@iiserkol.ac.in,"Algebraic Geometry, Number Theory, Computational Algebra",https://www.iiserkol.ac.in/~mrinaldas,1,queued,
+Sujit Kumar Ghosh,west-bengal,mohanpur,IISER Kolkata,IISER,Mathematics,sujit.ghosh@iiserkol.ac.in,"Machine Learning, Bayesian Inference, Statistical Learning",https://www.iiserkol.ac.in/~sujit.ghosh,1,queued,
+Supratim Sengupta,west-bengal,mohanpur,IISER Kolkata,IISER,Physical Sciences,supratimsengupta@iiserkol.ac.in,"Computational Neuroscience, Biophysics, Stochastic Systems",https://www.iiserkol.ac.in/~supratimsengupta,1,queued,

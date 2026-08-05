@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhijit Mahalanobis,rajasthan,jodhpur,IIT Jodhpur,IIT,EE,abhijit@iitj.ac.in,"Image Processing, Target Recognition, Computational Imaging",https://iitj.ac.in/faculty/index.php?lid=abhijit,1,queued,
+Anand Misra,rajasthan,jodhpur,IIT Jodhpur,IIT,EE,amisra@iitj.ac.in,"Wireless Communications, MIMO, Channel Estimation",https://iitj.ac.in/faculty/index.php?lid=amisra,1,queued,
+Basant Kumar,rajasthan,jodhpur,IIT Jodhpur,IIT,EE,basant@iitj.ac.in,"Signal Processing, Biomedical Engineering, ECG Analysis",https://iitj.ac.in/faculty/index.php?lid=basant,1,queued,
+Govind Vashishtha,rajasthan,jodhpur,IIT Jodhpur,IIT,EE,govind@iitj.ac.in,"Fault Diagnosis, Vibration Analysis, Machine Learning",https://iitj.ac.in/faculty/index.php?lid=govind,1,queued,
+Laleh Behjat,rajasthan,jodhpur,IIT Jodhpur,IIT,EE,laleh@iitj.ac.in,"VLSI Design Automation, Machine Learning for EDA",https://iitj.ac.in/faculty/index.php?lid=laleh,1,queued,
+Rajesh Kumar,rajasthan,jodhpur,IIT Jodhpur,IIT,EE,rajeshk@iitj.ac.in,"Power Electronics, Energy Systems, Smart Grid",https://iitj.ac.in/faculty/index.php?lid=rajeshk,1,queued,
+Tamara Jindal,rajasthan,jodhpur,IIT Jodhpur,IIT,EE,tamara@iitj.ac.in,"Computer Vision, Deep Learning, Medical Imaging",https://iitj.ac.in/faculty/index.php?lid=tamara,1,queued,

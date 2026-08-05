@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Aditya Trivedi,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,EE,aditya.ece@iitbhu.ac.in,"Wireless Networks, Cognitive Radio, OFDM",https://www.iitbhu.ac.in/dept/ece/people/adityaece,1,queued,
+Bharat Singh,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,EE,bharats.ece@iitbhu.ac.in,"Signal Processing, Array Antennas, MIMO",https://www.iitbhu.ac.in/dept/ece/people/bharatsece,1,queued,
+D. K. Lobiyal,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,EE,dklobiyal.ece@iitbhu.ac.in,"Ad-hoc Networks, VANETs, Vehicular IoT",https://www.iitbhu.ac.in/dept/ece/people/dklobiyalece,1,queued,
+M. V. Kartikeyan,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,EE,mvkartikeyan.ece@iitbhu.ac.in,"Millimeter Wave, Microwave Devices, Terahertz",https://www.iitbhu.ac.in/dept/ece/people/mvkartikeyanece,1,queued,
+Rajeev Kumar Singh,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,EE,rksingh.ece@iitbhu.ac.in,"Power Electronics, Energy Conversion, Drives",https://www.iitbhu.ac.in/dept/ece/people/rksinghece,1,queued,
+Sanjay Kumar Singh,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,EE,sksingh.ece@iitbhu.ac.in,"VLSI, Low Power Design, Reconfigurable Computing",https://www.iitbhu.ac.in/dept/ece/people/sksinghece,1,queued,

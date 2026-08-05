@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ananth Krishnan S,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,ananth@nitt.edu,"Power Electronics, Drives, Electric Vehicles",https://www.nitt.edu/home/academics/departments/eee/faculty/ananth,1,queued,
+B. Yogesh,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,byogesh@nitt.edu,"Signal Processing, Image Analysis, Biomedical",https://www.nitt.edu/home/academics/departments/eee/faculty/byogesh,1,queued,
+D. Vijayalakshmi,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,dvlakshmi@nitt.edu,"Power Systems, HVDC, Flexible AC Transmission",https://www.nitt.edu/home/academics/departments/eee/faculty/dvlakshmi,1,queued,
+G. Emayavaramban,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,emayavaramban@nitt.edu,"Biomedical Signal Processing, Wearable Devices",https://www.nitt.edu/home/academics/departments/ece/faculty/emayavaramban,1,queued,
+K. Krishnamurthy,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,krishnamurthyk@nitt.edu,"Machine Learning, IoT, Wireless Sensor Networks",https://www.nitt.edu/home/academics/departments/ece/faculty/krishnamurthyk,1,queued,
+P. Rajalakshmi,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,prajalakshmi@nitt.edu,"IoT, Wireless Communications, Embedded Systems",https://www.nitt.edu/home/academics/departments/ece/faculty/prajalakshmi,1,queued,
+T. Thyagarajan,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,thyagarajan@nitt.edu,"Signal Processing, Image Compression, Wavelets",https://www.nitt.edu/home/academics/departments/ece/faculty/thyagarajan,1,queued,
+V. Rajendran,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,EE,vrajendran@nitt.edu,"Ultrasonic Signal Processing, NDT, Sensors",https://www.nitt.edu/home/academics/departments/ece/faculty/vrajendran,1,queued,

@@ -1,0 +1,33 @@
+name,institute,institute_type,department,email,research_area,personal_site,priority,status,state,city,notes
+S Sudarshan,IIT Bombay,IIT,CSE,sudarsha@cse.iitb.ac.in,"Query processing and optimization, Keyword querying on structured and semi-structured data, Testing database applications",https://www.cse.iitb.ac.in/~sudarsha,,queued,maharashtra,mumbai,
+Saisundararaman Vishwanathan,IIT Bombay,IIT,CSE,sundar@cse.iitb.ac.in,"Algorithms, Combinatorics, Complexity Theory.",https://www.cse.iitb.ac.in/~sundar,,queued,maharashtra,mumbai,
+Sayandeep Saha,IIT Bombay,IIT,CSE,sayandeepsaha@cse.iitb.ac.in,"Fault and Side-Channel Cryptanalysis, Microarchitectural Attacks, EDA/CAD for Security",https://www.cse.iitb.ac.in/~sayandeepsaha,,queued,maharashtra,mumbai,
+Soumen Chakrabarti,IIT Bombay,IIT,CSE,soumen@cse.iitb.ac.in,"Hypertext databases, Data mining",https://www.cse.iitb.ac.in/~soumen,,queued,maharashtra,mumbai,
+Sruthi Sekar,IIT Bombay,IIT,CSE,sruthi@cse.iitb.ac.in,"Cryptography, Theoretical Computer Science",https://www.cse.iitb.ac.in/~sruthi,,queued,maharashtra,mumbai,
+Supratik Chakraborty,IIT Bombay,IIT,CSE,supratik@cse.iitb.ac.in,"Formal techniques for analysis, verification, validation of digital systems, Asynchronous timing analysis.",https://www.cse.iitb.ac.in/~supratik,,queued,maharashtra,mumbai,
+Suraj Shetiya,IIT Bombay,IIT,CSE,surajs@cse.iitb.ac.in,"fairness in databases, computational geometry",https://www.cse.iitb.ac.in/~surajs,,queued,maharashtra,mumbai,
+Uday Khedker,IIT Bombay,IIT,CSE,uday@cse.iitb.ac.in,"Programming Languages, Compilers, Data Flow Analysis.",https://www.cse.iitb.ac.in/~uday,,queued,maharashtra,mumbai,
+Umesh Bellur,IIT Bombay,IIT,CSE,umesh@cse.iitb.ac.in,"Adaptive Service Orientation, Managing virtualization and server consolidation in Clouds, Adaptive QoS based routing in DEBN",https://www.cse.iitb.ac.in/~umesh,,queued,maharashtra,mumbai,
+Varsha Apte,IIT Bombay,IIT,CSE,varsha@cse.iitb.ac.in,Performance Evaluation of Computer Systems and Networks,https://www.cse.iitb.ac.in/~varsha,,queued,maharashtra,mumbai,
+Vinay Joseph Ribeiro,IIT Bombay,IIT,CSE,vinayr@cse.iitb.ac.in,"Computer and Network Security (blockchain, intrusion detection, IoT security, DDoS), Internet of Things (IoT), Wireless Networks (cognitive radio, TV white space, LTE, Wi-Fi etc.), Indoor positioning and navigation",https://www.cse.iitb.ac.in/~vinayr,,queued,maharashtra,mumbai,
+Virendra Singh,IIT Bombay,IIT,CSE,viren@cse.iitb.ac.in,"Cybersecurity, Computer
+Architecture, Cyber Physical Cognitive Systems, Formal Verification, Blockchain Technology",https://www.cse.iitb.ac.in/~viren,,queued,maharashtra,mumbai,
+Vishwas Bhargava,IIT Bombay,IIT,CSE,vishwas@cse.iitb.ac.in,"Theoretical Computer Science, Computational Complexity
+Theory, Algebraic Complexity, Computational Number Theory, Pseudorandomness and Derandomization Theory",https://www.cse.iitb.ac.in/~vishwas,,queued,maharashtra,mumbai,
+Aaditeshwar Seth,IIT Delhi,IIT,CSE,aseth@cse.iitd.ac.in,"Earth observation, networks and systems, social networks, ...",,,queued,delhi,new-delhi,Professor
+Abhijnan Chakraborty,IIT Delhi,IIT,CSE,abhijnan@cse.iitkgp.ac.in,,,,queued,delhi,new-delhi,
+Abhilash Jindal,IIT Delhi,IIT,CSE,ajindal@cse.iitd.ac.in,"Data systems, ML systems, Distributed systems, Mobile systems...",,,queued,delhi,new-delhi,Assistant Professor
+Amit Kumar,IIT Delhi,IIT,CSE,amitk@cse.iitd.ac.in,Algorithms...,,,queued,delhi,new-delhi,Professor
+Amitabha Bagchi,IIT Delhi,IIT,CSE,bagchi@cse.iitd.ac.in,"Structural Properties of Networks, Algorithms, Data Structures...",,,queued,delhi,new-delhi,Professor
+Anish Arora,IIT Delhi,IIT,CSE,anish@cse.ohio-state.edu,Dependable Distributed and Networked Systems...,,,queued,delhi,new-delhi,Professor
+Ashish Chiplunkar,IIT Delhi,IIT,CSE,ashishc@cse.iitd.ac.in,"Algorithm Design, Stochastic Problems...",,,queued,delhi,new-delhi,Assistant Professor
+Gautam Shroff,IIT Delhi,IIT,CSE,gautam.shroff@tcs.com,"Computing, Security Data Science, Artiﬁcial Intelligence...",,,queued,delhi,new-delhi,Vice President Chief Scientist and Head TCS Research
+Huzur Saran,IIT Delhi,IIT,CSE,saran@cse.iitd.ac.in,"High Speed Networks, Graph Theory, Algorithms...",,,queued,delhi,new-delhi,Emeritus Professor
+K.K. Biswas,IIT Delhi,IIT,CSE,kkb@cse.iitd.ac.in,,,,queued,delhi,new-delhi,
+Karthikeyan Bhargavan,IIT Delhi,IIT,CSE,karthik.bhargavan@inria.fr,"Security and Privacy, Formal Verification...",,,queued,delhi,new-delhi,Researcher @ Prosecco project
+Kaustubh Beedkar,IIT Delhi,IIT,CSE,kbeedkar@cse.iitd.ac.in,Database and Information Systems...,,,queued,delhi,new-delhi,Assistant Professor
+Keerti Choudhary,IIT Delhi,IIT,CSE,keerti@cse.iitd.ac.in,"Fault-Tolerant Algorithms, Extremal Graph Structures, Dynamic ...",,,queued,delhi,new-delhi,Assistant Professor
+Kolin Paul,IIT Delhi,IIT,CSE,kolin@cse.iitd.ac.in,Embedded Systems...,,,queued,delhi,new-delhi,Professor
+Kumar Madhukar,IIT Delhi,IIT,CSE,madhukar@cse.iitd.ac.in,"Program Verification, Model Checking, Syntax-Guided-Synthesis...",,,queued,delhi,new-delhi,Assistant Professor
+Maya Ramanath,IIT Delhi,IIT,CSE,amanath@cse.iitd.ac.in,Database and Information Retrieval Techniques for Semantic Web Data ...,,,queued,delhi,new-delhi,Associate Professor
+Naveen Garg,IIT Delhi,IIT,CSE,naveen@cse.iitd.ac.in,"Algorithms, Complexity, Optimization",http://www.cse.iitd.ernet.in/~naveen,,queued,delhi,new-delhi,Professor

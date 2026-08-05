@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Arun Khosla,haryana,kurukshetra,NIT Kurukshetra,NIT,EE,arunkhosla@nitkkr.ac.in,"Signal Processing, Biomedical, Neural Engineering",https://nitkkr.ac.in/faculty/cse/arunkhosla,1,queued,
+Bijay Ketan Panigrahi,haryana,kurukshetra,NIT Kurukshetra,NIT,EE,bkpanigrahi@nitkkr.ac.in,"Power Systems, Swarm Intelligence, Optimization",https://nitkkr.ac.in/faculty/ee/bkpanigrahi,1,queued,
+Lini Mathew,haryana,kurukshetra,NIT Kurukshetra,NIT,EE,linimathew@nitkkr.ac.in,"Wireless Sensor Networks, IoT, Machine Learning",https://nitkkr.ac.in/faculty/ece/linimathew,1,queued,
+M. P. Sharma,haryana,kurukshetra,NIT Kurukshetra,NIT,EE,mpsharma@nitkkr.ac.in,"Power Electronics, Renewable Energy, FACTS",https://nitkkr.ac.in/faculty/ee/mpsharma,1,queued,
+Neeta Singh,haryana,kurukshetra,NIT Kurukshetra,NIT,EE,neetasingh@nitkkr.ac.in,"VLSI, Mixed Signal Design, Analog Circuits",https://nitkkr.ac.in/faculty/ece/neetasingh,1,queued,
+Renu Vig,haryana,kurukshetra,NIT Kurukshetra,NIT,EE,renuvig@nitkkr.ac.in,"Image Processing, Computational Intelligence, Neural Networks",https://nitkkr.ac.in/faculty/ece/renuvig,1,queued,
+S. K. Aggarwal,haryana,kurukshetra,NIT Kurukshetra,NIT,EE,skaggarwal@nitkkr.ac.in,"Power Systems, Load Forecasting, Smart Grid",https://nitkkr.ac.in/faculty/ee/skaggarwal,1,queued,

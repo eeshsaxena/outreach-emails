@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Apurba Sarkar,madhya-pradesh,indore,IIT Indore,IIT,CSE,apurba@iiti.ac.in,"Computer Vision, Pattern Recognition, Biometrics",https://people.iiti.ac.in/~apurba,1,queued,
+Aruna Tiwari,madhya-pradesh,indore,IIT Indore,IIT,CSE,aruna@iiti.ac.in,"Machine Learning, Fuzzy Systems, Neural Networks",https://people.iiti.ac.in/~aruna,1,queued,
+Gourinath Banda,madhya-pradesh,indore,IIT Indore,IIT,CSE,gourinath@iiti.ac.in,"Formal Methods, Program Analysis, Verification",https://people.iiti.ac.in/~gourinath,1,queued,
+Kapil Ahuja,madhya-pradesh,indore,IIT Indore,IIT,CSE,kahuja@iiti.ac.in,"Numerical Linear Algebra, Randomized Algorithms, ML",https://people.iiti.ac.in/~kahuja,1,queued,
+Manish Gupta,madhya-pradesh,indore,IIT Indore,IIT,CSE,mgupta@iiti.ac.in,"Anomaly Detection, Machine Learning, Cybersecurity",https://people.iiti.ac.in/~mgupta,1,queued,
+Nisheeth Srivastava,madhya-pradesh,indore,IIT Indore,IIT,CSE,nsrivastava@iiti.ac.in,"Computational Cognitive Science, Decision Making",https://people.iiti.ac.in/~nsrivastava,1,queued,
+Puneet Gupta,madhya-pradesh,indore,IIT Indore,IIT,CSE,pgupta@iiti.ac.in,"Computer Vision, Image Processing, Deep Learning",https://people.iiti.ac.in/~pgupta,1,queued,
+Raghudeep Gadde,madhya-pradesh,indore,IIT Indore,IIT,CSE,raghudeep@iiti.ac.in,"Computer Vision, Video Analysis, Deep Learning",https://people.iiti.ac.in/~raghudeep,1,queued,
+Sumit Shekhar,madhya-pradesh,indore,IIT Indore,IIT,CSE,sshekhar@iiti.ac.in,"Computer Vision, Object Detection, NLP",https://people.iiti.ac.in/~sshekhar,1,queued,
+Vivek Bohara,madhya-pradesh,indore,IIT Indore,IIT,CSE,vbohara@iiti.ac.in,"Wireless Communications, 5G, Physical Layer Security",https://people.iiti.ac.in/~vbohara,1,queued,

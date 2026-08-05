@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Apoorva Khare,rajasthan,jodhpur,IIT Jodhpur,IIT,Mathematics,apoorva@iitj.ac.in,"Combinatorics, Matrix Analysis, Positivity",https://iitj.ac.in/faculty/index.php?lid=apoorva,1,queued,
+Indranath Sengupta,rajasthan,jodhpur,IIT Jodhpur,IIT,Mathematics,indranath@iitj.ac.in,"Commutative Algebra, Algebraic Geometry, Coding",https://iitj.ac.in/faculty/index.php?lid=indranath,1,queued,
+Priyanka Raina,rajasthan,jodhpur,IIT Jodhpur,IIT,Mathematics,praina@iitj.ac.in,"Statistics, Applied Probability, Machine Learning",https://iitj.ac.in/faculty/index.php?lid=praina,1,queued,
+Santanu Manna,rajasthan,jodhpur,IIT Jodhpur,IIT,Mathematics,smanna@iitj.ac.in,"Frame Theory, Wavelets, Signal Processing",https://iitj.ac.in/faculty/index.php?lid=smanna,1,queued,
+Sudarshan Iyengar,rajasthan,jodhpur,IIT Jodhpur,IIT,Mathematics,sudarshan@iitj.ac.in,"Network Science, Computational Social Science, Graph Theory",https://iitj.ac.in/faculty/index.php?lid=sudarshan,1,queued,

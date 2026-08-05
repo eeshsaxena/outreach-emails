@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ajay Choudhary,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Mathematics,ajaychoudhary.mat@iitbhu.ac.in,"Numerical Methods, Scientific Computing, PDEs",https://www.iitbhu.ac.in/dept/mat/people/ajaychoudharymat,1,queued,
+Bikramaditya Datta,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Mathematics,bdatta.mat@iitbhu.ac.in,"Algebra, Module Theory, Ring Theory",https://www.iitbhu.ac.in/dept/mat/people/bdattamat,1,queued,
+Rajesh Srivastava,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Mathematics,rsrivastava.mat@iitbhu.ac.in,"Operations Research, Stochastic Modeling, Queuing",https://www.iitbhu.ac.in/dept/mat/people/rsrivastavamat,1,queued,
+Sunil Kumar,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,Mathematics,sunilkumar.mat@iitbhu.ac.in,"Topology, Functional Analysis, Banach Spaces",https://www.iitbhu.ac.in/dept/mat/people/sunilkumarmat,1,queued,

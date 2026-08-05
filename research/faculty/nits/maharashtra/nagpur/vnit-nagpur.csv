@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Nitin Nagpure,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,nitin@cse.vnit.ac.in,"Computer Networks, Cloud Computing, SDN",https://cse.vnit.ac.in/faculty/nitin,1,queued,
+Preeti Bajaj,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,preeti@cse.vnit.ac.in,"Distributed Computing, Fault Tolerance, Grid",https://cse.vnit.ac.in/faculty/preeti,1,queued,
+Rajesh Doriya,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,rajesh@cse.vnit.ac.in,"Robotics, Computer Vision, Human-Robot Interaction",https://cse.vnit.ac.in/faculty/rajesh,1,queued,
+Sanjay Dorle,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,sdorle@cse.vnit.ac.in,"Machine Learning, Neural Networks, Control Systems",https://cse.vnit.ac.in/faculty/sdorle,1,queued,
+Shruti Patil,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,shruti@cse.vnit.ac.in,"Deep Learning, NLP, Medical AI",https://cse.vnit.ac.in/faculty/shruti,1,queued,
+Avinash Wadhe,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,awadhe@cse.vnit.ac.in,"Computer Networks, Protocol Design, Wireless",https://cse.vnit.ac.in/cse,1,queued,
+Kapil Wankhade,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,kwankhade@cse.vnit.ac.in,"Machine Learning, NLP, Data Analytics",https://cse.vnit.ac.in/cse,1,queued,
+Meghana Nagori,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,mnagori@cse.vnit.ac.in,"Image Processing, Computer Vision, Segmentation",https://cse.vnit.ac.in/cse,1,queued,
+Pramod Bide,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,pbide@cse.vnit.ac.in,"Software Engineering, Agile Methods, DevOps",https://cse.vnit.ac.in/cse,1,queued,
+Vikas Thakre,maharashtra,nagpur,VNIT Nagpur,NIT,CSE,vthakre@cse.vnit.ac.in,"Cloud Computing, Big Data, Distributed Systems",https://cse.vnit.ac.in/cse,1,queued,

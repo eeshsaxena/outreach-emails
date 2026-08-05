@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amit Dutta,west-bengal,kharagpur,IIT Kharagpur,IIT,Physics,amitdutta@phy.iitkgp.ac.in,"Quantum Phase Transitions, Condensed Matter Theory",https://phy.iitkgp.ac.in/~amitdutta,1,queued,
+Ayan Banerjee,west-bengal,kharagpur,IIT Kharagpur,IIT,Physics,ayan@phy.iitkgp.ac.in,"Optical Tweezers, Biophysics, Quantum Optics",https://phy.iitkgp.ac.in/~ayan,1,queued,
+Bedangadas Mohanty,west-bengal,kharagpur,IIT Kharagpur,IIT,Physics,bedanga@phy.iitkgp.ac.in,"High Energy Nuclear Physics, Quark-Gluon Plasma",https://phy.iitkgp.ac.in/~bedanga,1,queued,
+Rajesh Kumble Nayak,west-bengal,kharagpur,IIT Kharagpur,IIT,Physics,rnayak@phy.iitkgp.ac.in,"Gravitational Wave Astronomy, General Relativity",https://phy.iitkgp.ac.in/~rnayak,1,queued,
+Saurabh Basu,west-bengal,kharagpur,IIT Kharagpur,IIT,Physics,saurabh@phy.iitkgp.ac.in,"Strongly Correlated Systems, Topological Phases",https://phy.iitkgp.ac.in/~saurabh,1,queued,
+Soumen Kumar Roy,west-bengal,kharagpur,IIT Kharagpur,IIT,Physics,skroy@phy.iitkgp.ac.in,"Statistical Mechanics, Phase Transitions, Biophysics",https://phy.iitkgp.ac.in/~skroy,1,queued,

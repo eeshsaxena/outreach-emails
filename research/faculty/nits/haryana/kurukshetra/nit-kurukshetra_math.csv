@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A. K. Mittal,haryana,kurukshetra,NIT Kurukshetra,NIT,Mathematics,akmittal@nitkkr.ac.in,"Differential Equations, Fluid Mechanics, Biomechanics",https://nitkkr.ac.in/faculty/maths/akmittal,1,queued,
+B. S. Bhadauria,haryana,kurukshetra,NIT Kurukshetra,NIT,Mathematics,bsbhadauria@nitkkr.ac.in,"Thermal Convection, Nanofluid, Stability Analysis",https://nitkkr.ac.in/faculty/maths/bsbhadauria,1,queued,
+Deepak Kumar,haryana,kurukshetra,NIT Kurukshetra,NIT,Mathematics,dkumar@nitkkr.ac.in,"Combinatorics, Graph Theory, Algorithms",https://nitkkr.ac.in/faculty/maths/dkumar,1,queued,
+Ghanshyam Singh Yadav,haryana,kurukshetra,NIT Kurukshetra,NIT,Mathematics,gsyadav@nitkkr.ac.in,"Operations Research, Supply Chain, Fuzzy Optimization",https://nitkkr.ac.in/faculty/maths/gsyadav,1,queued,
+Praveen Agarwal,haryana,kurukshetra,NIT Kurukshetra,NIT,Mathematics,pagarwal@nitkkr.ac.in,"Fractional Calculus, Special Functions, Applied Mathematics",https://nitkkr.ac.in/faculty/maths/pagarwal,1,queued,

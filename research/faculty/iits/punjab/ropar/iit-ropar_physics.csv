@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Deepika Bhatnagar,punjab,ropar,IIT Ropar,IIT,Physics,deepika@iitrpr.ac.in,"Thin Films, Solar Cells, Renewable Energy Materials",https://www.iitrpr.ac.in/deepika,1,queued,
+Kavita Sharma,punjab,ropar,IIT Ropar,IIT,Physics,kavita@iitrpr.ac.in,"Nanomaterials, Quantum Dots, Fluorescence Spectroscopy",https://www.iitrpr.ac.in/kavita,1,queued,
+Priya Johari,punjab,ropar,IIT Ropar,IIT,Physics,priya@iitrpr.ac.in,"Computational Materials, 2D Materials, DFT",https://www.iitrpr.ac.in/priya,1,queued,
+Subhamoy Biswas,punjab,ropar,IIT Ropar,IIT,Physics,sbiswas@iitrpr.ac.in,"Condensed Matter, Spintronics, Magnetism",https://www.iitrpr.ac.in/sbiswas,1,queued,

@@ -1,0 +1,31 @@
+name,institute,institute_type,department,email,research_area,personal_site,priority,status,state,city,notes
+Rajesh Kumar,IIT Delhi,IIT,Physics,rajesh@physics.iitd.ac.in,"Polymer Physics, Soft Matter, Biophysics",https://physics.iitd.ac.in/~rajesh,1,queued,delhi,new-delhi,
+Rekha Bhatt,IIT Delhi,IIT,Mathematics,rekha@maths.iitd.ac.in,"Statistics, Statistical Learning, Regression",https://maths.iitd.ac.in/~rekha,1,queued,delhi,new-delhi,
+Rohan Paul,IIT Delhi,IIT,CSE,rohan@cse.iitd.ac.in,"Human Robot Interaction, Language Grounding, Symbolic Reasoning...",,1,queued,delhi,new-delhi,Associate Professor
+Rohit Vaish,IIT Delhi,IIT,CSE,rvaish@cse.iitd.ac.in,"Algorithms and Economics, Artificial Intelligence, Computational ...",,1,queued,delhi,new-delhi,Assistant Professor
+Rupam Barman,IIT Delhi,IIT,Mathematics,rupam@maths.iitd.ac.in,"Number Theory, Modular Forms, Arithmetic Geometry",https://maths.iitd.ac.in/~rupam,1,queued,delhi,new-delhi,
+Saif Khan Mohammed,IIT Delhi,IIT,EE,saifkm@ee.iitd.ac.in,"Wireless Communications, Information Theory, Coding",https://www.ee.iitd.ac.in/~saifkm,1,queued,delhi,new-delhi,
+Sayan Ranu,IIT Delhi,IIT,CSE,sayanranu@cse.iitd.ac.in,"Machine Learning and Data Mining for Graphs, Spatio-temporal Data ...",,1,queued,delhi,new-delhi,Professor
+Siddhartha Gadgil,IIT Delhi,IIT,Mathematics,siddhartha@maths.iitd.ac.in,"Topology, Geometry, Formal Proofs, AI for Mathematics",https://maths.iitd.ac.in/~siddhartha,1,queued,delhi,new-delhi,
+Smriti Sinha,IIT Delhi,IIT,EE,smriti@ee.iitd.ac.in,"Power Systems, Smart Grid, Renewable Energy",https://www.ee.iitd.ac.in/~smriti,1,queued,delhi,new-delhi,
+Srikanta Bedathur,IIT Delhi,IIT,CSE,srikanta@cse.iitd.ac.in,"Data Management, Knowledge Discovery and Data Mining, Natural Language ...",,1,queued,delhi,new-delhi,Professor
+Subodh Kumar,IIT Delhi,IIT,CSE,subodh@cse.iitd.ac.in,"Computer Graphics, Virtual Reality, Geometry Processing, Parallel ...",,1,queued,delhi,new-delhi,Professor
+Sudhir Kumar Vempati,IIT Delhi,IIT,Physics,vempati@physics.iitd.ac.in,"Theoretical High Energy Physics, Supersymmetry",https://physics.iitd.ac.in/~vempati,1,queued,delhi,new-delhi,
+Tapan Kumar Gandhi,IIT Delhi,IIT,EE,tkgandhi@ee.iitd.ac.in,"Medical Image Analysis, Computer Vision, AI for Healthcare",https://www.ee.iitd.ac.in/~tkgandhi,1,queued,delhi,new-delhi,
+Vinay Kumar Chakka,IIT Delhi,IIT,EE,vinay@ee.iitd.ac.in,"Signal Processing, Communication, Networking",https://www.ee.iitd.ac.in/~vinay,1,queued,delhi,new-delhi,
+Adean Ap_2,IIT Dharwad,IIT,CSE,adean.ap_2@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+Manjunath Kounte,IIT Dharwad,IIT,CSE,mkounte@iitdh.ac.in,"Machine Learning, Signal Processing, IoT",https://www.iitdh.ac.in/faculty/mkounte,1,queued,karnataka,dharwad,
+Priyanka Bagade,IIT Dharwad,IIT,CSE,pbagade@iitdh.ac.in,"Wearable Computing, Health IoT, Machine Learning",https://www.iitdh.ac.in/faculty/pbagade,1,queued,karnataka,dharwad,
+RA/iPDFs & Project Staff,IIT Dharwad,IIT,CSE,pro@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+Rahul Vaze,IIT Dharwad,IIT,CSE,rvaze@iitdh.ac.in,"Wireless Networks, Stochastic Systems",https://www.iitdh.ac.in/faculty/rvaze,1,queued,karnataka,dharwad,
+Senate Members,IIT Dharwad,IIT,CSE,sen@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+abarua@iitdh.ac.in,IIT Dharwad,IIT,CSE,abarua@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+addileep@iitdh.ac.in,IIT Dharwad,IIT,CSE,addileep@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+ahegde@iitdh.ac.in,IIT Dharwad,IIT,CSE,ahegde@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+aikta@iitdh.ac.in,IIT Dharwad,IIT,CSE,aikta@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+amar.gaonkar@iitdh.ac.in,IIT Dharwad,IIT,CSE,amar.gaonkar@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+amarkumar@iitdh.ac.in,IIT Dharwad,IIT,CSE,amarkumar@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+ambarishkulkarni@iitdh.ac.in,IIT Dharwad,IIT,CSE,ambarishkulkarni@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+ameer@iitdh.ac.in,IIT Dharwad,IIT,CSE,ameer@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+anbukkarasi.r@iitdh.ac.in,IIT Dharwad,IIT,CSE,anbukkarasi.r@iitdh.ac.in,,,1,queued,karnataka,dharwad,
+aniket.kataware@iitdh.ac.in,IIT Dharwad,IIT,CSE,aniket.kataware@iitdh.ac.in,,,1,queued,karnataka,dharwad,

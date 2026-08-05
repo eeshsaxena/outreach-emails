@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Bidyut Baran Saha,assam,silchar,NIT Silchar,NIT,EE,bbsaha@ee.nits.ac.in,"Power Systems, FACTS, Renewable Energy",https://www.nits.ac.in/departments/ee/faculty/bbsaha,1,queued,
+Chitralekha Mahanta,assam,silchar,NIT Silchar,NIT,EE,cmahanta@ee.nits.ac.in,"Nonlinear Control, Sliding Mode, Chaos Synchronization",https://www.nits.ac.in/departments/ee/faculty/cmahanta,1,queued,
+Gaurav Trivedi,assam,silchar,NIT Silchar,NIT,EE,gtrivedi@ee.nits.ac.in,"VLSI Design, Low Power Circuits, CAD",https://www.nits.ac.in/departments/ece/faculty/gtrivedi,1,queued,
+Kandarpa Kumar Sarma,assam,silchar,NIT Silchar,NIT,EE,kksarma@ece.nits.ac.in,"Signal Processing, Neural Networks, Speech Recognition",https://www.nits.ac.in/departments/ece/faculty/kksarma,1,queued,
+Manash Pratim Sarma,assam,silchar,NIT Silchar,NIT,EE,mpsarma@ece.nits.ac.in,"Antenna Design, Microwave Engineering",https://www.nits.ac.in/departments/ece/faculty/mpsarma,1,queued,
+P. K. Bora,assam,silchar,NIT Silchar,NIT,EE,pkbora@ece.nits.ac.in,"Computer Vision, Video Coding, Image Compression",https://www.nits.ac.in/departments/ece/faculty/pkbora,1,queued,
+Shaik Rafi Ahamed,assam,silchar,NIT Silchar,NIT,EE,srahamed@ece.nits.ac.in,"Mixed Signal VLSI, Biomedical Circuits",https://www.nits.ac.in/departments/ece/faculty/srahamed,1,queued,
+Sundeep Kumar,assam,silchar,NIT Silchar,NIT,EE,sundeep@ece.nits.ac.in,"Wireless Communications, OFDM, Cognitive Radio",https://www.nits.ac.in/departments/ece/faculty/sundeep,1,queued,

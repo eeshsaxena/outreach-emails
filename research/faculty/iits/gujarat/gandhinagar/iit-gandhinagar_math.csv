@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amber Habib,gujarat,gandhinagar,IIT Gandhinagar,IIT,Mathematics,amber@iitgn.ac.in,"Mathematical Finance, Probability, Stochastic Processes",https://iitgn.ac.in/faculty/math/amber,1,queued,
+Mrinal Kumar,gujarat,gandhinagar,IIT Gandhinagar,IIT,Mathematics,mrinal@iitgn.ac.in,"Algebraic Complexity Theory, Polynomial Identity Testing",https://iitgn.ac.in/faculty/math/mrinal,1,queued,
+Neha Gupta,gujarat,gandhinagar,IIT Gandhinagar,IIT,Mathematics,ngupta@iitgn.ac.in,"Commutative Algebra, Computational Algebra",https://iitgn.ac.in/faculty/math/ngupta,1,queued,
+Pinaki Mondal,gujarat,gandhinagar,IIT Gandhinagar,IIT,Mathematics,pinaki@iitgn.ac.in,"Algebraic Geometry, Tropical Geometry",https://iitgn.ac.in/faculty/math/pinaki,1,queued,
+Srikanth Srinivasan,gujarat,gandhinagar,IIT Gandhinagar,IIT,Mathematics,srikanth@iitgn.ac.in,"Computational Complexity, Combinatorics, Pseudorandomness",https://iitgn.ac.in/faculty/math/srikanth,1,queued,
+Yogesh More,gujarat,gandhinagar,IIT Gandhinagar,IIT,Mathematics,yogesh@iitgn.ac.in,"Algebraic Number Theory, Arithmetic Geometry",https://iitgn.ac.in/faculty/math/yogesh,1,queued,

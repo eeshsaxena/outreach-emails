@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Aurobinda Routray,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,aroutray@ee.iitkgp.ac.in,"Signal Processing, BCI, Pattern Recognition",https://www.iitkgp.ac.in/department/EE/faculty/ee-aroutray,1,queued,
+Bhudeb Chakravarti,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,bchak@ee.iitkgp.ac.in,"Power Systems, Smart Grid, Optimization",https://www.iitkgp.ac.in/department/EE/faculty/ee-bchak,1,queued,
+Debdoot Sheet,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,debdoot@ee.iitkgp.ac.in,"Medical Image Analysis, Deep Learning, Computer Vision",https://www.iitkgp.ac.in/department/EE/faculty/ee-debdoot,1,queued,
+Dipanwita Roy Chowdhury,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,drc@cse.iitkgp.ac.in,"Cryptography, VLSI, Hardware Security",https://cse.iitkgp.ac.in/~drc,1,queued,
+Goutam Saha,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,gsaha@ee.iitkgp.ac.in,"Speech Processing, Biomedical Signal Processing",https://www.iitkgp.ac.in/department/EE/faculty/ee-gsaha,1,queued,
+Joy Mustafi,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,jmustafi@ee.iitkgp.ac.in,"Computer Vision, Deep Learning, Autonomous Systems",https://www.iitkgp.ac.in/department/EE/faculty/ee-jmustafi,1,queued,
+Plaban Kumar Bhowmick,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,plaban@ee.iitkgp.ac.in,"NLP, Information Retrieval, Text Mining",https://www.iitkgp.ac.in/department/EE/faculty/ee-plaban,1,queued,
+Rajat Kumar Pal,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,rkpal@cse.iitkgp.ac.in,"Bioinformatics, Algorithms, Graph Theory",https://cse.iitkgp.ac.in/~rkpal,1,queued,
+Sudip Misra,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,smisra@cse.iitkgp.ac.in,"IoT, Wireless Sensor Networks, Mobile Computing",https://cse.iitkgp.ac.in/~smisra,1,queued,
+Tapas Kumar Gandhi,west-bengal,kharagpur,IIT Kharagpur,IIT,EE,tkg@ee.iitkgp.ac.in,"Medical Imaging, Machine Learning, Biomedical Engineering",https://www.iitkgp.ac.in/department/EE/faculty/ee-tkg,1,queued,

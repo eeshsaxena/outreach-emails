@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Arun Kumar,bihar,patna,NIT Patna,NIT,CSE,arunkumar@nitp.ac.in,"Machine Learning, Computer Vision, Pattern Recognition",https://www.nitp.ac.in/dept/cs/faculty,1,queued,
+Dilip Kumar Choubey,bihar,patna,NIT Patna,NIT,CSE,dilipkumar@nitp.ac.in,"Data Mining, Bioinformatics, Machine Learning",https://www.nitp.ac.in/dept/cs/faculty,1,queued,
+Hari Mohan Pandey,bihar,patna,NIT Patna,NIT,CSE,hmpandey@nitp.ac.in,"Evolutionary Computing, NLP, Optimization",https://www.nitp.ac.in/dept/cs/faculty,1,queued,
+Malay Kishore Dutta,bihar,patna,NIT Patna,NIT,CSE,mkd@nitp.ac.in,"Biometrics, Signal Processing, Computer Vision",https://www.nitp.ac.in/dept/cs/faculty,1,queued,
+Vijaypal Singh Rathor,bihar,patna,NIT Patna,NIT,CSE,vsrathor@nitp.ac.in,"Embedded Systems, VLSI, Computer Architecture",https://www.nitp.ac.in/dept/cs/faculty,1,queued,
+Anurag Singh Baghel,bihar,patna,NIT Patna,NIT,CSE,asbaghel@nitp.ac.in,"Soft Computing, Nature-inspired Algorithms",https://nitp.ac.in/cse,1,queued,
+Satya Ranjan Dash,bihar,patna,NIT Patna,NIT,CSE,srdash@nitp.ac.in,"Machine Learning, Bioinformatics, Text Mining",https://nitp.ac.in/cse,1,queued,
+Nitesh Kumar Bharadwaj,bihar,patna,NIT Patna,NIT,CSE,nkbharadwaj@nitp.ac.in,"Network Security, Cryptography, Blockchain",https://nitp.ac.in/cse,1,queued,
+Awadhesh Kumar,bihar,patna,NIT Patna,NIT,CSE,awkumar@nitp.ac.in,"Distributed Systems, Fault Tolerance, Concurrency",https://nitp.ac.in/cse,1,queued,
+Ranjeet Kumar Rout,bihar,patna,NIT Patna,NIT,CSE,rkrout@nitp.ac.in,"Bioinformatics, Protein Structure, ML Applications",https://nitp.ac.in/cse,1,queued,

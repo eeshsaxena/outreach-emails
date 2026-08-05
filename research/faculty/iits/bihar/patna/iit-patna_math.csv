@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ajit Kumar,bihar,patna,IIT Patna,IIT,Mathematics,ajit@iitp.ac.in,"Functional Analysis, Operator Theory, C*-Algebras",https://www.iitp.ac.in/~ajit,1,queued,
+Chandrashekhar Meshram,bihar,patna,IIT Patna,IIT,Mathematics,cmeshram@iitp.ac.in,"Cryptography, Number Theory, Coding Theory",https://www.iitp.ac.in/~cmeshram,1,queued,
+Krishnendu Gongopadhyay,bihar,patna,IIT Patna,IIT,Mathematics,krishnendu@iitp.ac.in,"Hyperbolic Geometry, Kleinian Groups, 3-manifolds",https://www.iitp.ac.in/~krishnendu,1,queued,
+Manoj Kumar Patel,bihar,patna,IIT Patna,IIT,Mathematics,mkpatel@iitp.ac.in,"Numerical PDEs, Computational Fluid Dynamics",https://www.iitp.ac.in/~mkpatel,1,queued,
+Sushil Kumar Singh,bihar,patna,IIT Patna,IIT,Mathematics,sks@iitp.ac.in,"Statistics, Biostatistics, Clinical Trial Designs",https://www.iitp.ac.in/~sks,1,queued,

@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ankur Gupta,maharashtra,mumbai,IIT Bombay,IIT,Physics,ankur@phy.iitb.ac.in,"Computational Physics, Quantum Information, Condensed Matter",https://www.phy.iitb.ac.in/~ankur,1,queued,
+G. Krishnamurthy,maharashtra,mumbai,IIT Bombay,IIT,Physics,gk@phy.iitb.ac.in,"Theoretical Physics, Quantum Field Theory",https://www.phy.iitb.ac.in/~gk,1,queued,
+Kantimati Kulkarni,maharashtra,mumbai,IIT Bombay,IIT,Physics,kantimati@phy.iitb.ac.in,"Biophysics, Computational Biology, Statistical Mechanics",https://www.phy.iitb.ac.in/~kantimati,1,queued,
+Rajdeep Sensarma,maharashtra,mumbai,IIT Bombay,IIT,Physics,sensarma@phy.iitb.ac.in,"Condensed Matter, Quantum Simulation, Many-body Physics",https://www.phy.iitb.ac.in/~sensarma,1,queued,
+Sourin Das,maharashtra,mumbai,IIT Bombay,IIT,Physics,sorin@phy.iitb.ac.in,"Topological Materials, Quantum Transport, Mesoscopic Physics",https://www.phy.iitb.ac.in/~sorin,1,queued,
+Vikram Rentala,maharashtra,mumbai,IIT Bombay,IIT,Physics,vikram@phy.iitb.ac.in,"High Energy Physics, Machine Learning for Physics",https://www.phy.iitb.ac.in/~vikram,1,queued,

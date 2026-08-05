@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Navin Kumar Sah,himachal-pradesh,mandi,IIT Mandi,IIT,Mathematics,nksah@iitmandi.ac.in,"Computational Mathematics, Numerical Methods",https://www.iitmandi.ac.in/faculty/nksah,1,queued,
+Raju Basak,himachal-pradesh,mandi,IIT Mandi,IIT,Mathematics,rbasak@iitmandi.ac.in,"Algebra, Ring Theory, Module Theory",https://www.iitmandi.ac.in/faculty/rbasak,1,queued,
+Rupesh Nasre,himachal-pradesh,mandi,IIT Mandi,IIT,Mathematics,rnasre@iitmandi.ac.in,"Graph Algorithms, Parallel Computing, GPU Programming",https://www.iitmandi.ac.in/faculty/rnasre,1,queued,
+Samir Kumar Bhanja,himachal-pradesh,mandi,IIT Mandi,IIT,Mathematics,skbhanja@iitmandi.ac.in,"Probability, Statistics, Applied Mathematics",https://www.iitmandi.ac.in/faculty/skbhanja,1,queued,

@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Poonam Goyal,rajasthan,pilani,BITS Pilani,BITS,CSE,poonam.goyal@pilani.bits-pilani.ac.in,"Data Mining, Machine Learning, Healthcare Informatics",https://www.bits-pilani.ac.in/pilani/poonamgoyal/profile,1,queued,
+Pankaj Kumar,rajasthan,pilani,BITS Pilani,BITS,CSE,pankaj.kumar@pilani.bits-pilani.ac.in,"Formal Verification, Model Checking, Software Testing",https://www.bits-pilani.ac.in/pilani/pankajkumar/profile,1,queued,
+Kamlesh Tiwari,rajasthan,pilani,BITS Pilani,BITS,CSE,kamlesh.tiwari@pilani.bits-pilani.ac.in,"Bioinformatics, Computational Biology, Machine Learning",https://www.bits-pilani.ac.in/pilani/kamleshtiwari/profile,1,queued,
+Aruna Malapati,rajasthan,pilani,BITS Pilani,BITS,CSE,aruna@pilani.bits-pilani.ac.in,"Natural Language Processing, Text Mining, Information Retrieval",https://www.bits-pilani.ac.in/pilani/arunamalapati/profile,1,queued,
+Navneet Goyal,rajasthan,pilani,BITS Pilani,BITS,CSE,gnavneet@pilani.bits-pilani.ac.in,"Algorithms, Graph Theory, Combinatorics",https://www.bits-pilani.ac.in/pilani/navneetgoyal/profile,1,queued,
+Sunita Sarkar,rajasthan,pilani,BITS Pilani,BITS,CSE,ssarkar@pilani.bits-pilani.ac.in,"Cloud Computing, Distributed Systems, IoT",https://www.bits-pilani.ac.in/pilani/sunitasarkar/profile,1,queued,
+Tanupriya Choudhury,rajasthan,pilani,BITS Pilani,BITS,CSE,tanupriya@pilani.bits-pilani.ac.in,"Big Data Analytics, Cloud Computing, Deep Learning",https://www.bits-pilani.ac.in/pilani/tanupriya/profile,1,queued,
+Vipin Tyagi,rajasthan,pilani,BITS Pilani,BITS,CSE,vipin.tyagi@pilani.bits-pilani.ac.in,"Image Processing, Watermarking, Computer Vision",https://www.bits-pilani.ac.in/pilani/vipintyagi/profile,1,queued,
+G. Ram Mohana Reddy,rajasthan,pilani,BITS Pilani,BITS,CSE,grmreddy@pilani.bits-pilani.ac.in,"Software Engineering, Service-oriented Architecture",https://www.bits-pilani.ac.in/pilani/grmreddy/profile,1,queued,
+Yatindra Nath Singh,rajasthan,pilani,BITS Pilani,BITS,ECE,ynsingh@pilani.bits-pilani.ac.in,"Wireless Networks, IoT, 5G, Optical Networks",https://www.bits-pilani.ac.in/pilani/ynsingh/profile,1,queued,

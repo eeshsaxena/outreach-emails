@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A. Veeraraghavan,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,avr@iitm.ac.in,"Computational Geometry, Combinatorics, Algorithms",https://www.math.iitm.ac.in/~avr,1,queued,
+Dhiraj Bhosale,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,dhiraj@iitm.ac.in,"Algebraic Geometry, Representation Theory",https://www.math.iitm.ac.in/~dhiraj,1,queued,
+Kartick Adhikari,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,kartick@iitm.ac.in,"Random Matrix Theory, Probability, Point Processes",https://www.math.iitm.ac.in/~kartick,1,queued,
+Mithun Bhowmick,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,mithun@iitm.ac.in,"Representation Theory, Lie Groups, Harmonic Analysis",https://www.math.iitm.ac.in/~mithun,1,queued,
+Narahari Umanath Prabhu,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,nupr@iitm.ac.in,"Statistics, Probability, Stochastic Processes",https://www.math.iitm.ac.in/~nupr,1,queued,
+Neela Nataraj,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,neela@iitm.ac.in,"Numerical Methods, PDEs, Finite Element Analysis",https://www.math.iitm.ac.in/~neela,1,queued,
+Rajesh Sundaresan,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,rajeshs@ee.iitm.ac.in,"Information Theory, Machine Learning, Networks",https://www.ee.iitm.ac.in/~rajeshs,1,queued,
+S. Kesavan,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,skesavan@iitm.ac.in,"Functional Analysis, PDEs, Homogenization",https://www.math.iitm.ac.in/~skesavan,1,queued,
+Sukumar Srikant,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,ssrikant@iitm.ac.in,"Operations Research, Optimization, Stochastic Modeling",https://www.math.iitm.ac.in/~ssrikant,1,queued,
+T. Amaranath,tamil-nadu,chennai,IIT Madras,IIT,Mathematics,amaran@iitm.ac.in,"Fluid Mechanics, Hydrodynamics, PDEs",https://www.math.iitm.ac.in/~amaran,1,queued,

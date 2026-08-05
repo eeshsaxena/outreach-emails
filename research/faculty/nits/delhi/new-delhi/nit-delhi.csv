@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhimanyu Kumar,delhi,new-delhi,NIT Delhi,NIT,CSE,abhimanyu@nitdelhi.ac.in,"Distributed Systems, Wireless Networks, IoT",https://www.nitdelhi.ac.in/faculty/cse/abhimanyu,1,queued,
+Anita Rawat,delhi,new-delhi,NIT Delhi,NIT,CSE,anita@nitdelhi.ac.in,"Machine Learning, Computer Vision, Deep Learning",https://www.nitdelhi.ac.in/faculty/cse/anita,1,queued,
+Harish Kumar,delhi,new-delhi,NIT Delhi,NIT,CSE,harish@nitdelhi.ac.in,"Data Mining, Big Data Analytics, Cloud",https://www.nitdelhi.ac.in/faculty/cse/harish,1,queued,
+Prabhjot Kaur,delhi,new-delhi,NIT Delhi,NIT,CSE,prabhjot@nitdelhi.ac.in,"Computer Networks, Security, IoT",https://www.nitdelhi.ac.in/faculty/cse/prabhjot,1,queued,
+Amanpreet Kaur,delhi,new-delhi,NIT Delhi,NIT,CSE,amanpreet@nitdelhi.ac.in,"Cloud Security, Data Privacy, Federated Learning",https://nitdelhi.ac.in/cse,1,queued,
+Gaurav Varshney,delhi,new-delhi,NIT Delhi,NIT,CSE,gvarshney@nitdelhi.ac.in,"Cybersecurity, Web Application Security, Malware",https://nitdelhi.ac.in/cse,1,queued,
+Kamal Bansal,delhi,new-delhi,NIT Delhi,NIT,CSE,kbansal@nitdelhi.ac.in,"Soft Computing, Evolutionary Algorithms, Scheduling",https://nitdelhi.ac.in/cse,1,queued,
+Sachi Nandan Mohanty,delhi,new-delhi,NIT Delhi,NIT,CSE,snmohanty@nitdelhi.ac.in,"Machine Learning, Deep Learning, Healthcare AI",https://nitdelhi.ac.in/cse,1,queued,
+Manish Gaur,delhi,new-delhi,NIT Delhi,NIT,CSE,mgaur@nitdelhi.ac.in,"NLP, Knowledge Graphs, Semantic Web",https://nitdelhi.ac.in/cse,1,queued,
+Prateek Agrawal,delhi,new-delhi,NIT Delhi,NIT,CSE,pagrawal@nitdelhi.ac.in,"Bioinformatics, Genomics, Computational Biology",https://nitdelhi.ac.in/cse,1,queued,

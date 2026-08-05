@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Jasleen Lugani,telangana,hyderabad,IIT Hyderabad,IIT,Physics,jasleen@phy.iith.ac.in,"Quantum Computing, Quantum Optics, Photonics",https://iith.ac.in/phy/jasleen,1,queued,
+K. V. Adarsh,telangana,hyderabad,IIT Hyderabad,IIT,Physics,adarsh@phy.iith.ac.in,"Nanostructures, Photonics, Ultrafast Spectroscopy",https://iith.ac.in/phy/adarsh,1,queued,
+Ratheesh Kumar Meleppat,telangana,hyderabad,IIT Hyderabad,IIT,Physics,ratheesh@phy.iith.ac.in,"Optical Coherence Tomography, Biophotonics",https://iith.ac.in/phy/ratheesh,1,queued,
+Saurabh Basu,telangana,hyderabad,IIT Hyderabad,IIT,Physics,sbasu@phy.iith.ac.in,"Condensed Matter Theory, Quantum Many-body Physics",https://iith.ac.in/phy/sbasu,1,queued,
+Suresh Govindarajan,telangana,hyderabad,IIT Hyderabad,IIT,Physics,sureshg@phy.iith.ac.in,"String Theory, Mathematical Physics, Moonshine",https://iith.ac.in/phy/sureshg,1,queued,

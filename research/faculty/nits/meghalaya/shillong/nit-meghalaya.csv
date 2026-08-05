@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Debdatta Kandar,meghalaya,shillong,NIT Meghalaya,NIT,CSE,debdatta@nitm.ac.in,"Image Processing, Computer Vision, Deep Learning",https://www.nitm.ac.in/faculty/cse,1,queued,
+Naveen Kumar Gondhi,meghalaya,shillong,NIT Meghalaya,NIT,CSE,naveen@nitm.ac.in,"Machine Learning, Bioinformatics, NLP",https://www.nitm.ac.in/faculty/cse,1,queued,
+Partha Sarathi Paul,meghalaya,shillong,NIT Meghalaya,NIT,CSE,pspaul@nitm.ac.in,"Algorithms, Data Structures, Parallel Computing",https://www.nitm.ac.in/faculty/cse,1,queued,
+Sarat Chandra Nayak,meghalaya,shillong,NIT Meghalaya,NIT,CSE,scnayak@nitm.ac.in,"Computer Vision, Medical Imaging, Deep Learning",https://nitm.ac.in/cse,1,queued,
+Subrata Kumar Pal,meghalaya,shillong,NIT Meghalaya,NIT,CSE,skpal@nitm.ac.in,"Wireless Networks, Ad hoc Networks, IoT",https://nitm.ac.in/cse,1,queued,
+Bibekananda Jena,meghalaya,shillong,NIT Meghalaya,NIT,CSE,bjena@nitm.ac.in,"Machine Learning, Data Mining, NLP",https://nitm.ac.in/cse,1,queued,
+Anupam Biswas,meghalaya,shillong,NIT Meghalaya,NIT,CSE,abiswas@nitm.ac.in,"Evolutionary Computation, Optimization, Scheduling",https://nitm.ac.in/cse,1,queued,
+Manish Kumar,meghalaya,shillong,NIT Meghalaya,NIT,CSE,mkumar@nitm.ac.in,"Network Security, Intrusion Detection, Privacy",https://nitm.ac.in/cse,1,queued,
+Jaya Sil,meghalaya,shillong,NIT Meghalaya,NIT,CSE,jsil@nitm.ac.in,"Soft Computing, Feature Selection, Classification",https://nitm.ac.in/cse,1,queued,
+Kalpana Sharma,meghalaya,shillong,NIT Meghalaya,NIT,CSE,ksharma@nitm.ac.in,"Cloud Computing, Resource Management",https://nitm.ac.in/cse,1,queued,

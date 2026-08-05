@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Auqib Hamid Lone,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,auqib@nitsri.ac.in,"Machine Learning, Deep Learning, Health Informatics",https://www.nitsri.ac.in/Department/Computer%20Science%20&%20Engineering/faculty,1,queued,
+Gh. Mohiuddin Bhat,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,gmbhat@nitsri.ac.in,"Image Processing, Compression, Biometrics",https://www.nitsri.ac.in/Department/Computer%20Science%20&%20Engineering/faculty,1,queued,
+Muzafar Rasool Bhat,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,muzafar@nitsri.ac.in,"Network Security, Intrusion Detection, Trust Systems",https://www.nitsri.ac.in/Department/Computer%20Science%20&%20Engineering/faculty,1,queued,
+Shabir Ahmad Sofi,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,sasofi@nitsri.ac.in,"Machine Learning, Data Analytics, Cloud Computing",https://www.nitsri.ac.in/Department/Computer%20Science%20&%20Engineering/faculty,1,queued,
+Assif Assad,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,aassad@nitsri.ac.in,"Computer Vision, Pattern Recognition, Deep Learning",https://nitsri.ac.in/cse,1,queued,
+Javid Ahmad Parray,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,japarray@nitsri.ac.in,"Cryptography, Security, Blockchain",https://nitsri.ac.in/cse,1,queued,
+Shahid Shafi Dar,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,ssdar@nitsri.ac.in,"Machine Learning, NLP, Text Classification",https://nitsri.ac.in/cse,1,queued,
+Iram Mushtaq,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,imushtaq@nitsri.ac.in,"Wireless Communications, OFDM, Signal Processing",https://nitsri.ac.in/cse,1,queued,
+Peer Zahoor Ahmad,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,pzahmad@nitsri.ac.in,"Mobile Computing, Cloud, IoT Security",https://nitsri.ac.in/cse,1,queued,
+Umar Manzoor,jammu-kashmir,srinagar,NIT Srinagar,NIT,CSE,umanzoor@nitsri.ac.in,"Distributed AI, Multi-agent Systems",https://nitsri.ac.in/cse,1,queued,

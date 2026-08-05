@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ankur Srivastava,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,ankur@iitgn.ac.in,"Power Systems, Energy, Optimization",https://iitgn.ac.in/faculty/ee/ankur,1,queued,
+Joycee Mekie,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,joycee@iitgn.ac.in,"VLSI, Low Power Design, Circuit Testing",https://iitgn.ac.in/faculty/ee/joycee,1,queued,
+Nitin Khanna,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,nitin.khanna@iitgn.ac.in,"Signal Processing, Image Forensics, Multimedia Security",https://iitgn.ac.in/faculty/ee/nitin,1,queued,
+Prasanna Bhalerao,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,prasanna@iitgn.ac.in,"Medical Image Analysis, Computer Vision, Deep Learning",https://iitgn.ac.in/faculty/ee/prasanna,1,queued,
+Rajen Bhatt,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,rajen.bhatt@iitgn.ac.in,"Machine Learning, Biometrics, Pattern Recognition",https://iitgn.ac.in/faculty/ee/rajen,1,queued,
+Sameer Kulkarni,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,sameer@iitgn.ac.in,"Computer Networks, SDN, Security",https://iitgn.ac.in/faculty/ee/sameer,1,queued,
+Shabbir N. Merchant,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,shabbir@iitgn.ac.in,"Wireless Sensor Networks, IoT, Signal Processing",https://iitgn.ac.in/faculty/ee/shabbir,1,queued,
+Uttam Ghoshal,gujarat,gandhinagar,IIT Gandhinagar,IIT,EE,uttam@iitgn.ac.in,"Thermal Management, Heat Transfer, Energy Systems",https://iitgn.ac.in/faculty/ee/uttam,1,queued,

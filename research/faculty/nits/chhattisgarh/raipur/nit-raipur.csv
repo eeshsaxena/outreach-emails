@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Kumar Sao,chhattisgarh,raipur,NIT Raipur,NIT,CSE,aksao@nitrr.ac.in,"Signal Processing, Machine Learning, Biometrics",https://www.nitrr.ac.in/cse/faculty/aksao,1,queued,
+Neetesh Gupta,chhattisgarh,raipur,NIT Raipur,NIT,CSE,neetesh.gupta@nitrr.ac.in,"Distributed Systems, Cloud Computing, Algorithms",https://www.nitrr.ac.in/cse/faculty/neetesh,1,queued,
+Pradeep Singh,chhattisgarh,raipur,NIT Raipur,NIT,CSE,psingh@nitrr.ac.in,"Data Mining, Machine Learning, Pattern Recognition",https://www.nitrr.ac.in/cse/faculty/psingh,1,queued,
+Rinki Sharma,chhattisgarh,raipur,NIT Raipur,NIT,CSE,rinki@nitrr.ac.in,"Network Security, Cryptography, Mobile Computing",https://www.nitrr.ac.in/cse/faculty/rinki,1,queued,
+Saurabh Kumar Tiwary,chhattisgarh,raipur,NIT Raipur,NIT,CSE,sktiwary@nitrr.ac.in,"Algorithms, Graph Theory, Complexity",https://www.nitrr.ac.in/cse/faculty/sktiwary,1,queued,
+A.K. Sinha,chhattisgarh,raipur,NIT Raipur,NIT,CSE,aksinha@nitrr.ac.in,"Soft Computing, Fuzzy Logic, Neural Networks",https://nitrr.ac.in/cse,1,queued,
+Bharat Gupta,chhattisgarh,raipur,NIT Raipur,NIT,CSE,bgupta@nitrr.ac.in,"Computer Networks, IoT, Wireless Sensor Networks",https://nitrr.ac.in/cse,1,queued,
+Mukesh Kumar,chhattisgarh,raipur,NIT Raipur,NIT,CSE,mkumar@nitrr.ac.in,"Image Processing, Computer Vision, Deep Learning",https://nitrr.ac.in/cse,1,queued,
+Surya Narayan Panda,chhattisgarh,raipur,NIT Raipur,NIT,CSE,snpanda@nitrr.ac.in,"Database Systems, Data Warehousing, Big Data",https://nitrr.ac.in/cse,1,queued,
+Tripti Goel,chhattisgarh,raipur,NIT Raipur,NIT,CSE,tgoel@nitrr.ac.in,"Deep Learning, Medical Image Analysis, Classification",https://nitrr.ac.in/cse,1,queued,

@@ -1,0 +1,31 @@
+name,institute,institute_type,department,email,research_area,personal_site,priority,status,state,city,notes
+Tanmoy Chakraborty,IIT Kharagpur,IIT,CSE,tanmoy@cse.iitkgp.ac.in,"Social Networks, Cyber Security, NLP",https://cse.iitkgp.ac.in/~tanmoy,1,queued,west-bengal,kharagpur,
+Tapas Kumar Gandhi,IIT Kharagpur,IIT,EE,tkg@ee.iitkgp.ac.in,"Medical Imaging, Machine Learning, Biomedical Engineering",https://www.iitkgp.ac.in/department/EE/faculty/ee-tkg,1,queued,west-bengal,kharagpur,
+A. Veeraraghavan,IIT Madras,IIT,Mathematics,avr@iitm.ac.in,"Computational Geometry, Combinatorics, Algorithms",https://www.math.iitm.ac.in/~avr,1,queued,tamil-nadu,chennai,
+Andreas Dengel,IIT Madras,IIT,EE,andreas@ee.iitm.ac.in,"Document Analysis, Machine Learning, Pattern Recognition",https://www.ee.iitm.ac.in/~andreas,1,queued,tamil-nadu,chennai,
+Anil Prabhakar,IIT Madras,IIT,EE,anilpr@ee.iitm.ac.in,"Photonics, Quantum Communication, Optical Fiber",https://www.ee.iitm.ac.in/~anilpr,1,queued,tamil-nadu,chennai,
+Anil Shaji,IIT Madras,IIT,Physics,anilshaji@iitm.ac.in,"Quantum Information, Quantum Computing, Open Systems",https://physics.iitm.ac.in/~anilshaji,1,queued,tamil-nadu,chennai,
+Anurag Mittal,IIT Madras,IIT,CSE,amittal@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://cse.iitm.ac.in/~amittal/,1,queued,tamil-nadu,chennai,Professor
+Arul Lakshminarayan,IIT Madras,IIT,EE,arul@physics.iitm.ac.in,"Quantum Chaos, Quantum Information, Many-body Systems",https://physics.iitm.ac.in/~arul,1,queued,tamil-nadu,chennai,
+Ayon Chakraborty,IIT Madras,IIT,CSE,ayon@cse.iitm.ac.in,"Systems and Networking, Artificial Intelligence and Machine Learning",https://cse.iitm.ac.in/~ayon/,1,queued,tamil-nadu,chennai,Assistant Professor
+Balasubramanian Sriram,IIT Madras,IIT,Physics,bsriram@iitm.ac.in,"Statistical Mechanics, Chaos, Non-linear Dynamics",https://physics.iitm.ac.in/~bsriram,1,queued,tamil-nadu,chennai,
+Chandra Sekhar C,IIT Madras,IIT,CSE,chandra@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,,1,queued,tamil-nadu,chennai,Professor
+Chandrashekar Lakshminarayanan,IIT Madras,IIT,CSE,chandrashekar@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://sites.google.com/view/chandrashekar-lakshminarayanan,1,queued,tamil-nadu,chennai,Assistant Professor
+Dhiraj Bhosale,IIT Madras,IIT,Mathematics,dhiraj@iitm.ac.in,"Algebraic Geometry, Representation Theory",https://www.math.iitm.ac.in/~dhiraj,1,queued,tamil-nadu,chennai,
+Ganapati Panda,IIT Madras,IIT,EE,gpanda@ee.iitm.ac.in,"Signal Processing, Machine Learning, Neural Networks",https://www.ee.iitm.ac.in/~gpanda,1,queued,tamil-nadu,chennai,
+Hema A Murthy,IIT Madras,IIT,CSE,hema@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,,1,queued,tamil-nadu,chennai,Professor Emeritus (Honorary)
+Kartick Adhikari,IIT Madras,IIT,Mathematics,kartick@iitm.ac.in,"Random Matrix Theory, Probability, Point Processes",https://www.math.iitm.ac.in/~kartick,1,queued,tamil-nadu,chennai,
+Kaushik Mitra,IIT Madras,IIT,EE,kaushik@ee.iitm.ac.in,"Computational Photography, Computer Vision, Image Processing",https://www.ee.iitm.ac.in/~kaushik,1,queued,tamil-nadu,chennai,
+Krishna Jagannathan,IIT Madras,IIT,EE,krishnaj@ee.iitm.ac.in,"Stochastic Networks, Queuing Theory, Machine Learning",https://www.ee.iitm.ac.in/~krishnaj,1,queued,tamil-nadu,chennai,
+Krishnamurthy Subramaniam,IIT Madras,IIT,Physics,ks@physics.iitm.ac.in,"Soft Condensed Matter, Biophysics, Statistical Physics",https://physics.iitm.ac.in/~ks,1,queued,tamil-nadu,chennai,
+Madhavan Swaminathan,IIT Madras,IIT,EE,madhavan@ee.iitm.ac.in,"Signal Integrity, Electronic Packaging, AI for EDA",https://www.ee.iitm.ac.in/~madhavan,1,queued,tamil-nadu,chennai,
+Manikandan Narayanan,IIT Madras,IIT,CSE,nmanik@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,http://maninarayanan.com/index.html,1,queued,tamil-nadu,chennai,Associate Professor
+Manikandan Padmanabhan,IIT Madras,IIT,Physics,mani@physics.iitm.ac.in,"Condensed Matter, Topological Materials, Superconductivity",https://physics.iitm.ac.in/~mani,1,queued,tamil-nadu,chennai,
+Mithun Bhowmick,IIT Madras,IIT,Mathematics,mithun@iitm.ac.in,"Representation Theory, Lie Groups, Harmonic Analysis",https://www.math.iitm.ac.in/~mithun,1,queued,tamil-nadu,chennai,
+Narahari Umanath Prabhu,IIT Madras,IIT,Mathematics,nupr@iitm.ac.in,"Statistics, Probability, Stochastic Processes",https://www.math.iitm.ac.in/~nupr,1,queued,tamil-nadu,chennai,
+Neela Nataraj,IIT Madras,IIT,Mathematics,neela@iitm.ac.in,"Numerical Methods, PDEs, Finite Element Analysis",https://www.math.iitm.ac.in/~neela,1,queued,tamil-nadu,chennai,
+Nitin Chandrachoodan,IIT Madras,IIT,EE,nitin@ee.iitm.ac.in,"VLSI, Reconfigurable Computing, Embedded Systems",https://www.ee.iitm.ac.in/~nitin,1,queued,tamil-nadu,chennai,
+Prashanth L A,IIT Madras,IIT,CSE,prashla@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://cse.iitm.ac.in/~prashla/,1,queued,tamil-nadu,chennai,Associate Professor
+Pulkit Verma,IIT Madras,IIT,CSE,pulkitv@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://pulkitverma.net/,1,queued,tamil-nadu,chennai,Assistant Professor
+Rajesh Singh,IIT Madras,IIT,Physics,singhraj@physics.iitm.ac.in,"Statistical Physics, Active Matter, Biophysics",https://physics.iitm.ac.in/~singhraj,1,queued,tamil-nadu,chennai,
+Rajesh Sundaresan,IIT Madras,IIT,Mathematics,rajeshs@ee.iitm.ac.in,"Information Theory, Machine Learning, Networks",https://www.ee.iitm.ac.in/~rajeshs,1,queued,tamil-nadu,chennai,

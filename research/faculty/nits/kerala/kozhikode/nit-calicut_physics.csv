@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+B. Sankarraman,kerala,kozhikode,NIT Calicut,NIT,Physics,bsankarraman@nitc.ac.in,"Photonics, Fiber Optics, Optical Sensors",https://www.nitc.ac.in/index.php/departments/physics/faculties,1,queued,
+K. E. Rajendra Kumar,kerala,kozhikode,NIT Calicut,NIT,Physics,kerk@nitc.ac.in,"Condensed Matter, Thin Films, Semiconductor Devices",https://www.nitc.ac.in/index.php/departments/physics/faculties,1,queued,
+Peer Mohamed M,kerala,kozhikode,NIT Calicut,NIT,Physics,peermohamed@nitc.ac.in,"Computational Physics, DFT, Materials Science",https://www.nitc.ac.in/index.php/departments/physics/faculties,1,queued,
+Rajan Jha,kerala,kozhikode,NIT Calicut,NIT,Physics,rajanjha@nitc.ac.in,"Photonics, Nanophotonics, Surface Plasmon Resonance",https://www.nitc.ac.in/index.php/departments/physics/faculties,1,queued,

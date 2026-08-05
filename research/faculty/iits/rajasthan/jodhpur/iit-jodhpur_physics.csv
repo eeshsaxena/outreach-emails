@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Alok Shukla,rajasthan,jodhpur,IIT Jodhpur,IIT,Physics,aloksh@iitj.ac.in,"Correlated Electron Systems, Computational Methods",https://iitj.ac.in/faculty/index.php?lid=aloksh,1,queued,
+Gaurav Mukherjee,rajasthan,jodhpur,IIT Jodhpur,IIT,Physics,gauravmuk@iitj.ac.in,"Soft Matter, Active Matter, Driven Systems",https://iitj.ac.in/faculty/index.php?lid=gauravmuk,1,queued,
+Prashant Kumar,rajasthan,jodhpur,IIT Jodhpur,IIT,Physics,prashant@iitj.ac.in,"Solar Energy, Thin Films, Materials Science",https://iitj.ac.in/faculty/index.php?lid=prashant,1,queued,
+Shubhro Bhattacharjee,rajasthan,jodhpur,IIT Jodhpur,IIT,Physics,shubhro@iitj.ac.in,"Quantum Information, Condensed Matter, Entanglement",https://iitj.ac.in/faculty/index.php?lid=shubhro,1,queued,
+Sudhanshu Choudhary,rajasthan,jodhpur,IIT Jodhpur,IIT,Physics,sudhanshu@iitj.ac.in,"Astrophysics, Observational Cosmology, Galaxy Formation",https://iitj.ac.in/faculty/index.php?lid=sudhanshu,1,queued,

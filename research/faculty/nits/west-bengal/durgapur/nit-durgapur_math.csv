@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Asim Kumar Das,west-bengal,durgapur,NIT Durgapur,NIT,Mathematics,akdas@nitdgp.ac.in,"Differential Equations, Mathematical Biology",https://nitdgp.ac.in/department/MA/faculty/akdas,1,queued,
+B. N. Mandal,west-bengal,durgapur,NIT Durgapur,NIT,Mathematics,bnmandal@nitdgp.ac.in,"Water Waves, Integral Equations, Fluid Mechanics",https://nitdgp.ac.in/department/MA/faculty/bnmandal,1,queued,
+Krishnendu Chattopadhyay,west-bengal,durgapur,NIT Durgapur,NIT,Mathematics,kchattop@nitdgp.ac.in,"Fuzzy Sets, Topology, Soft Computing",https://nitdgp.ac.in/department/MA/faculty/kchattop,1,queued,
+Nirmalya Kumar Manna,west-bengal,durgapur,NIT Durgapur,NIT,Mathematics,nkmanna@nitdgp.ac.in,"Heat Transfer, CFD, Thermodynamics",https://nitdgp.ac.in/department/MA/faculty/nkmanna,1,queued,
+Sujata Bhatt,west-bengal,durgapur,NIT Durgapur,NIT,Mathematics,sbhatt@nitdgp.ac.in,"Statistics, Biostatistics, Survival Analysis",https://nitdgp.ac.in/department/MA/faculty/sbhatt,1,queued,

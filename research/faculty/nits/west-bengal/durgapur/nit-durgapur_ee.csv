@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A. K. Kar,west-bengal,durgapur,NIT Durgapur,NIT,EE,akkar@nitdgp.ac.in,"Biomedical Signal Processing, Epilepsy Detection",https://nitdgp.ac.in/department/EC/faculty/akkar,1,queued,
+Bidyut Baran Chaudhuri,west-bengal,durgapur,NIT Durgapur,NIT,EE,bbcisical@nitdgp.ac.in,"Document Image Analysis, OCR, Pattern Recognition",https://nitdgp.ac.in/department/EC/faculty/bbcisical,1,queued,
+P. K. Chattopadhyay,west-bengal,durgapur,NIT Durgapur,NIT,EE,pkc@nitdgp.ac.in,"Evolutionary Algorithms, Power Systems, Optimization",https://nitdgp.ac.in/department/EE/faculty/pkc,1,queued,
+Rajesh Ghosh,west-bengal,durgapur,NIT Durgapur,NIT,EE,rghosh@nitdgp.ac.in,"VLSI, Digital Design, Embedded Systems",https://nitdgp.ac.in/department/EC/faculty/rghosh,1,queued,
+Sambhunath Biswas,west-bengal,durgapur,NIT Durgapur,NIT,EE,sbiswas@nitdgp.ac.in,"Computer Vision, Image Analysis, Pattern Recognition",https://nitdgp.ac.in/department/EC/faculty/sbiswas,1,queued,
+Subhash Chandra Panja,west-bengal,durgapur,NIT Durgapur,NIT,EE,scpanja@nitdgp.ac.in,"Wireless Communications, 5G, Network Security",https://nitdgp.ac.in/department/EC/faculty/scpanja,1,queued,

@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anurag Sharma,delhi,new-delhi,IIT Delhi,IIT,Physics,asharma@physics.iitd.ac.in,"Photonics, Fiber Optics, Computational Electromagnetics",https://physics.iitd.ac.in/~asharma,1,queued,
+Manish Jain,delhi,new-delhi,IIT Delhi,IIT,Physics,manishjain@physics.iitd.ac.in,"Computational Materials Science, DFT, Machine Learning for Materials",https://physics.iitd.ac.in/~manishjain,1,queued,
+Pratap Kumar Sahoo,delhi,new-delhi,IIT Delhi,IIT,Physics,pksahoo@physics.iitd.ac.in,"Nanotechnology, 2D Materials, Surface Science",https://physics.iitd.ac.in/~pksahoo,1,queued,
+Rajesh Kumar,delhi,new-delhi,IIT Delhi,IIT,Physics,rajesh@physics.iitd.ac.in,"Polymer Physics, Soft Matter, Biophysics",https://physics.iitd.ac.in/~rajesh,1,queued,
+Sudhir Kumar Vempati,delhi,new-delhi,IIT Delhi,IIT,Physics,vempati@physics.iitd.ac.in,"Theoretical High Energy Physics, Supersymmetry",https://physics.iitd.ac.in/~vempati,1,queued,

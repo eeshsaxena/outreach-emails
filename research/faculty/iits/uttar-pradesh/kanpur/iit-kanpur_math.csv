@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amit Apte,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,amitapte@iitk.ac.in,"Data Assimilation, Dynamical Systems, Stochastic Methods",https://home.iitk.ac.in/~amitapte,1,queued,
+Gyan Prakash Tripathi,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,gpt@iitk.ac.in,"Number Theory, Automorphic Forms",https://home.iitk.ac.in/~gpt,1,queued,
+Indranil Biswas,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,indranil@iitk.ac.in,"Algebraic Geometry, Vector Bundles, Moduli Spaces",https://home.iitk.ac.in/~indranil,1,queued,
+Manindra Agrawal,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,manindra@iitk.ac.in,"Computational Complexity, Algebraic Geometry, Derandomization",https://www.cse.iitk.ac.in/users/manindra,1,queued,
+Nitin Saxena,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,nitin@iitk.ac.in,"Algebraic Complexity, Arithmetic Circuits, Derandomization",https://home.iitk.ac.in/~nitin,1,queued,
+Prahlad Vaidyanathan,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,prahlad@iitk.ac.in,"Operator Algebras, C*-Algebras, Quantum Groups",https://home.iitk.ac.in/~prahlad,1,queued,
+Rama Mishra,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,amishra@iitk.ac.in,"Knot Theory, Low-dimensional Topology",https://home.iitk.ac.in/~amishra,1,queued,
+Shobha Madan,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,shobha@iitk.ac.in,"Harmonic Analysis, Wavelets, Sampling Theory",https://home.iitk.ac.in/~shobha,1,queued,
+Siddhartha Mishra,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,sidmishr@iitk.ac.in,"Numerical Analysis, Conservation Laws, Machine Learning for PDEs",https://home.iitk.ac.in/~sidmishr,1,queued,
+Somenath Biswas,uttar-pradesh,kanpur,IIT Kanpur,IIT,Mathematics,sbiswas@iitk.ac.in,"Computational Complexity, Algorithms, Algebra",https://home.iitk.ac.in/~sbiswas,1,queued,

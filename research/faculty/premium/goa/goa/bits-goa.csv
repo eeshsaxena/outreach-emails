@@ -1,0 +1,9 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ashwin Kothari,goa,goa,BITS Goa,BITS,CSE,ashwinkothari@goa.bits-pilani.ac.in,"Computer Networks, Software Defined Networking",https://www.bits-pilani.ac.in/goa/ashwinkothari/profile,1,queued,
+Neena Goveas,goa,goa,BITS Goa,BITS,CSE,neena@goa.bits-pilani.ac.in,"Data Mining, Machine Learning, Bioinformatics",https://www.bits-pilani.ac.in/goa/neenagoveas/profile,1,queued,
+Sunita M,goa,goa,BITS Goa,BITS,CSE,sunitam@goa.bits-pilani.ac.in,"Software Engineering, Agile Methods, Requirements",https://www.bits-pilani.ac.in/goa/sunitam/profile,1,queued,
+Srikanth Prabhu,goa,goa,BITS Goa,BITS,CSE,psrikanth@goa.bits-pilani.ac.in,"Parallel Computing, GPU Computing, Cloud",https://www.bits-pilani.ac.in/goa/srikanth/profile,1,queued,
+Shyamala G,goa,goa,BITS Goa,BITS,CSE,shyamala@goa.bits-pilani.ac.in,"Natural Language Processing, Text Mining, Information Retrieval",https://www.bits-pilani.ac.in/goa/shyamala/profile,1,queued,
+Arti Mohanram,goa,goa,BITS Goa,BITS,CSE,arti@goa.bits-pilani.ac.in,"Computer Vision, Image Processing, Pattern Recognition",https://www.bits-pilani.ac.in/goa/arti/profile,1,queued,
+Bhaskarjyoti Das,goa,goa,BITS Goa,BITS,CSE,bhaskar@goa.bits-pilani.ac.in,"Algorithms, Graph Theory, Computational Complexity",https://www.bits-pilani.ac.in/goa/bhaskar/profile,1,queued,
+Suman Kundu,goa,goa,BITS Goa,BITS,CSE,suman.kundu@goa.bits-pilani.ac.in,"Formal Methods, Model Checking, Verification",https://www.bits-pilani.ac.in/goa/sumankundu/profile,1,queued,

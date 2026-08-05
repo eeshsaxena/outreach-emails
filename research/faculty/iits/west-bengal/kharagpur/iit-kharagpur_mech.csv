@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Achintya Mukhopadhyay,west-bengal,kharagpur,IIT Kharagpur,IIT,ME,achintya@mech.iitkgp.ac.in,"Combustion, Turbulence, Computational Fluid Dynamics",https://mech.iitkgp.ac.in/~achintya,1,queued,
+Anandaroop Bhattacharya,west-bengal,kharagpur,IIT Kharagpur,IIT,ME,anandaroop@mech.iitkgp.ac.in,"Robotics, Mechatronics, Control Systems",https://mech.iitkgp.ac.in/~anandaroop,1,queued,
+Debashis Chakraborty,west-bengal,kharagpur,IIT Kharagpur,IIT,ME,dc@mech.iitkgp.ac.in,"Composite Materials, Smart Structures, Finite Element Methods",https://mech.iitkgp.ac.in/~dc,1,queued,
+Pratap Halder,west-bengal,kharagpur,IIT Kharagpur,IIT,ME,phalder@mech.iitkgp.ac.in,"Fluid Mechanics, Turbomachinery, CFD",https://mech.iitkgp.ac.in/~phalder,1,queued,
+Santanu Chakraborty,west-bengal,kharagpur,IIT Kharagpur,IIT,ME,santanuc@mech.iitkgp.ac.in,"Heat Transfer, Microfluidics, Energy Systems",https://mech.iitkgp.ac.in/~santanuc,1,queued,
+Somnath Chattopadhyaya,west-bengal,kharagpur,IIT Kharagpur,IIT,ME,somnath@mech.iitkgp.ac.in,"Manufacturing, Tribology, Surface Engineering",https://mech.iitkgp.ac.in/~somnath,1,queued,

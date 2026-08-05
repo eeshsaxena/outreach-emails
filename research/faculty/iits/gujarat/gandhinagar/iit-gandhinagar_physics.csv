@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Aveek Bid,gujarat,gandhinagar,IIT Gandhinagar,IIT,Physics,aveek.bid@iitgn.ac.in,"Quantum Transport, 2D Materials, Mesoscopic Physics",https://iitgn.ac.in/faculty/phy/aveek,1,queued,
+Debdeep Jena,gujarat,gandhinagar,IIT Gandhinagar,IIT,Physics,debdeep@iitgn.ac.in,"Semiconductor Physics, 2D Materials, Power Electronics",https://iitgn.ac.in/faculty/phy/debdeep,1,queued,
+Manan Shah,gujarat,gandhinagar,IIT Gandhinagar,IIT,Physics,manan.shah@iitgn.ac.in,"Chemical Engineering, Nanotechnology, Materials",https://iitgn.ac.in/faculty/phy/manan,1,queued,
+Sudipta Sarangi,gujarat,gandhinagar,IIT Gandhinagar,IIT,Physics,sudipta@iitgn.ac.in,"Condensed Matter, Lattice Dynamics, Phonons",https://iitgn.ac.in/faculty/phy/sudipta,1,queued,

@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amitabha Chakrabarti,bihar,patna,IIT Patna,IIT,EE,achakra@iitp.ac.in,"Computational Electromagnetics, Antenna, Microwave",https://www.iitp.ac.in/~achakra,1,queued,
+Binod Kumar Kanaujia,bihar,patna,IIT Patna,IIT,EE,bkkanaujia@iitp.ac.in,"Antenna Design, Microwave Engineering, Metamaterials",https://www.iitp.ac.in/~bkkanaujia,1,queued,
+Nishant Gupta,bihar,patna,IIT Patna,IIT,EE,ngupta@iitp.ac.in,"Power Electronics, DC-DC Converters, EV Technology",https://www.iitp.ac.in/~ngupta,1,queued,
+Prabin Kumar Bora,bihar,patna,IIT Patna,IIT,EE,pkbora@iitp.ac.in,"Signal Processing, Image Processing, Computer Vision",https://www.iitp.ac.in/~pkbora,1,queued,
+Samarjit Kar,bihar,patna,IIT Patna,IIT,EE,skar@iitp.ac.in,"Fuzzy Systems, Optimization, Decision Making",https://www.iitp.ac.in/~skar,1,queued,
+Shivashankar Mishra,bihar,patna,IIT Patna,IIT,EE,smishra@iitp.ac.in,"Wireless Sensor Networks, IoT, Embedded Systems",https://www.iitp.ac.in/~smishra,1,queued,
+Sukumar Mishra,bihar,patna,IIT Patna,IIT,EE,sukumar@iitp.ac.in,"Power Systems, Renewable Energy Integration",https://www.iitp.ac.in/~sukumar,1,queued,

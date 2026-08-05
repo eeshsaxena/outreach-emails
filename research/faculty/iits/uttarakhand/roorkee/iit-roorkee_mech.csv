@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anoop Kumar Shukla,uttarakhand,roorkee,IIT Roorkee,IIT,ME,akshukla@me.iitr.ac.in,"Thermodynamics, Computational Heat Transfer, CFD",https://faculty.iitr.ac.in/~akshuklaMe,1,queued,
+Deepak Sharma,uttarakhand,roorkee,IIT Roorkee,IIT,ME,dsharma@me.iitr.ac.in,"Manufacturing, Machining, Surface Engineering",https://faculty.iitr.ac.in/~dsharmaMe,1,queued,
+M. S. Dasgupta,uttarakhand,roorkee,IIT Roorkee,IIT,ME,mdasgupta@me.iitr.ac.in,"Refrigeration, Heat Transfer, Alternate Fuels",https://faculty.iitr.ac.in/~mdasguptaMe,1,queued,
+Naveen Kumar,uttarakhand,roorkee,IIT Roorkee,IIT,ME,nkumar@me.iitr.ac.in,"Robotics, Mechatronics, Intelligent Systems",https://faculty.iitr.ac.in/~nkumarMe,1,queued,
+P. Venkateswara Rao,uttarakhand,roorkee,IIT Roorkee,IIT,ME,pvrao@me.iitr.ac.in,"Metal Cutting, Advanced Manufacturing, Surface Integrity",https://faculty.iitr.ac.in/~pvrao,1,queued,
+S. K. Saha,uttarakhand,roorkee,IIT Roorkee,IIT,ME,sksaha@me.iitr.ac.in,"Robotics, Multi-body Dynamics, Biomechanics",https://faculty.iitr.ac.in/~sksahaMe,1,queued,
+Vinayak Kulkarni,uttarakhand,roorkee,IIT Roorkee,IIT,ME,vkulkarni@me.iitr.ac.in,"Combustion, IC Engines, Alternative Fuels",https://faculty.iitr.ac.in/~vkulkarniMe,1,queued,

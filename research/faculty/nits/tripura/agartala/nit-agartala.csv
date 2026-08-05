@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Ashis Kumar Mandal,tripura,agartala,NIT Agartala,NIT,CSE,akm@nita.ac.in,"Algorithms, Graph Theory, Combinatorics",https://www.nita.ac.in/faculty/cse/akm,1,queued,
+Brototi Mondal,tripura,agartala,NIT Agartala,NIT,CSE,brototi@nita.ac.in,"Machine Learning, Data Mining, IoT",https://www.nita.ac.in/faculty/cse/brototi,1,queued,
+Debotosh Bhattacharjee,tripura,agartala,NIT Agartala,NIT,CSE,debotosh@nita.ac.in,"Biometrics, Computer Vision, Pattern Recognition",https://www.nita.ac.in/faculty/cse/debotosh,1,queued,
+Prasun Chakrabarti,tripura,agartala,NIT Agartala,NIT,CSE,prasun@nita.ac.in,"Embedded Systems, VLSI, IoT",https://www.nita.ac.in/faculty/cse/prasun,1,queued,
+Samarjit Kar,tripura,agartala,NIT Agartala,NIT,CSE,samarjit@nita.ac.in,"Fuzzy Optimization, Stochastic Programming, OR",https://www.nita.ac.in/faculty/cse/samarjit,1,queued,
+Subhash Barman,tripura,agartala,NIT Agartala,NIT,CSE,sbarman@nita.ac.in,"Machine Learning, Data Mining, Pattern Recognition",https://nita.ac.in/cse,1,queued,
+Sudipta Roy,tripura,agartala,NIT Agartala,NIT,CSE,sroy@nita.ac.in,"Computer Vision, Image Segmentation, Deep Learning",https://nita.ac.in/cse,1,queued,
+Anish Kumar Saha,tripura,agartala,NIT Agartala,NIT,CSE,aksaha@nita.ac.in,"Cloud Computing, Virtualization, Fog Computing",https://nita.ac.in/cse,1,queued,
+Prasenjit Dey,tripura,agartala,NIT Agartala,NIT,CSE,pdey@nita.ac.in,"Network Security, Cryptography, Privacy-preserving",https://nita.ac.in/cse,1,queued,
+Mousumi Saha,tripura,agartala,NIT Agartala,NIT,CSE,msaha@nita.ac.in,"Wireless Sensor Networks, IoT, Smart Systems",https://nita.ac.in/cse,1,queued,

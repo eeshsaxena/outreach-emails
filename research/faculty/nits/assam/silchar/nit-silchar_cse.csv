@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Biplab Bhattacharyya,assam,silchar,NIT Silchar,NIT,CSE,biplab@cse.nits.ac.in,"Machine Learning, Data Mining, Bioinformatics",https://www.nits.ac.in/departments/cse/faculty/biplab,1,queued,
+Debashis Das,assam,silchar,NIT Silchar,NIT,CSE,ddas@cse.nits.ac.in,"Network Security, Cryptography, Blockchain",https://www.nits.ac.in/departments/cse/faculty/ddas,1,queued,
+Khaidem Issac Singh,assam,silchar,NIT Silchar,NIT,CSE,kissac@cse.nits.ac.in,"Computer Vision, Medical Imaging, Deep Learning",https://www.nits.ac.in/departments/cse/faculty/kissac,1,queued,
+Liton Jain,assam,silchar,NIT Silchar,NIT,CSE,liton@cse.nits.ac.in,"Distributed Systems, Cloud Computing, Grid",https://www.nits.ac.in/departments/cse/faculty/liton,1,queued,
+Md. Sarfaraj Alam Ansari,assam,silchar,NIT Silchar,NIT,CSE,sarfaraj@cse.nits.ac.in,"Natural Language Processing, Text Mining, IR",https://www.nits.ac.in/departments/cse/faculty/sarfaraj,1,queued,
+Nomi Baruah,assam,silchar,NIT Silchar,NIT,CSE,nomi@cse.nits.ac.in,"Compiler Design, Program Analysis, Static Analysis",https://www.nits.ac.in/departments/cse/faculty/nomi,1,queued,
+Parag Saikia,assam,silchar,NIT Silchar,NIT,CSE,psaikia@cse.nits.ac.in,"Computer Networks, IoT, Wireless Systems",https://www.nits.ac.in/departments/cse/faculty/psaikia,1,queued,
+Partha Sarathi Bhattacharya,assam,silchar,NIT Silchar,NIT,CSE,psbhattacharya@cse.nits.ac.in,"Image Processing, Pattern Recognition",https://www.nits.ac.in/departments/cse/faculty/psbhattacharya,1,queued,
+Samarendra Nath Sur,assam,silchar,NIT Silchar,NIT,CSE,snsur@cse.nits.ac.in,"Wireless Networks, Mobile Computing, 5G",https://www.nits.ac.in/departments/cse/faculty/snsur,1,queued,
+Sushanta Karmakar,assam,silchar,NIT Silchar,NIT,CSE,skarmakar@cse.nits.ac.in,"Algorithms, Graph Theory, Combinatorial Optimization",https://www.nits.ac.in/departments/cse/faculty/skarmakar,1,queued,

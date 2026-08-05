@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Bhalchandra Digambar Kulkarni,maharashtra,pune,IISER Pune,IISER,Mathematics,bdkulkarni@iiserpune.ac.in,"Nonlinear Dynamics, Complex Systems, Machine Learning",https://www.iiserpune.ac.in/~bdkulkarni,1,queued,
+Chaitanya Athale,maharashtra,pune,IISER Pune,IISER,Biology,cathale@iiserpune.ac.in,"Computational Cell Biology, Systems Biology, Biophysics",https://www.iiserpune.ac.in/~cathale,1,queued,
+Debasattam Pal,maharashtra,pune,IISER Pune,IISER,Mathematics,debasattam@iiserpune.ac.in,"Control Theory, Systems, Optimization",https://www.iiserpune.ac.in/~debasattam,1,queued,
+Gugan Thoppe,maharashtra,pune,IISER Pune,IISER,Mathematics,gugan@iiserpune.ac.in,"Stochastic Processes, Reinforcement Learning, Applied Probability",https://www.iiserpune.ac.in/~gugan,1,queued,
+Preethi Jyothi,maharashtra,pune,IISER Pune,IISER,Data Science,pjyothi@iiserpune.ac.in,"Speech Processing, Low-resource NLP, Automatic Speech Recognition",https://www.iiserpune.ac.in/~pjyothi,1,queued,
+Sachin Joglekar,maharashtra,pune,IISER Pune,IISER,Physics,sachinj@iiserpune.ac.in,"Computational Physics, Machine Learning, Plasma Simulations",https://www.iiserpune.ac.in/~sachinj,1,queued,
+Sudhir Ghorpade,maharashtra,pune,IISER Pune,IISER,Mathematics,srg@iiserpune.ac.in,"Algebraic Geometry, Coding Theory, Combinatorics",https://www.iiserpune.ac.in/~srg,1,queued,

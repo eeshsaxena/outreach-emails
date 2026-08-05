@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Debashis Ghoshal,uttar-pradesh,kanpur,IIT Kanpur,IIT,Physics,ghoshal@iitk.ac.in,"String Theory, Field Theory, Mathematical Physics",https://home.iitk.ac.in/~ghoshal,1,queued,
+H. C. Verma,uttar-pradesh,kanpur,IIT Kanpur,IIT,Physics,hcverma@iitk.ac.in,"Nuclear Physics, Physics Education, Experimental Physics",https://home.iitk.ac.in/~hcverma,1,queued,
+Kallol Mukherjee,uttar-pradesh,kanpur,IIT Kanpur,IIT,Physics,kallolm@iitk.ac.in,"Condensed Matter, Quantum Materials, Spintronics",https://home.iitk.ac.in/~kallolm,1,queued,
+Krishnendu Sengupta,uttar-pradesh,kanpur,IIT Kanpur,IIT,Physics,ksen@iitk.ac.in,"Condensed Matter Theory, Non-equilibrium Physics, Topology",https://home.iitk.ac.in/~ksen,1,queued,
+Rajesh Bhatt,uttar-pradesh,kanpur,IIT Kanpur,IIT,Physics,rbhatt@iitk.ac.in,"Quantum Computing, Many-body Physics, Lattice Gauge Theory",https://home.iitk.ac.in/~rbhatt,1,queued,
+Sanjay Puri,uttar-pradesh,kanpur,IIT Kanpur,IIT,Physics,spuri@iitk.ac.in,"Computational Physics, Phase Transitions, Soft Matter",https://home.iitk.ac.in/~spuri,1,queued,
+Subroto Mukerjee,uttar-pradesh,kanpur,IIT Kanpur,IIT,Physics,subroto@iitk.ac.in,"Condensed Matter, Topological Phases, Transport",https://home.iitk.ac.in/~subroto,1,queued,

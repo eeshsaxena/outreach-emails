@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Kumar Sao,himachal-pradesh,mandi,IIT Mandi,IIT,EE,aksao@iitmandi.ac.in,"Signal Processing, Speech, Audio Analysis",https://www.iitmandi.ac.in/faculty/aksao,1,queued,
+Bhupendra Nath Tiwari,himachal-pradesh,mandi,IIT Mandi,IIT,EE,bntiwari@iitmandi.ac.in,"Wireless Networks, Cognitive Radio, Optimization",https://www.iitmandi.ac.in/faculty/bntiwari,1,queued,
+Neeraj Sharma,himachal-pradesh,mandi,IIT Mandi,IIT,EE,nsharma@iitmandi.ac.in,"Power Electronics, Motor Drives, Energy Systems",https://www.iitmandi.ac.in/faculty/nsharma,1,queued,
+Prabhat Kumar Upadhyay,himachal-pradesh,mandi,IIT Mandi,IIT,EE,pkupadhyay@iitmandi.ac.in,"MIMO Systems, Cooperative Communications, 5G",https://www.iitmandi.ac.in/faculty/pkupadhyay,1,queued,
+Sunny Sharma,himachal-pradesh,mandi,IIT Mandi,IIT,EE,sunnys@iitmandi.ac.in,"VLSI Design, Low Power Circuits",https://www.iitmandi.ac.in/faculty/sunnys,1,queued,

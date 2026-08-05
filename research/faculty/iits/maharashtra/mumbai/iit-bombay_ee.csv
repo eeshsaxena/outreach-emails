@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amit Sethi,maharashtra,mumbai,IIT Bombay,IIT,EE,asethi@ee.iitb.ac.in,"Medical Image Analysis, Computer Vision, Deep Learning",https://www.ee.iitb.ac.in/~asethi,1,queued,
+Ganesh Ramakrishnan,maharashtra,mumbai,IIT Bombay,IIT,EE,ganesh@cse.iitb.ac.in,"Machine Learning, NLP, Semi-supervised Learning",https://www.cse.iitb.ac.in/~ganesh,1,queued,
+Krithi Ramamritham,maharashtra,mumbai,IIT Bombay,IIT,CS,krithi@cse.iitb.ac.in,"IoT, Real-time Systems, Smart Energy",https://www.cse.iitb.ac.in/~krithi,1,queued,
+Madhav Desai,maharashtra,mumbai,IIT Bombay,IIT,EE,madhav@ee.iitb.ac.in,"VLSI Design, Digital Systems, Verification",https://www.ee.iitb.ac.in/~madhav,1,queued,
+Narendra Ahuja,maharashtra,mumbai,IIT Bombay,IIT,EE,ahuja@ee.iitb.ac.in,"Computer Vision, Image Processing, Machine Learning",https://www.ee.iitb.ac.in/~ahuja,1,queued,
+Pushpak Bhattacharyya,maharashtra,mumbai,IIT Bombay,IIT,CSE,pb@cse.iitb.ac.in,"NLP, Machine Translation, Sentiment Analysis",https://www.cse.iitb.ac.in/~pb,1,queued,
+Biplab Banerjee,maharashtra,mumbai,IIT Bombay,IIT,EE,bbanerjee@ee.iitb.ac.in,"Remote Sensing, Computer Vision, Deep Learning",https://www.ee.iitb.ac.in/~bbanerjee,1,queued,
+Preeti Ranjan Panda,maharashtra,mumbai,IIT Bombay,IIT,EE,panda@ee.iitb.ac.in,"Embedded Systems, Low Power VLSI, CAD",https://www.ee.iitb.ac.in/~panda,1,queued,
+Suyash P. Awate,maharashtra,mumbai,IIT Bombay,IIT,EE,suyash@cse.iitb.ac.in,"Medical Image Computing, Probabilistic Models",https://www.cse.iitb.ac.in/~suyash,1,queued,
+Virendra Sule,maharashtra,mumbai,IIT Bombay,IIT,EE,vrsule@ee.iitb.ac.in,"Control Theory, Algebraic Systems, Signal Processing",https://www.ee.iitb.ac.in/~vrsule,1,queued,

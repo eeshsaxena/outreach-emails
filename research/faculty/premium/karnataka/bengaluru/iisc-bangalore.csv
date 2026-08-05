@@ -1,0 +1,13 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Chiranjib Bhattacharyya,karnataka,bengaluru,IISc Bangalore,IISc,CSA,chiru@iisc.ac.in,"Machine Learning, Probabilistic Models, Bioinformatics",https://www.csa.iisc.ac.in/~chiru,1,queued,
+Deepak D'Souza,karnataka,bengaluru,IISc Bangalore,IISc,CSA,deepakd@iisc.ac.in,"Formal Verification, Automata, Software Security",https://www.csa.iisc.ac.in/~deepakd,1,queued,
+Diptiman Sen,karnataka,bengaluru,IISc Bangalore,IISc,CDS,diptiman@iisc.ac.in,"Quantum Computing, Many-body Physics, Condensed Matter",https://www.cds.iisc.ac.in/faculty/diptiman,1,queued,
+Phaneendra Yalavarthy,karnataka,bengaluru,IISc Bangalore,IISc,CDS,yalavarthy@iisc.ac.in,"Medical Image Analysis, Inverse Problems, Deep Learning",https://www.cds.iisc.ac.in/faculty/yalavarthy,1,queued,
+Pratik Kumar Mishra,karnataka,bengaluru,IISc Bangalore,IISc,CDS,pratikm@iisc.ac.in,"Scientific Machine Learning, PDE Solvers, Simulation",https://www.cds.iisc.ac.in/faculty/pratikm,1,queued,
+Shalabh Bhatnagar,karnataka,bengaluru,IISc Bangalore,IISc,CSA,shalabh@iisc.ac.in,"Reinforcement Learning, Stochastic Optimization, Control",https://www.csa.iisc.ac.in/~shalabh,1,queued,
+Sriram K,karnataka,bengaluru,IISc Bangalore,IISc,CSA,sriram@iisc.ac.in,"Logic, Automata Theory, Formal Languages",https://www.csa.iisc.ac.in/~sriram,1,queued,
+Srinivasa Raghavan,karnataka,bengaluru,IISc Bangalore,IISc,CSA,raghav@iisc.ac.in,"Algorithms, Approximation Algorithms, Combinatorics",https://www.csa.iisc.ac.in/~raghav,1,queued,
+Suresh Babu C V,karnataka,bengaluru,IISc Bangalore,IISc,CDS,sureshcv@iisc.ac.in,"Computer Vision, Deep Learning, Medical Imaging",https://www.cds.iisc.ac.in/faculty/sureshcv,1,queued,
+Venkatesh Babu R,karnataka,bengaluru,IISc Bangalore,IISc,CDS,venky@iisc.ac.in,"Computer Vision, Generative Models, Video Understanding",https://www.cds.iisc.ac.in/faculty/venky,1,queued,
+Y Narahari,karnataka,bengaluru,IISc Bangalore,IISc,CSA,hari@iisc.ac.in,"Game Theory, Mechanism Design, Multi-agent Systems",https://www.csa.iisc.ac.in/~hari,1,queued,
+Yogesh Simmhan,karnataka,bengaluru,IISc Bangalore,IISc,CDS,simmhan@iisc.ac.in,"Cloud Computing, Big Data, IoT Platforms",https://www.cds.iisc.ac.in/faculty/simmhan,1,queued,

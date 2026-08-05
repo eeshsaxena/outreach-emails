@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Arup Kumar Pal,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,arupkpal@iitism.ac.in,"Cryptography, Steganography, Security",https://www.iitism.ac.in/index.php/Departments/CSE/Faculty/arupkpal,1,queued,
+Dilip Kumar Yadav,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,dyadav@iitism.ac.in,"Computer Vision, Image Processing, Machine Learning",https://www.iitism.ac.in/index.php/Departments/CSE/Faculty/dyadav,1,queued,
+Kamta Nath Mishra,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,kamtanath@iitism.ac.in,"Software Engineering, Cloud Computing, Security",https://www.iitism.ac.in/index.php/Departments/CSE/Faculty/kamtanath,1,queued,
+Naveen Kumar,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,nkumar@iitism.ac.in,"Computer Networks, IoT, Wireless Sensor Networks",https://www.iitism.ac.in/index.php/Departments/CSE/Faculty/nkumar,1,queued,
+Partha Pratim Sarangi,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,ppsarangi@iitism.ac.in,"Machine Learning, Signal Processing, NLP",https://www.iitism.ac.in/index.php/Departments/CSE/Faculty/ppsarangi,1,queued,
+Sanjay Kumar Singh,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,sksingh@iitism.ac.in,"Parallel Computing, Distributed Systems, HPC",https://www.iitism.ac.in/index.php/Departments/CSE/Faculty/sksingh,1,queued,
+Sudhir Kumar,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,sudhirkumar@iitism.ac.in,"Network Security, Cryptography, Privacy",https://www.iitism.ac.in/index.php/Departments/CSE/Faculty/sudhirkumar,1,queued,
+Alok Kumar,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,alokk@iitism.ac.in,"Computer Vision, Biometrics, Pattern Recognition",https://iitism.ac.in/cse,1,queued,
+Bibhas Chandra Dhara,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,bcdhara@iitism.ac.in,"Machine Learning, NLP, Text Classification",https://iitism.ac.in/cse,1,queued,
+Mrityunjay Singh,jharkhand,dhanbad,IIT (ISM) Dhanbad,IIT,CSE,mrityunjay@iitism.ac.in,"Network Security, Cryptography, Blockchain",https://iitism.ac.in/cse,1,queued,

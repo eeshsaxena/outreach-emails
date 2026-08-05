@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anupam Basu,delhi,new-delhi,IIT Delhi,IIT,EE,anbasu@ee.iitd.ac.in,"Signal Processing, Speech, Assistive Technology",https://www.ee.iitd.ac.in/~anbasu,1,queued,
+Brejesh Lall,delhi,new-delhi,IIT Delhi,IIT,EE,brejesh@ee.iitd.ac.in,"Multimedia, Video Processing, Computer Vision",https://www.ee.iitd.ac.in/~brejesh,1,queued,
+Jayadeva,delhi,new-delhi,IIT Delhi,IIT,EE,jayadeva@ee.iitd.ac.in,"Machine Learning, Neural Networks, SVMs",https://www.ee.iitd.ac.in/~jayadeva,1,queued,
+Manav R. Bhatnagar,delhi,new-delhi,IIT Delhi,IIT,EE,manav@ee.iitd.ac.in,"Wireless Communications, MIMO, Cooperative Networks",https://www.ee.iitd.ac.in/~manav,1,queued,
+Monika Agarwal,delhi,new-delhi,IIT Delhi,IIT,EE,monika@ee.iitd.ac.in,"Signal Processing, Ultrasound Imaging, Biomedical",https://www.ee.iitd.ac.in/~monika,1,queued,
+Prathosh A. P.,delhi,new-delhi,IIT Delhi,IIT,EE,prathosh@ee.iitd.ac.in,"Machine Learning, Signal Processing, Healthcare AI",https://www.ee.iitd.ac.in/~prathosh,1,queued,
+Saif Khan Mohammed,delhi,new-delhi,IIT Delhi,IIT,EE,saifkm@ee.iitd.ac.in,"Wireless Communications, Information Theory, Coding",https://www.ee.iitd.ac.in/~saifkm,1,queued,
+Smriti Sinha,delhi,new-delhi,IIT Delhi,IIT,EE,smriti@ee.iitd.ac.in,"Power Systems, Smart Grid, Renewable Energy",https://www.ee.iitd.ac.in/~smriti,1,queued,
+Tapan Kumar Gandhi,delhi,new-delhi,IIT Delhi,IIT,EE,tkgandhi@ee.iitd.ac.in,"Medical Image Analysis, Computer Vision, AI for Healthcare",https://www.ee.iitd.ac.in/~tkgandhi,1,queued,
+Vinay Kumar Chakka,delhi,new-delhi,IIT Delhi,IIT,EE,vinay@ee.iitd.ac.in,"Signal Processing, Communication, Networking",https://www.ee.iitd.ac.in/~vinay,1,queued,

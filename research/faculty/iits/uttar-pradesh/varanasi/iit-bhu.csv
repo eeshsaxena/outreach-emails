@@ -1,0 +1,11 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Aditya Trivedi,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,aditya.cse@iitbhu.ac.in,"Computer Networks, Wireless Networks, IoT",https://www.iitbhu.ac.in/dept/cse/people/adityacse,1,queued,
+Anupam Agrawal,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,anupam.cse@iitbhu.ac.in,"Computer Vision, Biometrics, Medical Imaging",https://www.iitbhu.ac.in/dept/cse/people/anupamcse,1,queued,
+Aruna Tiwari,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,aruna.cse@iitbhu.ac.in,"Machine Learning, Fuzzy Systems, Deep Learning",https://www.iitbhu.ac.in/dept/cse/people/arunacse,1,queued,
+Bhaskar Biswas,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,bhaskar.cse@iitbhu.ac.in,"Machine Learning, Swarm Intelligence, NLP",https://www.iitbhu.ac.in/dept/cse/people/bhaskarcse,1,queued,
+K.K. Shukla,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,kkshukla.cse@iitbhu.ac.in,"Quantum Computing, Machine Learning, Optimization",https://www.iitbhu.ac.in/dept/cse/people/kkshuklacse,1,queued,
+Krishn Kumar Mishra,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,kkmishra.cse@iitbhu.ac.in,"Evolutionary Algorithms, Optimization, Scheduling",https://www.iitbhu.ac.in/dept/cse/people/kkmishracse,1,queued,
+Neetesh Kumar,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,neetesh.cse@iitbhu.ac.in,"Distributed Systems, Cloud, Security",https://www.iitbhu.ac.in/dept/cse/people/neeteshcse,1,queued,
+Shivashankar B Nair,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,sbnair.cse@iitbhu.ac.in,"Autonomous Agents, Multi-agent Systems, AI",https://www.iitbhu.ac.in/dept/cse/people/sbnaircse,1,queued,
+Somnath Dey,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,somnath.cse@iitbhu.ac.in,"Biometrics, Pattern Recognition, Deep Learning",https://www.iitbhu.ac.in/dept/cse/people/somnathcse,1,queued,
+Siddharth Rai,uttar-pradesh,varanasi,IIT (BHU) Varanasi,IIT,CSE,siddharth.cse@iitbhu.ac.in,"Parallel Computing, High Performance Computing",https://www.iitbhu.ac.in/dept/cse/people/siddharthcse,1,queued,

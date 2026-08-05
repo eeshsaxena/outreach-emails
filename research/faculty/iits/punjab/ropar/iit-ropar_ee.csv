@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhinav Dhall,punjab,ropar,IIT Ropar,IIT,EE,adhall@iitrpr.ac.in,"Computer Vision, Affective Computing, Group Emotion",https://www.iitrpr.ac.in/adhall,1,queued,
+Balwinder Raj,punjab,ropar,IIT Ropar,IIT,EE,balwinder@iitrpr.ac.in,"VLSI Design, Nanotechnology, Tunnel FETs",https://www.iitrpr.ac.in/balwinder,1,queued,
+Mayank Goswami,punjab,ropar,IIT Ropar,IIT,EE,mgoswami@iitrpr.ac.in,"Computational Geometry, Algorithms, Routing",https://www.iitrpr.ac.in/mgoswami,1,queued,
+Neeraj Kumar,punjab,ropar,IIT Ropar,IIT,EE,neeraj@iitrpr.ac.in,"IoT Security, Blockchain, Fog Computing",https://www.iitrpr.ac.in/neeraj,1,queued,
+Supreet Pal Singh,punjab,ropar,IIT Ropar,IIT,EE,supreet@iitrpr.ac.in,"Thermophotovoltaics, Heat Transfer, Energy Systems",https://www.iitrpr.ac.in/supreet,1,queued,

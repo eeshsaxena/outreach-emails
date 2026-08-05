@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amrita Pati,odisha,berhampur,IISER Berhampur,IISER,Mathematics,amrita.pati@iiserbpr.ac.in,"Coding Theory, Algebra, Cryptography",https://www.iiserbpr.ac.in/faculty/amritapati,1,queued,
+Birendra Kumar Mishra,odisha,berhampur,IISER Berhampur,IISER,Physics,bkmishra@iiserbpr.ac.in,"Computational Physics, Quantum Information",https://www.iiserbpr.ac.in/faculty/bkmishra,1,queued,
+Soumen Ghosh,odisha,berhampur,IISER Berhampur,IISER,Mathematics,soumeng@iiserbpr.ac.in,"Machine Learning, Optimization, Applied Statistics",https://www.iiserbpr.ac.in/faculty/soumeng,1,queued,

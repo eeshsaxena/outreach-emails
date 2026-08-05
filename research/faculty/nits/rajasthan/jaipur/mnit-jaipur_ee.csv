@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Kumar Mathur,rajasthan,jaipur,MNIT Jaipur,NIT,EE,akmathur@mnit.ac.in,"Power Systems, HVDC, Power Quality",https://mnit.ac.in/dept_ece/faculty_profile/akmathur,1,queued,
+Girish Kumar Singh,rajasthan,jaipur,MNIT Jaipur,NIT,EE,gksingh@mnit.ac.in,"Electric Machines, Drives, Renewable Energy",https://mnit.ac.in/dept_ee/faculty_profile/gksingh,1,queued,
+Maneesha Gupta,rajasthan,jaipur,MNIT Jaipur,NIT,EE,mgupta@mnit.ac.in,"Analog/Digital Circuits, Signal Processing, VLSI",https://mnit.ac.in/dept_ece/faculty_profile/mgupta,1,queued,
+Pradeep Kumar Sharma,rajasthan,jaipur,MNIT Jaipur,NIT,EE,pksharma@mnit.ac.in,"Wireless Communications, Antenna, Microwave",https://mnit.ac.in/dept_ece/faculty_profile/pksharma,1,queued,
+Rajiv Agarwal,rajasthan,jaipur,MNIT Jaipur,NIT,EE,ragarwal@mnit.ac.in,"VLSI CAD, Embedded Systems, FPGA",https://mnit.ac.in/dept_ece/faculty_profile/ragarwal,1,queued,
+Shyam Singh Rajput,rajasthan,jaipur,MNIT Jaipur,NIT,EE,ssrajput@mnit.ac.in,"Signal Processing, Image Processing, Computer Vision",https://mnit.ac.in/dept_ece/faculty_profile/ssrajput,1,queued,
