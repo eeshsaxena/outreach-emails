@@ -37,14 +37,15 @@ jobs:
       - name: Generate next city outreach batch
         id: batch_gen
         run: |
-          # Run available batch generators
+          # Regenerate the city batches from the master email list. The batch
+          # scripts moved under scripts/ in the industry/research restructure.
           if [ -f add_aurangabad_batch.py ]; then
             python add_aurangabad_batch.py
           fi
           if [ -f add_nashik_batch.py ]; then
             python add_nashik_batch.py
           fi
-          python gen_city_batches.py
+          python scripts/gen_city_batches.py
 
       - name: Commit and push changes if any
         env:
