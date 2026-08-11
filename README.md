@@ -28,6 +28,7 @@ outreach-emails/
 │   ├── career_pages.csv            # pages the watcher monitors
 │   ├── all_emails.csv              # merged reference pool
 │   ├── dead_removed.csv            # pruned / bounced contacts
+│   ├── masked_contacts.csv         # quarantined: email masked/redacted, not sendable
 │   ├── *_companies.csv             # per-city company source sheets
 │   ├── location_sheets/            # regional reference data
 │   ├── batches/                    # GENERATED: batch_NN.csv (100 contacts each)
@@ -124,6 +125,8 @@ industry/emails.csv + hr_contacts.csv + extra_contacts.csv
 | `gen_city_batches.py` | Same pool split per city into `industry/city/`, with location-less rows in `industry/unsorted/`. |
 | `make_sheet.py` | Builds the Excel workbook (All Companies, Priority, Named HR Contacts, Email Template). |
 | `career_watch.py` | Career-page watcher (see below). |
+| `split_masked.py` | Moves contacts whose email is masked/redacted into `industry/masked_contacts.csv`. |
+| `dedupe_faculty.py` | Merges same-person-same-institute duplicates in `research/faculty_master.csv`. |
 
 ### Career-page alert system
 
@@ -268,4 +271,5 @@ recipient addresses out of the repo), so send each batch in a single run.
 
 - `industry/batches/`, `industry/city/`, `industry/unsorted/`, and the `.xlsx` are generated. Recreate them any time from the source CSVs with the commands above.
 - `industry/dead_removed.csv` and `research/dead_removed.csv` track contacts pruned as dead/bounced.
+- `industry/masked_contacts.csv` holds contacts whose address came through masked (`m***@bayut.com`) or redacted (`***REMOVED***`). They are quarantined rather than deleted: each keeps its company, name, title and LinkedIn URL, so once the real address is resolved the row can be promoted back into its source sheet. Run `python scripts/split_masked.py` after any import to keep them out of the send pool.
 - Scripts resolve their own paths, so they work regardless of the directory you run them from.

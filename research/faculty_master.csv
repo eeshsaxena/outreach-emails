@@ -1,6 +1,5 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
-Phani Kumar P.V.S.S.R,andhra-pradesh,nuzvid,IIIT Nuzvid,IIIT,CSE,phani@rguktrkv.ac.in,"Deep Learning, NLP",https://rgukt.ac.in/academics/faculty/cse,1,queued,
-Phani Kumar P.V.S.S.R,andhra-pradesh,nuzvid,IIIT Nuzvid,IIIT,CSE,phani@rgukt.ac.in,"Deep Learning, NLP",https://rgukt.ac.in/academics/faculty/cse,1,queued,
+Phani Kumar P.V.S.S.R,andhra-pradesh,nuzvid,IIIT Nuzvid,IIIT,CSE,phani@rguktrkv.ac.in,"Deep Learning, NLP",https://rgukt.ac.in/academics/faculty/cse,1,queued,alt email: phani@rgukt.ac.in
 Kiran Kumar Ravulakollu,andhra-pradesh,nuzvid,IIIT Nuzvid,IIIT,CSE,kiran@rgukt.ac.in,"Machine Learning, Data Mining",https://rgukt.ac.in/academics/faculty/cse,1,queued,
 Sreenivas Sremath Tirumala,andhra-pradesh,nuzvid,IIIT Nuzvid,IIIT,CSE,sremath@rgukt.ac.in,"Neural Networks, Computer Vision",https://rgukt.ac.in/academics/faculty/cse,1,queued,
 Venkata Rao M,andhra-pradesh,nuzvid,IIIT Nuzvid,IIIT,CSE,vmrao@rgukt.ac.in,"Distributed Systems, Cloud Computing",https://rgukt.ac.in/cse,1,queued,
@@ -48,10 +47,9 @@ T. Ravi Kumar,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,trk@rguktrkv.ac
 V. Ravi Sankar,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,vrs@rguktrkv.ac.in,"Software Engineering, Testing",https://rguktrkv.ac.in/cse,1,queued,
 B. Srinivasa Rao,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,bsrao@rguktrkv.ac.in,"Cloud Computing, Distributed Systems",https://rguktrkv.ac.in/cse,1,queued,
 M. Padmavathamma,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,mpadma@rguktrkv.ac.in,"Cryptography, Digital Signatures",https://rguktrkv.ac.in/cse,1,queued,
-A. Ramamurthy,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,aramu@rguktrkv.ac.in,"Deep Learning, Autonomous Systems",https://rguktrkv.ac.in/cse,1,queued,
+A. Ramamurthy,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,aramu@rguktrkv.ac.in,"Deep Learning, Autonomous Systems",https://rguktrkv.ac.in/cse,1,queued,alt email: aramu2@rguktrkv.ac.in
 D. Evangelin Geetha,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,devangelin@rguktrkv.ac.in,"Software Testing, Quality Assurance",https://rguktrkv.ac.in/cse,1,queued,
 T. V. Gireesh Kumar,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,tvgkumar@rguktrkv.ac.in,"Distributed Databases, Cloud Storage",https://rguktrkv.ac.in/cse,1,queued,
-A. Ramamurthy,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,aramu2@rguktrkv.ac.in,"Deep Learning, Autonomous Systems",https://rguktrkv.ac.in/cse,1,queued,
 B. Ramana Murthy,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,brmurthy@rguktrkv.ac.in,"Computer Networks, Protocol Design",https://rguktrkv.ac.in/cse,1,queued,
 Ch. Venkata Ramana,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,cvramana@rguktrkv.ac.in,"Data Mining, Warehousing",https://rguktrkv.ac.in/cse,1,queued,
 G. Hari Babu,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,ghbabu@rguktrkv.ac.in,"Machine Learning, Neural Networks",https://rguktrkv.ac.in/cse,1,queued,
@@ -254,12 +252,11 @@ John P. Sahoo,kerala,kottayam,IIIT Kottayam,IIIT,CSE,john@iiitkottayam.ac.in,"Ma
 Jeny Rajan,kerala,kottayam,IIIT Kottayam,IIIT,CSE,jeny@iiitkottayam.ac.in,"Medical Image Processing, Computer Vision",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
 Rafeeque P C,kerala,kottayam,IIIT Kottayam,IIIT,CSE,rafeeque@iiitkottayam.ac.in,"Information Security, Network Security",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
 Aneesh Krishna,kerala,kottayam,IIIT Kottayam,IIIT,CSE,aneesh@iiitkottayam.ac.in,"Software Engineering, Formal Methods",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
-Supriya M H,kerala,kottayam,IIIT Kottayam,IIIT,CSE,supriya@iiitkottayam.ac.in,"Cloud Computing, Green Computing",https://iiitkottayam.ac.in/cse,1,queued,
+Supriya M H,kerala,kottayam,IIIT Kottayam,IIIT,CSE,supriya@iiitkottayam.ac.in,"Cloud Computing, Green Computing",https://iiitkottayam.ac.in/cse,1,queued,alt email: supriyamh@iiitkottayam.ac.in
 Sreehari Hari P,kerala,kottayam,IIIT Kottayam,IIIT,CSE,sreehari@iiitkottayam.ac.in,"Machine Learning, Predictive Analytics",https://iiitkottayam.ac.in/cse,1,queued,
 Arun Das,kerala,kottayam,IIIT Kottayam,IIIT,CSE,arun@iiitkottayam.ac.in,"NLP, Multilingual NLP, Low-resource Languages",https://iiitkottayam.ac.in/cse,1,queued,
 Sreekanth P,kerala,kottayam,IIIT Kottayam,IIIT,CSE,sreekanth@iiitkottayam.ac.in,"IoT, Edge Intelligence, Smart Systems",https://iiitkottayam.ac.in/cse,1,queued,
 Krishnashree Achuthan,kerala,kottayam,IIIT Kottayam,IIIT,CSE,krishnashree@iiitkottayam.ac.in,"Cyber Security, Vulnerability Analysis",https://iiitkottayam.ac.in/cse,1,queued,
-Supriya M H,kerala,kottayam,IIIT Kottayam,IIIT,CSE,supriyamh@iiitkottayam.ac.in,"Cloud Computing, Green Computing",https://iiitkottayam.ac.in/cse,1,queued,
 Biswajit Sahoo,kerala,kottayam,IIIT Kottayam,IIIT,CSE,bsahoo@iiitkottayam.ac.in,"Machine Learning, Predictive Modelling",https://iiitkottayam.ac.in/cse,1,queued,
 Deepa Gupta,kerala,kottayam,IIIT Kottayam,IIIT,CSE,dgupta@iiitkottayam.ac.in,"Computer Vision, Image Processing",https://iiitkottayam.ac.in/cse,1,queued,
 Eliza Bhattacharyya,kerala,kottayam,IIIT Kottayam,IIIT,CSE,ebhattacharyya@iiitkottayam.ac.in,"NLP, Dialogue Systems, IR",https://iiitkottayam.ac.in/cse,1,queued,
@@ -342,9 +339,8 @@ Dilbag Singh,rajasthan,kota,IIIT Kota,IIIT,CSE,dilbag@iiitkota.ac.in,"Medical Im
 Heena Rathore,rajasthan,kota,IIIT Kota,IIIT,CSE,hrathore@iiitkota.ac.in,"IoT Security, Cyber-Physical Systems",https://iiitkota.ac.in/cse,1,queued,
 Sunil Kumar Khatri,rajasthan,kota,IIIT Kota,IIIT,CSE,skkhatri@iiitkota.ac.in,"Software Quality, Risk Management",https://iiitkota.ac.in/cse,1,queued,
 Praveen Kumar Shukla,rajasthan,kota,IIIT Kota,IIIT,CSE,pkshukla@iiitkota.ac.in,"Computer Vision, Thermal Imaging",https://iiitkota.ac.in/cse,1,queued,
-Vireshwar Kumar,rajasthan,kota,IIIT Kota,IIIT,CSE,vkumar@iiitkota.ac.in,"Wireless Networks, MIMO, 5G",https://iiitkota.ac.in/cse,1,queued,
+Vireshwar Kumar,rajasthan,kota,IIIT Kota,IIIT,CSE,vkumar@iiitkota.ac.in,"Wireless Networks, MIMO, 5G",https://iiitkota.ac.in/cse,1,queued,alt email: vkumr@iiitkota.ac.in
 Pradeep Singh,rajasthan,kota,IIIT Kota,IIIT,CSE,psingh@iiitkota.ac.in,"Biometrics, Face Recognition, Deep Learning",https://iiitkota.ac.in/cse,1,queued,
-Vireshwar Kumar,rajasthan,kota,IIIT Kota,IIIT,CSE,vkumr@iiitkota.ac.in,"Wireless Networks, MIMO, 5G",https://iiitkota.ac.in/cse,1,queued,
 Ankit Singh Rawat,rajasthan,kota,IIIT Kota,IIIT,CSE,asrawat@iiitkota.ac.in,"Coding Theory, Information Theory",https://iiitkota.ac.in/cse,1,queued,
 Avneesh Kumar,rajasthan,kota,IIIT Kota,IIIT,CSE,avneesh@iiitkota.ac.in,"Deep Learning, Transfer Learning",https://iiitkota.ac.in/cse,1,queued,
 Chetan Sharma,rajasthan,kota,IIIT Kota,IIIT,CSE,csharma@iiitkota.ac.in,"Networks, Routing, Protocol Design",https://iiitkota.ac.in/cse,1,queued,
@@ -489,13 +485,11 @@ Subhojit Ghosh,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,subhojit@iiitkalyani.ac
 Saikat Basu,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,saikat@iiitkalyani.ac.in,"Computer Vision, Remote Sensing",https://www.iiitkalyani.ac.in/faculty/cse,1,queued,
 Utpal Biswas,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,utpal@iiitkalyani.ac.in,"Networks, Sensor Networks, Cryptography",https://www.iiitkalyani.ac.in/faculty/cse,1,queued,
 Nabendu Chaki,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,nabendu@iiitkalyani.ac.in,"Software Engineering, Distributed Systems",https://www.iiitkalyani.ac.in/faculty/cse,1,queued,
-Kuntal Ghosh,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,kuntal@iiitkalyani.ac.in,"Neuronal Image Analysis, Cognitive Science",https://iiitkalyani.ac.in/cse,1,queued,
+Kuntal Ghosh,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,kuntal@iiitkalyani.ac.in,"Neuronal Image Analysis, Cognitive Science",https://iiitkalyani.ac.in/cse,1,queued,alt email: kghosh@iiitkalyani.ac.in
 Rahul Bhatt,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,rbhatt@iiitkalyani.ac.in,"Cloud Computing, SaaS, Virtualization",https://iiitkalyani.ac.in/cse,1,queued,
-Soumya De,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,sde@iiitkalyani.ac.in,"Wireless Networks, Cognitive Radio",https://iiitkalyani.ac.in/cse,1,queued,
+Soumya De,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,sde@iiitkalyani.ac.in,"Wireless Networks, Cognitive Radio",https://iiitkalyani.ac.in/cse,1,queued,alt email: soumyade@iiitkalyani.ac.in
 Partha Sarathi Mandal,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,psmandal@iiitkalyani.ac.in,"Graph Algorithms, Distributed Algorithms",https://iiitkalyani.ac.in/cse,1,queued,
 Santanu Phadikar,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,sphadikar@iiitkalyani.ac.in,"Image Processing, Feature Extraction",https://iiitkalyani.ac.in/cse,1,queued,
-Kuntal Ghosh,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,kghosh@iiitkalyani.ac.in,"Neuronal Image Analysis, Cognitive Science",https://iiitkalyani.ac.in/cse,1,queued,
-Soumya De,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,soumyade@iiitkalyani.ac.in,"Wireless Networks, Cognitive Radio",https://iiitkalyani.ac.in/cse,1,queued,
 Abhijit Dasgupta,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,adasgupta@iiitkalyani.ac.in,"Optimization, Evolutionary Algorithms",https://iiitkalyani.ac.in/cse,1,queued,
 Biswajit Sahoo,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,bsahoo@iiitkalyani.ac.in,"Machine Learning, Pattern Classification",https://iiitkalyani.ac.in/cse,1,queued,
 Debasish Bhattacharya,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,dbhattacharya@iiitkalyani.ac.in,"Computer Security, Cryptography",https://iiitkalyani.ac.in/cse,1,queued,
@@ -942,12 +936,10 @@ Umesh Bellur,maharashtra,mumbai,IIT Bombay,IIT,CSE,umesh@cse.iitb.ac.in,"Adaptiv
 Varsha Apte,maharashtra,mumbai,IIT Bombay,IIT,CSE,varsha@cse.iitb.ac.in,Performance Evaluation of Computer Systems and Networks,https://www.cse.iitb.ac.in/~varsha,,queued,
 Vinay Joseph Ribeiro,maharashtra,mumbai,IIT Bombay,IIT,CSE,vinayr@cse.iitb.ac.in,"Computer and Network Security (blockchain, intrusion detection, IoT security, DDoS), Internet of Things (IoT), Wireless Networks (cognitive radio, TV white space, LTE, Wi-Fi etc.), Indoor positioning and navigation",https://www.cse.iitb.ac.in/~vinayr,,queued,
 Virendra Singh,maharashtra,mumbai,IIT Bombay,IIT,CSE,viren@cse.iitb.ac.in,"Cybersecurity, Computer
-Architecture, Cyber Physical Cognitive Systems, Formal Verification, Blockchain Technology",https://www.cse.iitb.ac.in/~viren,,queued,
+Architecture, Cyber Physical Cognitive Systems, Formal Verification, Blockchain Technology",https://www.cse.iitb.ac.in/~viren,,queued,alt email: viren@ee.iitb.ac.in
 Vishwas Bhargava,maharashtra,mumbai,IIT Bombay,IIT,CSE,vishwas@cse.iitb.ac.in,"Theoretical Computer Science, Computational Complexity
 Theory, Algebraic Complexity, Computational Number Theory, Pseudorandomness and Derandomization Theory",https://www.cse.iitb.ac.in/~vishwas,,queued,
-Suyash P. Awate,maharashtra,mumbai,IIT Bombay,IIT,CSE,my-first-name@cse.iitb.ac.in,,https://www.cse.iitb.ac.in/~suyash,1,queued,
 Krishna S,maharashtra,mumbai,IIT Bombay,IIT,CSE,s@cse.iitb.ac.in,,https://www.cse.iitb.ac.in/~krishnas,1,queued,
-Virendra Singh,maharashtra,mumbai,IIT Bombay,IIT,CSE,viren@ee.iitb.ac.in,"Virendra Singh, Ph.D(NAIST, Japan) PROFESSOR Department of Electrical Engineering, and Department of Computer Science & Engineering Indian Institute of Technology Bombay Powai, Mumbai 400076 India E-m",https://www.cse.iitb.ac.in/~viren,1,queued,
 Dhananjay M. Dhamdhere,maharashtra,mumbai,IIT Bombay,IIT,CSE,dmd@cse.iitb.ac.in,Research Interests Optimizing Compilers---Partial redundancy elimination Operating Systems Detection of Data Races and Atomicity Violations Safety issues in Dynamic Software Updating Distributed Syste,https://www.cse.iitb.ac.in/~dmd,1,queued,
 Arnab Sarkar,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,arnab@iitg.ac.in,"Machine Learning, Signal Processing",https://www.iitg.ac.in/arnab,1,queued,Operates out of IIT Guwahati temporarily
 Bhogeswar Borah,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,bogesh@iitg.ac.in,"Data Mining, Bioinformatics",https://www.iitg.ac.in/bogesh,2,queued,Coordinates with NE campus
@@ -1405,13 +1397,12 @@ Rakesh Kumar Tiwari,manipur,imphal,NIT Manipur,NIT,CSE,rktiwari@nitmanipur.ac.in
 Th. Shanta Kumar Singh,manipur,imphal,NIT Manipur,NIT,CSE,thskumar@nitmanipur.ac.in,"Machine Learning, Data Mining",https://nitmanipur.ac.in/cse,1,queued,
 Khumukcham Robindro Singh,manipur,imphal,NIT Manipur,NIT,CSE,krobindro@nitmanipur.ac.in,"Algorithms, Bioinformatics",https://nitmanipur.ac.in/cse,1,queued,
 Ranita Khumukcham,manipur,imphal,NIT Manipur,NIT,CSE,ranita@nitmanipur.ac.in,"Computer Vision, Feature Extraction",https://nitmanipur.ac.in/cse,1,queued,
-Pao Lam Chanu,manipur,imphal,NIT Manipur,NIT,CSE,paolam@nitmanipur.ac.in,"Deep Learning, NLP, Language Models",https://nitmanipur.ac.in/cse,1,queued,
+Pao Lam Chanu,manipur,imphal,NIT Manipur,NIT,CSE,paolam@nitmanipur.ac.in,"Deep Learning, NLP, Language Models",https://nitmanipur.ac.in/cse,1,queued,alt email: plchanu@nitmanipur.ac.in
 Romesh Laishram,manipur,imphal,NIT Manipur,NIT,CSE,romesh@nitmanipur.ac.in,"Cloud Computing, Virtualization",https://nitmanipur.ac.in/cse,1,queued,
 Bikash Chandra Sahana,manipur,imphal,NIT Manipur,NIT,CSE,bcsahana@nitmanipur.ac.in,"Computer Networks, Protocol Optimization",https://nitmanipur.ac.in/cse,1,queued,
 Ch. Ibohal Meitei,manipur,imphal,NIT Manipur,NIT,CSE,chibohal@nitmanipur.ac.in,"Soft Computing, Evolutionary Algorithms",https://nitmanipur.ac.in/cse,1,queued,
 Khumanthem Manglem Singh,manipur,imphal,NIT Manipur,NIT,CSE,kmanglem@nitmanipur.ac.in,"Image Processing, Digital Watermarking",https://nitmanipur.ac.in/cse,1,queued,
 L. Jenila Livingston,manipur,imphal,NIT Manipur,NIT,CSE,ljlivingston@nitmanipur.ac.in,"Machine Learning, Big Data Analytics",https://nitmanipur.ac.in/cse,1,queued,
-Pao Lam Chanu,manipur,imphal,NIT Manipur,NIT,CSE,plchanu@nitmanipur.ac.in,"Deep Learning, NLP, Language Models",https://nitmanipur.ac.in/cse,1,queued,
 Shyam Sunder Prasad,manipur,imphal,NIT Manipur,NIT,CSE,ssprasad@nitmanipur.ac.in,"Security, Cryptographic Protocols",https://nitmanipur.ac.in/cse,1,queued,
 Sivaji Bandyopadhyay,manipur,imphal,NIT Manipur,NIT,CSE,sbandyo@nitmanipur.ac.in,"NLP, Machine Translation, Indian Languages",https://nitmanipur.ac.in/cse,1,queued,
 Th. Ibungomacha Singh,manipur,imphal,NIT Manipur,NIT,CSE,thibungo@nitmanipur.ac.in,"Algorithms, Graph Theory",https://nitmanipur.ac.in/cse,1,queued,
@@ -1500,8 +1491,7 @@ Tejinder Pal Singh Bains,punjab,jalandhar,NIT Jalandhar,NIT,CSE,tpsbains@nitj.ac
 Amit Joshi,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,amit.joshi@mnit.ac.in,"Cloud Computing, Distributed Systems, IoT",https://mnit.ac.in/dept_cse/faculty-profile/amit,1,queued,
 Mahesh Chandra Govil,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,mcgovil@mnit.ac.in,"Networks, Security, Embedded Systems",https://mnit.ac.in/dept_cse/faculty-profile/mcgovil,1,queued,
 Mridula Dwivedi,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,mdwivedi@mnit.ac.in,"Natural Language Processing, Machine Learning",https://mnit.ac.in/dept_cse/faculty-profile/mdwivedi,1,queued,
-Sanjay Kumar Jena,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,skjena@mnit.ac.in,"Database Systems, Data Mining, Big Data",https://mnit.ac.in/dept_cse/faculty-profile/skjena,1,queued,
-Sanjay Kumar Jena,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,skjenamnit@mnit.ac.in,"Database Systems, Data Mining",https://mnit.ac.in/dept_cse/faculty-profile/skjena,1,queued,
+Sanjay Kumar Jena,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,skjena@mnit.ac.in,"Database Systems, Data Mining, Big Data",https://mnit.ac.in/dept_cse/faculty-profile/skjena,1,queued,alt email: skjenamnit@mnit.ac.in
 Karan Singh,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,ksingh@mnit.ac.in,"High Performance Computing, Parallel Algorithms",https://mnit.ac.in/dept_cse/faculty-profile/ksingh,1,queued,
 Namita Mittal,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,nmittal@mnit.ac.in,"NLP, Hindi Computing, Text Classification",https://mnit.ac.in/dept_cse/faculty-profile/nmittal,1,queued,
 Vijay Laxmi,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,vijay@mnit.ac.in,"Computer Networks, Security",https://mnit.ac.in/dept_cse/faculty-profile/vijay,1,queued,
@@ -1644,7 +1634,7 @@ Chandreyee Chowdhury,west-bengal,durgapur,NIT Durgapur,NIT,CSE,chandreyee@cse.ni
 Debdatta Kandar,west-bengal,durgapur,NIT Durgapur,NIT,CSE,debdatta@cse.nitdgp.ac.in,"Image Processing, Computer Vision",https://nitdgp.ac.in/department/CS/faculty/debdatta,1,queued,
 Soumya Sen,west-bengal,durgapur,NIT Durgapur,NIT,CSE,soumya.sen@cse.nitdgp.ac.in,"Networks, Cloud Computing, Cybersecurity",https://nitdgp.ac.in/department/CS/faculty/soumyasen,1,queued,
 Saurabh Dey,west-bengal,durgapur,NIT Durgapur,NIT,CSE,saurabh@cse.nitdgp.ac.in,"Formal Methods, Model Checking",https://nitdgp.ac.in/CS/faculty,1,queued,
-Prasun Ghosal,west-bengal,durgapur,NIT Durgapur,NIT,CSE,pghosal@cse.nitdgp.ac.in,"VLSI CAD, Embedded Systems",https://nitdgp.ac.in/CS/faculty,1,queued,
+Prasun Ghosal,west-bengal,durgapur,NIT Durgapur,NIT,CSE,pghosal@cse.nitdgp.ac.in,"VLSI CAD, Embedded Systems",https://nitdgp.ac.in/CS/faculty,1,queued,alt email: pghosal2@cse.nitdgp.ac.in
 Nabendu Chaki,west-bengal,durgapur,NIT Durgapur,NIT,CSE,nchaki@cse.nitdgp.ac.in,"Software Engineering, Distributed Systems",https://nitdgp.ac.in/CS/faculty,1,queued,
 Indrajit Pan,west-bengal,durgapur,NIT Durgapur,NIT,CSE,ipan@cse.nitdgp.ac.in,"Soft Computing, Reinforcement Learning",https://nitdgp.ac.in/CS/faculty,1,queued,
 Agostinho Agra,west-bengal,durgapur,NIT Durgapur,NIT,CSE,aagra@cse.nitdgp.ac.in,"Combinatorial Optimization, Integer Programming",https://nitdgp.ac.in/CS/faculty,1,queued,
@@ -1662,5 +1652,4 @@ Biswanath Dey,west-bengal,durgapur,NIT Durgapur,NIT,CSE,bdey@cse.nitdgp.ac.in,"W
 Dipak Kumar Roy,west-bengal,durgapur,NIT Durgapur,NIT,CSE,dkroy@cse.nitdgp.ac.in,"VLSI, Low Power Design",https://nitdgp.ac.in/CS/faculty,1,queued,
 Durga Prasad Mohapatra,west-bengal,durgapur,NIT Durgapur,NIT,CSE,dpmohapatra2@cse.nitdgp.ac.in,"Software Testing, Mutation Analysis",https://nitdgp.ac.in/CS/faculty,1,queued,
 Krishnendu Chakraborty,west-bengal,durgapur,NIT Durgapur,NIT,CSE,kchakraborty@cse.nitdgp.ac.in,"Graph Theory, Combinatorics",https://nitdgp.ac.in/CS/faculty,1,queued,
-Prasun Ghosal,west-bengal,durgapur,NIT Durgapur,NIT,CSE,pghosal2@cse.nitdgp.ac.in,"VLSI CAD, Reconfigurable Architectures",https://nitdgp.ac.in/CS/faculty,1,queued,
 Tuhina Samanta,west-bengal,durgapur,NIT Durgapur,NIT,CSE,tsamanta@cse.nitdgp.ac.in,"Soft Computing, Bio-inspired Algorithms",https://nitdgp.ac.in/CS/faculty,1,queued,
