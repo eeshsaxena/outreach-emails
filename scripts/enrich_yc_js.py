@@ -47,12 +47,12 @@ from pathlib import Path
 from playwright.async_api import async_playwright
 
 # --- tunables -------------------------------------------------------------
-PATHS = ("", "/contact", "/careers", "/about")   # pages checked per company
-NAV_TIMEOUT_MS = 15000        # per navigation
-SETTLE_MS = 1500              # let JS inject content after DOM load
+PATHS = ("", "/contact", "/careers")   # pages checked per company
+NAV_TIMEOUT_MS = 12000        # per navigation
+SETTLE_MS = 1000              # let JS inject content after DOM load
+SITE_TIMEOUT_S = 40           # HARD cap per company: a hung site can never wedge a worker
 DEFAULT_CONCURRENCY = 8       # tabs in flight at once
-CHUNK = 120                   # recycle the whole browser every this many sites
-BLOCK = {"image", "media", "font", "stylesheet"}
+CHUNK = 80                    # recycle the whole browser every this many sites
 
 EMAIL = re.compile(r"[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,}")
 ROLE = (
@@ -101,16 +101,6 @@ def person_for(local: str) -> str:
     return "Team"
 
 
-async def _block(route):
-    try:
-        if route.request.resource_type in BLOCK:
-            await route.abort()
-        else:
-            await route.continue_()
-    except Exception:
-        pass
-
-
 async def scrape_one(browser, row: dict) -> str | None:
     """Return the best on-domain email for one company, or None."""
     site = (row.get("Website") or "").strip()
@@ -126,7 +116,6 @@ async def scrape_one(browser, row: dict) -> str | None:
     found: dict[str, int] = {}
     try:
         page = await ctx.new_page()
-        await page.route("**/*", _block)
         for path in PATHS:
             try:
                 await page.goto(base + path, wait_until="domcontentloaded", timeout=NAV_TIMEOUT_MS)
@@ -164,7 +153,9 @@ async def worker(name, browser, queue, results, processed_fp, out_writer, out_fp
     while True:
         row = await queue.get()
         try:
-            email = await scrape_one(browser, row)
+            # Hard per-site cap: if any await inside scrape_one hangs past this,
+            # wait_for cancels it so the worker is never permanently consumed.
+            email = await asyncio.wait_for(scrape_one(browser, row), timeout=SITE_TIMEOUT_S)
         except Exception:
             email = None
         finally:
