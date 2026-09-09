@@ -74,7 +74,14 @@ STATE_FILE = os.path.join(_ROOT, "state", "career_state.json")
 ALERTS_MD = os.path.join(_ROOT, "state", "career_alerts.md")
 ALERTS_LOG = os.path.join(_ROOT, "state", "career_alerts.log")
 
-UA = "Mozilla/5.0 (compatible; CareerWatch/1.0; internship-outreach)"
+# A realistic desktop-Chrome UA: the honest "CareerWatch/1.0" bot string was
+# 403'd / stalled by WAFs on several marquee careers pages (EPAM, ServiceNow,
+# ...), so their postings never got read. Overridable via the UA env var.
+UA = os.getenv(
+    "UA",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+)
 TIMEOUT = 25
 RENDER = os.getenv("RENDER") == "1"
 CONCURRENCY = int(os.getenv("CONCURRENCY", "6"))
@@ -154,7 +161,16 @@ SOFTWARE_RE = re.compile(
     r"devops|site\s+reliability|\bsre\b|cloud\s+engineer|data\s+engineer|"
     r"platform\s+engineer|application\s+(?:developer|engineer)|python|java\b|"
     r"javascript|golang|\.net|react|angular|node\.?js|test\s+automation|"
-    r"automation\s+engineer|qa\s+(?:engineer|automation))\b",
+    r"automation\s+engineer|qa\s+(?:engineer|automation)|"
+    # startup / YC-idiom engineering titles (non-software disciplines such as
+    # mechanical / civil / electrical are still removed by NONSOFTWARE_RE).
+    r"founding\s+engineer|member\s+of\s+technical\s+staff|technical\s+staff|"
+    r"forward[ -]?deployed|product\s+engineer|infra(?:structure)?\s+engineer|"
+    r"engineering\s+intern|software\s+intern|"
+    # generic MNC entry titles (mechanical/civil/electrical still excluded by
+    # NONSOFTWARE_RE, so these resolve to software at IT-services employers).
+    r"graduate\s+engineer\s+trainee|graduate\s+software|engineer\s+trainee|"
+    r"(?:developer|programmer)\s+trainee|trainee\s+(?:developer|programmer))\b",
     re.I,
 )
 # Non-software fresher roles to exclude even when they carry fresher wording.
@@ -164,8 +180,12 @@ NONSOFTWARE_RE = re.compile(
     r"content writer|copywriter|tele[ -]?caller|customer (support|service|success)|"
     r"\bbpo\b|\bkpo\b|voice process|non[ -]?voice|account(s|ant)|finance|"
     r"admin(istrator|istration)?|receptionist|operations|logistics|procurement|"
-    r"mechanical|civil engineer|electrical engineer|graphic designer|"
-    r"digital marketing|social media)\b",
+    r"graphic designer|digital marketing|social media|"
+    # non-software engineering disciplines (so generic "graduate engineer" /
+    # "engineer trainee" titles do not leak civil/mechanical/etc. roles).
+    r"mechanical|civil|electrical|electronics|chemical|instrumentation|"
+    r"automobile|automotive|aeronautical|aerospace|biomedical|metallurg\w*|"
+    r"mining|production engineer|industrial engineer)\b",
     re.I,
 )
 # Target-city focus (default Hyderabad / Pune / Bengaluru).
