@@ -72,9 +72,6 @@ ISRO,https://www.isro.gov.in/Careers.html,India,yes,Space agency
 IOCL,https://iocl.com/latest-job-openings,India,yes,Oil PSU
 PowerGrid,https://www.powergrid.in/careers,India,yes,Power transmission PSU
 NPCIL,https://npcilcareers.co.in/,India,yes,Nuclear PSU
-Internshala (ML),https://internshala.com/internships/machine-learning-internship/,India,yes,ML internships board
-Internshala (SDE),https://internshala.com/internships/software-development-internship/,India,yes,Software-dev internships board
-Internshala (AI),https://internshala.com/internships/artificial-intelligence-internship/,India,yes,AI internships board
 YCombinator Jobs,https://www.ycombinator.com/jobs/location/bengaluru,Bengaluru,yes,YC startup jobs/interns (SPA)
 Wellfound,https://wellfound.com/location/bangalore,Bengaluru,yes,Startup jobs/interns (SPA)
 Google,https://www.google.com/about/careers/applications/jobs/results/?location=India&employment_type=INTERN,India,yes,Interns India (SPA)
@@ -149,12 +146,6 @@ Kitopi,https://kitopi.com/careers/,Dubai,yes,Cloud kitchens tech
 Tabby,https://tabby.ai/careers,Dubai,yes,Fintech BNPL
 e& (Etisalat),https://www.eand.com/en/careers.html,Dubai,yes,Telecom tech
 Emirates Group,https://www.emiratesgroupcareers.com/,Dubai,yes,Aviation IT
-Internshala Gandhinagar,https://internshala.com/internships/internship-in-gandhinagar/,Gandhinagar,yes,City intern board
-Internshala Pune,https://internshala.com/internships/internship-in-pune/,Pune,yes,City intern board
-Internshala Chennai,https://internshala.com/internships/internship-in-chennai/,Chennai,yes,City intern board
-Internshala Noida,https://internshala.com/internships/internship-in-noida/,Noida,yes,City intern board
-Internshala Gurgaon,https://internshala.com/internships/internship-in-gurgaon/,Gurugram,yes,City intern board
-Internshala Dehradun,https://internshala.com/internships/internship-in-dehradun/,Dehradun,yes,City intern board
 Grab,https://grab.careers/,Singapore,yes,Super-app SDE/AI
 Shopee (Sea),https://careers.shopee.sg/,Singapore,yes,Ecommerce SDE
 Sea Group,https://career.sea.com/,Singapore,yes,SDE/AI (Sea AI Lab)
@@ -323,16 +314,6 @@ Circles.life,https://boards.greenhouse.io/embed/job_board?for=circleslife,Singap
 M-DAQ,https://www.m-daq.com/careers/,Singapore,yes,Fintech SDE
 Kredivo (FinAccel),https://www.kredivo.com/careers,Singapore,yes,Fintech SDE
 MoneySmart,https://www.moneysmart.sg/careers,Singapore,yes,Fintech SDE
-Internshala (Data Science),https://internshala.com/internships/data-science-internship/,India,yes,Intern board
-Internshala (Web Dev),https://internshala.com/internships/web-development-internship/,India,yes,Intern board
-Internshala (Python),https://internshala.com/internships/python-internship/,India,yes,Intern board
-Internshala (Full Stack),https://internshala.com/internships/full-stack-development-internship/,India,yes,Intern board
-Internshala (Frontend),https://internshala.com/internships/front-end-development-internship/,India,yes,Intern board
-Internshala (Backend),https://internshala.com/internships/back-end-development-internship/,India,yes,Intern board
-Internshala (App Dev),https://internshala.com/internships/mobile-app-development-internship/,India,yes,Intern board
-Internshala (Bangalore),https://internshala.com/internships/internship-in-bangalore/,Bengaluru,yes,City intern board
-Internshala (Hyderabad),https://internshala.com/internships/internship-in-hyderabad/,Hyderabad,yes,City intern board
-Internshala (Ahmedabad),https://internshala.com/internships/internship-in-ahmedabad/,Ahmedabad,yes,City intern board
 Unstop Internships,https://unstop.com/internships,India,yes,Student intern/competitions board
 Naukri Internships,https://www.naukri.com/internship-jobs,India,yes,Intern board
 FreshersWorld,https://www.freshersworld.com/jobs/jobsearch/internship-jobs,India,yes,Fresher/intern board
@@ -1058,3 +1039,165 @@ Freshersworld (Pune software),https://www.freshersworld.com/jobs/jobsearch/softw
 Freshersworld (Bengaluru software),https://www.freshersworld.com/jobs/jobsearch/software-jobs-in-bangalore,Bengaluru,yes,Fresher software jobs board - Bengaluru (aggregator)
 Skyflow,https://www.skyflow.com/careers,Bengaluru,yes,Data-privacy vault; Bengaluru & Hyderabad eng (SPA - needs RENDER)
 Rubrik,https://www.rubrik.com/company/careers,Bengaluru,yes,Data security; Bengaluru R&D (SPA - needs RENDER)
+EPAM Systems,https://www.epam.com/careers/job-listings,India,yes,Global IT-services; Hyderabad/Pune/Bengaluru/Gurugram delivery (SPA - needs RENDER)
+GlobalLogic,https://www.globallogic.com/in/careers/,India,yes,Hitachi digital-eng; Bengaluru/Hyderabad/Pune (SPA)
+Deloitte USI,https://www2.deloitte.com/in/en/careers.html,India,yes,USI engineering; Hyderabad/Bengaluru/Pune
+Globant,https://www.globant.com/careers,India,yes,Digital-eng; Pune/Bengaluru/Hyderabad (SPA)
+Thoughtworks,https://www.thoughtworks.com/careers/jobs,India,yes,Software consultancy; Pune/Bengaluru/Hyderabad (SPA)
+Virtusa,https://careers.virtusa.com/,India,yes,IT services; Hyderabad/Bengaluru/Pune (SPA)
+DXC Technology,https://careers.dxc.com/,India,yes,IT services; Bengaluru/Hyderabad/Pune (SPA)
+Xebia,https://xebia.com/careers/,India,yes,Gurugram/Bengaluru/Hyderabad software (SPA)
+SAP Labs India,https://jobs.sap.com/search/?locationsearch=india,India,yes,Product R&D; Bengaluru/Pune/Hyderabad (SPA)
+Oracle India,https://careers.oracle.com/,India,yes,Product/cloud; Bengaluru/Hyderabad (SPA)
+ServiceNow,https://careers.servicenow.com/,India,yes,Product; Hyderabad/Bengaluru/Pune (SPA)
+Cisco India,https://jobs.cisco.com/jobs/SearchJobs,India,yes,Networking product; Bengaluru/Pune (SPA)
+Endava,https://www.endava.com/careers,India,yes,IT services; Pune/Bengaluru (SPA)
+Societe Generale GSC,https://careers.societegenerale.com/,Bengaluru,yes,Bengaluru tech GSC (SPA)
+Willow,https://willowvoice.com/careers,,no,YC Spring 2025 · AI · team 7 · hiring [priority]
+Piris Labs,https://pirislabs.io/careers,,no,YC Winter 2026 · AI · team 8 · hiring [priority]
+screenpipe,https://screenpipe.com/careers,,no,YC Summer 2026 · AI · team 2 · hiring [priority]
+RamAIn,https://ramain.ai/careers,,no,YC Winter 2026 · AI · team 4 · hiring [priority]
+PerfectBit Inc.,https://perfectbit.ai/careers,,no,YC Spring 2026 · AI/ML · team 3 · hiring [priority]
+Simantic,https://simantic.dev/careers,,no,YC Fall 2026 · DevTools · team 4 · hiring [priority]
+Servo7,https://servo7.com/careers,,no,YC Winter 2026 · AI · team 3 · hiring [priority]
+Rational,https://rational.to/careers,,no,YC Summer 2026 · AI · team 2 · hiring [priority]
+Promptless,https://promptless.ai/jobs,,no,YC Winter 2025 · AI/DevTools · team 5 · hiring [priority]
+Adam,https://adam.new/careers,,no,YC Winter 2025 · AI · team 4 · hiring [priority]
+Reason Machines,https://reasonmachines.ai/careers,,no,YC Spring 2026 · DevTools · team 2 · hiring [priority]
+Parasma,https://parasma.com,,no,YC Summer 2026 · ML · team 2 · hiring [priority]
+a0.dev,https://a0.dev/careers,,no,YC Winter 2025 · AI/DevTools · team 3 · hiring [priority]
+Pelica,https://www.pelica.com/careers,,no,YC Spring 2025 · AI · team 5 · hiring [priority]
+Adentris,https://www.adentris.com/careers,,no,YC Spring 2025 · AI · team 5 · hiring [priority]
+throxy,https://throxy.com,,no,YC Spring 2025 · AI · team 55 · hiring [priority]
+Besimple AI,https://besimple.ai/careers,,no,YC Spring 2025 · AI · team 6 · hiring [priority]
+Osmosis,https://osmosis.ai,,no,YC Winter 2025 · AI/ML · team 6 · hiring [priority]
+Text.ai,https://www.text.ai,,no,YC Spring 2025 · AI · team 4 · hiring [priority]
+Sitefire,https://sitefire.ai,,no,YC Winter 2026 · AI · team 2 · hiring [priority]
+Code Four,https://codefour.us,,no,YC Spring 2025 · AI · team 3 · hiring [priority]
+Autonomous Technologies Group,https://becomeautonomous.com,,no,YC Fall 2025 · AI · team 8 · hiring [priority]
+YouShift,https://www.you-shift.com,,no,YC Winter 2025 · AI · team 10 · hiring [priority]
+truthsystems,https://www.truthsystems.ai,,no,YC Summer 2025 · AI · team 6 · hiring [priority]
+EffiGov,https://effigov.com/careers,,no,YC Summer 2025 · AI · team 3 · hiring [priority]
+QualGent,https://www.qualgent.ai,,no,YC Spring 2025 · AI · team 10 · hiring [priority]
+Salus,https://www.usesalus.ai/careers,,no,YC Winter 2026 · AI/DevTools · team 2 · hiring [priority]
+Nozomio,https://www.nozomio.com/careers,,no,YC Summer 2025 · AI/DevTools · team 3 · hiring [priority]
+Leaping AI,https://www.leapingai.com/careers,,no,YC Winter 2025 · AI · team 13 · hiring [priority]
+Ooak Data,https://ooakdata.com,,no,YC Summer 2026 · AI · team 5 · hiring [priority]
+OneStop,https://www.askonestop.com,,no,YC Summer 2025 · AI · team 2 · hiring [priority]
+Floot,https://floot.com/careers,,no,YC Summer 2025 · AI · team 4 · hiring [priority]
+Onlook,https://onlook.com,,no,YC Winter 2025 · AI/DevTools · team 4 · hiring [priority]
+Bolna AI,https://bolna.ai/careers,,no,YC Fall 2025 · AI · team 21 · hiring [priority]
+Unsiloed AI,https://www.unsiloed.ai/careers,,no,YC Fall 2025 · AI · team 2 · hiring [priority]
+Reacher,https://reacherapp.com,,no,YC Summer 2025 · AI · team 10 · hiring [priority]
+Sourcebot,https://www.sourcebot.dev,,no,YC Fall 2025 · AI/DevTools · team 3 · hiring [priority]
+Imagine AI,https://imagineai.me,,no,YC Fall 2025 · AI · team 5 · hiring [priority]
+Godela,http://godela.ai/careers,,no,YC Spring 2025 · AI · team 10 · hiring [priority]
+Channel3,https://trychannel3.com,,no,YC Summer 2025 · AI · team 5 · hiring [priority]
+Scout,https://scoutforschools.com,,no,YC Winter 2025 · AI · team 8 · hiring [priority]
+Plexe,https://plexe.ai/careers,,no,YC Spring 2025 · ML · team 2 · hiring [priority]
+Nitrode,https://www.nitrode.com,,no,YC Winter 2025 · ML · team 5 · hiring [priority]
+Theorem,https://theorem.dev/careers,,no,YC Spring 2025 · ML · team 4 · hiring [priority]
+OnDeck AI,https://www.ondeckai.com/careers,,no,YC Summer 2025 · ML · team 7 · hiring [priority]
+Thesis,https://thesislabs.ai/careers,,no,YC Fall 2025 · ML · team 3 · hiring [priority]
+Infinite,https://infinite.dev/careers,,no,YC Winter 2025 · DevTools · team 4 · hiring [priority]
+Relling,https://relling.co/careers,,no,YC Summer 2025 · AI · hiring [priority]
+Lemma,https://www.uselemma.ai,,no,YC Fall 2025 · AI/DevTools · team 2 · hiring [priority]
+DiligenceSquared,https://diligencesquared.com/careers,,no,YC Fall 2025 · AI · team 3 · hiring [priority]
+Dex,https://joindex.com,,no,YC Winter 2025 · AI · team 2 · hiring [priority]
+Interfere,https://interfere.com/careers,,no,YC Summer 2025 · DevTools · team 8 · hiring [priority]
+Clicks Health,https://www.goclicks.ai,,no,YC Fall 2025 · AI · team 8 · hiring [priority]
+Tekton Dynamics,https://www.tekton-dynamics.com/careers,,no,YC Winter 2024 · AI · team 3 · hiring [priority]
+Meticulate,https://meticulate.ai,,no,YC Winter 2024 · AI · team 5 · hiring [priority]
+Tamarind Bio,https://www.tamarind.bio/careers,,no,YC Winter 2024 · AI · team 20 · hiring [priority]
+Hyperspell,https://hyperspell.com,,no,YC Fall 2025 · ML · team 8 · hiring [priority]
+Brickanta,https://www.brickanta.com,,no,YC Fall 2025 · ML · team 11 · hiring [priority]
+GloGlo,https://gloglo.com,,no,YC Winter 2024 · AI · team 3 · hiring [priority]
+Firebender,https://firebender.com,,no,YC Winter 2024 · AI · team 1 · hiring [priority]
+TraceRoot.AI,https://traceroot.ai/jobs,,no,YC Summer 2025 · DevTools · team 3 · hiring [priority]
+Attune,https://attunehq.com/careers,,no,YC Spring 2025 · DevTools · team 3 · hiring [priority]
+Raindrop,https://www.raindrop.ai/careers,,no,YC Winter 2024 · AI · team 9 · hiring [priority]
+Ellipsis,https://ellipsis.dev/careers,,no,YC Winter 2024 · AI/ML/DevTools · team 2 · hiring [priority]
+JustAI,https://getjust.ai/careers,,no,YC Winter 2024 · AI · team 4 · hiring [priority]
+DryMerge,https://www.drymerge.com,,no,YC Winter 2024 · AI · team 4 · hiring [priority]
+Rove,https://rove.com/careers,,no,YC Winter 2024 · AI · team 4 · hiring [priority]
+BetterBasket,http://www.betterbasket.com/careers,,no,YC Winter 2024 · AI · team 5 · hiring [priority]
+Pivot Robotics,https://pivotrobotics.com/careers,,no,YC Winter 2024 · AI · team 7 · hiring [priority]
+Yarn,https://www.yarn.so,,no,YC Winter 2024 · AI · team 6 · hiring [priority]
+NOSO LABS,https://noso.so,,no,YC Summer 2025 · AI · team 6 · hiring [priority]
+Moss,https://moss.dev,,no,YC Fall 2025 · DevTools · team 5 · hiring [priority]
+Educato,https://www.educato.com,,no,YC Summer 2024 · AI · team 5 · hiring [priority]
+Entangl,https://www.entangl.com,,no,YC Summer 2024 · AI · team 15 · hiring [priority]
+Maitai,https://trymaitai.com/careers,,no,YC Summer 2024 · AI/DevTools · team 6 · hiring [priority]
+Clarion,https://clarionhealth.com,,no,YC Winter 2024 · AI · team 16 · hiring [priority]
+Silurian,https://silurian.ai/careers,,no,YC Summer 2024 · AI · team 6 · hiring [priority]
+ProhostAI,https://www.prohost.ai,,no,YC Summer 2024 · AI · team 5 · hiring [priority]
+Manufact,https://manufact.com,,no,YC Summer 2025 · DevTools · team 5 · hiring [priority]
+Centralize,https://www.usecentralize.com,,no,YC Winter 2024 · AI · team 9 · hiring [priority]
+Mage Legal,https://magelegal.com,,no,YC Summer 2024 · AI · team 2 · hiring [priority]
+Brainbase Labs,https://brainbaselabs.com,,no,YC Winter 2024 · AI · team 4 · hiring [priority]
+The Forecasting Company,https://www.theforecastingcompany.com/careers,,no,YC Summer 2024 · AI · team 7 · hiring [priority]
+Openmart,https://www.openmart.com,,no,YC Winter 2024 · AI · team 6 · hiring [priority]
+GetCrux,http://getcrux.ai/careers,,no,YC Winter 2024 · AI · team 9 · hiring [priority]
+Brighterway,https://www.brighterway.ai,,no,YC Summer 2024 · AI · team 14 · hiring [priority]
+Assembly HOA,https://assemblyhoa.com,,no,YC Summer 2024 · AI · team 12 · hiring [priority]
+Anglera,https://www.anglera.com/careers,,no,YC Summer 2024 · AI/ML · team 6 · hiring [priority]
+FirstWork,https://firstwork.com/careers,,no,YC Summer 2024 · AI · team 9 · hiring [priority]
+Unbound,https://getunbound.ai/careers,,no,YC Summer 2024 · AI · team 7 · hiring [priority]
+Coval,https://coval.dev/jobs,,no,YC Summer 2024 · AI/DevTools · team 10 · hiring [priority]
+Candle,https://www.trycandle.app/jobs,,no,YC Fall 2024 · AI · team 2 · hiring [priority]
+Syntra,https://www.syntra.com,,no,YC Summer 2024 · AI · team 10 · hiring [priority]
+Openbenchmarks,https://openbenchmarks.com,,no,YC Fall 2024 · AI · team 4 · hiring [priority]
+Senso,http://www.senso.ai/careers,,no,YC Winter 2024 · AI · team 8 · hiring [priority]
+Consus,https://www.consus.io/careers,,no,YC Fall 2024 · AI/DevTools · team 1 · hiring [priority]
+Cloudglue,https://cloudglue.dev/careers,,no,YC Summer 2024 · ML/DevTools · team 4 · hiring [priority]
+Domu Technology Inc.,https://www.domu.ai/careers,,no,YC Summer 2024 · AI · team 50 · hiring [priority]
+Spur,https://www.spurtest.com/careers,,no,YC Summer 2024 · DevTools · team 8 · hiring [priority]
+Innate,https://innate.bot,,no,YC Fall 2024 · AI/DevTools · team 7 · hiring [priority]
+Upsolve AI,https://upsolve.ai,,no,YC Winter 2024 · DevTools · team 5 · hiring [priority]
+Variant,https://variant.com/careers,,no,YC Fall 2024 · DevTools · team 5 · hiring [priority]
+Thunder Compute,https://www.thundercompute.com/careers,,no,YC Summer 2024 · DevTools · team 9 · hiring [priority]
+Chima,https://www.withchima.com/careers,,no,YC Winter 2023 · AI/DevTools · team 7 · hiring [priority]
+Cekura,https://www.cekura.ai/careers,,no,YC Fall 2024 · DevTools · team 15 · hiring [priority]
+Conductor,https://conductor.build,,no,YC Summer 2024 · AI/DevTools · team 8 · hiring [priority]
+Ryvn,https://ryvn.ai/careers,,no,YC Fall 2024 · DevTools · team 5 · hiring [priority]
+Reflex,https://reflex.dev/careers,,no,YC Winter 2023 · AI/DevTools · team 10 · hiring [priority]
+Raycaster,https://raycaster.ai,,no,YC Fall 2024 · AI · team 3 · hiring [priority]
+Cartage,https://cartage.ai/careers,,no,YC Summer 2024 · ML · team 12 · hiring [priority]
+Glass Health,https://glass.health,,no,YC Winter 2023 · AI · team 7 · hiring [priority]
+Pier,http://www.pier-finance.com/careers,,no,YC Winter 2023 · AI · team 4 · hiring [priority]
+HumanLayer,https://humanlayer.com/jobs,,no,YC Fall 2024 · AI/DevTools · team 2 · hiring [priority]
+kapa.ai,https://www.kapa.ai,,no,YC Summer 2023 · AI · team 22 · hiring [priority]
+Vendora,https://www.vendora.io,,no,YC Winter 2023 · AI · team 4 · hiring [priority]
+Type,https://type.ai,,no,YC Winter 2023 · AI · team 5 · hiring [priority]
+Elayne,https://www.elayne.com,,no,YC Summer 2024 · AI · team 8 · hiring [priority]
+Berry,https://berryai.com,,no,YC Winter 2023 · AI · team 8 · hiring [priority]
+cmux,https://www.cmux.com/jobs,,no,YC Summer 2024 · DevTools · team 3 · hiring [priority]
+Rubbrband,https://rubbrband.com/jobs,,no,YC Winter 2023 · AI · team 10 · hiring [priority]
+Ocular AI,https://useocular.com/jobs,,no,YC Winter 2024 · ML · team 8 · hiring [priority]
+Sweep,https://sweep.dev/careers,,no,YC Summer 2023 · AI/DevTools · team 4 · hiring [priority]
+SID,https://www.sid.ai,,no,YC Summer 2023 · AI · team 7 · hiring [priority]
+VectorShift,https://www.vectorshift.ai,,no,YC Summer 2023 · AI · team 30 · hiring [priority]
+Narrative,https://www.trynarrative.com,,no,YC Winter 2023 · AI · team 5 · hiring [priority]
+Tempo,https://www.tempo.new/careers,,no,YC Summer 2023 · AI/DevTools · team 8 · hiring [priority]
+Kino AI,https://kino.ai/jobs,,no,YC Summer 2023 · AI · team 4 · hiring [priority]
+Roame,https://roame.travel,,no,YC Summer 2023 · AI · team 2 · hiring [priority]
+Morph,https://morphllm.com,,no,YC Summer 2023 · AI/DevTools · team 3 · hiring [priority]
+Pair AI,https://www.pairai.com/careers,,no,YC Winter 2023 · AI · team 2 · hiring [priority]
+Pointhound,http://www.pointhound.com,,no,YC Summer 2023 · AI · team 5 · hiring [priority]
+222,https://222.place/careers,,no,YC Winter 2023 · ML · team 23 · hiring [priority]
+Rimward,https://rimward.ai/careers,,no,YC Summer 2023 · ML · team 1 · hiring [priority]
+SuperKalam,https://superkalam.com,,no,YC Winter 2023 · AI · team 20 · hiring [priority]
+Automat,https://www.runautomat.com/jobs,,no,YC Winter 2023 · AI/DevTools · hiring [priority]
+Nango,https://nango.dev/careers,,no,YC Winter 2023 · DevTools · team 6 · hiring [priority]
+Quill Bills,https://quillbills.com,,no,YC Summer 2023 · AI · team 3 · hiring [priority]
+truemetrics,https://www.truemetrics.io,,no,YC Summer 2023 · AI · team 5 · hiring [priority]
+Diffuse Bio,http://diffuse.bio/careers,,no,YC Winter 2023 · ML · team 10 · hiring [priority]
+IcePanel,https://icepanel.io,,no,YC Winter 2023 · DevTools · team 9 · hiring [priority]
+Boundary,https://www.boundaryml.com/jobs,,no,YC Winter 2023 · AI/ML/DevTools · team 10 · hiring [priority]
+Subsets,https://www.subsets.com,,no,YC Summer 2023 · ML · team 7 · hiring [priority]
+Simbie AI,http://www.simbie.ai/jobs,,no,YC Summer 2023 · AI · team 5 · hiring [priority]
+Cedana,https://cedana.ai/careers,,no,YC Summer 2023 · DevTools · team 5 · hiring [priority]
+Corgea,https://www.corgea.com/careers,,no,YC Summer 2023 · DevTools · team 6 · hiring [priority]
+Dream3D,https://dream3d.com,,no,YC Winter 2023 · AI · team 3 · hiring [priority]
+Orbio Earth,https://www.orbio.earth,,no,YC Summer 2023 · AI · team 6 · hiring [priority]
+Nowadays,http://nowadays.ai/jobs,,no,YC Summer 2023 · AI · team 6 · hiring [priority]
