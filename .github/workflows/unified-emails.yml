@@ -42,9 +42,9 @@ jobs:
         run: |
           git config user.name "unified-emails[bot]"
           git config user.email "actions@github.com"
-          git add unified_emails.csv
+          git add unified_emails.csv unified_emails_z_to_a.csv
           if ! git diff --cached --quiet; then
-            git commit -m "unified-emails: rebuild all-emails list [skip ci]"
+            git commit -m "unified-emails: rebuild all-emails lists (A-Z + Z-A) [skip ci]"
             git push
           else
             echo "unified_emails.csv already up to date."

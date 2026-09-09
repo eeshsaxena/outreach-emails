@@ -19,7 +19,10 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INDUSTRY = os.path.join(ROOT, "industry")
+# Two root-level views of the same de-duplicated list: A->Z by company, and the
+# same rows reversed (Z->A / bottom-to-top). Both are regenerated together.
 OUT = os.path.join(ROOT, "unified_emails.csv")
+OUT_REV = os.path.join(ROOT, "unified_emails_z_to_a.csv")
 
 EMAIL_RE = re.compile(r"^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$")
 OUT_COLS = ["Company", "Email", "Person", "Title", "Location", "Source", "Notes"]
@@ -78,12 +81,59 @@ def main():
         except Exception as e:  # noqa: BLE001 - one bad sheet must not stop the build
             print(f"  ! skipped {rel}: {e}", file=sys.stderr)
 
-    out = sorted(rows.values(), key=lambda r: (r["Company"].lower(), r["Email"]))
-    with open(OUT, "w", encoding="utf-8", newline="\n") as f:
-        w = csv.DictWriter(f, fieldnames=OUT_COLS, lineterminator="\n")
-        w.writeheader()
-        w.writerows(out)
-    print(f"unified_emails.csv: {len(out)} unique emails from {files} industry sheets")
+    # Stable ordering: keep the order each list already has and only append the
+    # newly-seen emails at the END (so recent additions are easy to find at the
+    # bottom), rather than re-sorting the whole list on every rebuild.
+    #  - unified_emails.csv         seeds A->Z the first time it is created.
+    #  - unified_emails_z_to_a.csv  seeds Z->A the first time it is created.
+    # After that each file keeps its own order and new emails land at the end.
+    by_email = {k: v for k, v in rows.items()}  # email(lower) -> row
+    az_sorted = [
+        r["Email"].lower()
+        for r in sorted(by_email.values(), key=lambda r: (r["Company"].lower(), r["Email"]))
+    ]
+
+    def existing_order(path):
+        if not os.path.exists(path):
+            return None
+        try:
+            with open(path, encoding="utf-8") as f:
+                ecol = pick(next(csv.reader(f)), "email") or "Email"
+            with open(path, encoding="utf-8") as f:
+                return [(r.get(ecol) or "").strip().lower() for r in csv.DictReader(f)]
+        except Exception:  # noqa: BLE001
+            return None
+
+    def assemble(seed_order):
+        # keep the established order (dropping emails no longer present), then
+        # append any email not already listed, in A->Z order for determinism.
+        body = [e for e in seed_order if e in by_email]
+        placed = set(body)
+        tail = [e for e in az_sorted if e not in placed]
+        return [by_email[e] for e in body + tail]
+
+    az_existing = existing_order(OUT)
+    az_seed = az_existing if az_existing is not None else az_sorted
+    rev_existing = existing_order(OUT_REV)
+    if rev_existing is not None:
+        rev_seed = rev_existing
+    elif az_existing is not None:
+        # First creation of the reverse file: seed from the OLD A->Z body
+        # reversed (not from the current full set), so this run's new emails
+        # are appended at the end here too, not sorted into Z->A positions.
+        rev_seed = list(reversed(az_existing))
+    else:
+        rev_seed = list(reversed(az_sorted))
+
+    for path, ordered in ((OUT, assemble(az_seed)), (OUT_REV, assemble(rev_seed))):
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
+            w = csv.DictWriter(f, fieldnames=OUT_COLS, lineterminator="\n")
+            w.writeheader()
+            w.writerows(ordered)
+    print(
+        f"unified_emails.csv (A->Z, new appended) + unified_emails_z_to_a.csv "
+        f"(Z->A, new appended): {len(by_email)} unique emails from {files} sheets"
+    )
 
 
 if __name__ == "__main__":
