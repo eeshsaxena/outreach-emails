@@ -29,8 +29,14 @@ City & software focus (all default ON, env-overridable):
   - CITY_FOCUS=1 restricts to TARGET_CITIES (default Hyderabad, Pune,
     Bengaluru) plus pan-India portals when ALLOW_NATIONAL=1. Sources for any
     other explicit city are skipped before fetching, cutting render time.
-  - SOFTWARE_ONLY=1 keeps only software-engineering / dev / AI-ML fresher
-    roles and drops non-technical fresher openings (HR, sales, BPO, ...).
+  - ALLOW_PRIORITY=1 exempts curated global sources (YC startups, marquee
+    MNCs, EPAM) from the city filter — tag their Notes with "[priority]".
+  - REMOTE_OR_INDIA=1 keeps only remote or Indian-city postings and drops
+    foreign on-site roles (a US-based YC page then only surfaces its remote
+    or India openings).
+  - SOFTWARE_ONLY=1 keeps only software-engineering / dev / AI-ML roles for
+    every source and drops non-technical openings (HR, sales, BPO, ...);
+    entry-tagged sources additionally require a fresher / 0-exp signal.
   - Widen again with CITY_FOCUS=0 / SOFTWARE_ONLY=0 / TARGET_CITIES=... .
 
 Rendering:
@@ -83,8 +89,18 @@ TARGET_CITIES = [c.strip().lower() for c in
                  os.getenv("TARGET_CITIES", "hyderabad,pune,bengaluru,bangalore").split(",")
                  if c.strip()]
 ALLOW_NATIONAL = os.getenv("ALLOW_NATIONAL", "1") == "1"
-# SOFTWARE_ONLY keeps only software-engineering / dev / AI-ML fresher roles and
-# drops non-technical fresher openings (HR, sales, BPO, marketing, ...).
+# ALLOW_PRIORITY keeps curated global sources (YC startups, marquee MNCs, EPAM)
+# regardless of city: tag their Notes with "[priority]" and they are always
+# watched even when the Location is blank or outside the target cities. Their
+# postings are still run through the software / fresher gates below.
+ALLOW_PRIORITY = os.getenv("ALLOW_PRIORITY", "1") == "1"
+# REMOTE_OR_INDIA drops postings whose title names a foreign on-site location:
+# a role is kept only when it is remote or in an Indian city (titles with no
+# location are kept for India-based sources and dropped for global ones).
+REMOTE_OR_INDIA = os.getenv("REMOTE_OR_INDIA", "1") == "1"
+# SOFTWARE_ONLY keeps only software-engineering / dev / AI-ML roles and drops
+# non-technical openings (HR, sales, BPO, marketing, ...). Entry-tagged sources
+# additionally require a fresher / 0-exp signal.
 SOFTWARE_ONLY = os.getenv("SOFTWARE_ONLY", "1") == "1"
 
 ROLE_RE = re.compile(
@@ -163,6 +179,9 @@ NATIONAL_RE = re.compile(
     r"remote[ -]?india)\b",
     re.I,
 )
+# Curated priority sources (YC startups, marquee MNCs) carry a "[priority]" tag
+# in their Notes and bypass the city filter — they are watched wherever based.
+PRIORITY_RE = re.compile(r"\[priority\]", re.I)
 
 # --- India vs outside-India classification -------------------------------
 # A page's Location (falling back to Company / Notes) decides which bucket its
@@ -192,6 +211,13 @@ INDIA_RE = re.compile(
     re.I,
 )
 
+# Remote markers (a remote role is acceptable wherever the company is based).
+# Remote-US / remote-EU / remote-global are treated as foreign by OUTSIDE_RE.
+REMOTE_RE = re.compile(
+    r"\b(remote|work[ -]?from[ -]?home|wfh|anywhere|distributed|hybrid[ -]?india)\b",
+    re.I,
+)
+
 INDIA = "India"
 OUTSIDE = "Outside India"
 UNSPECIFIED = "Unspecified"
@@ -213,12 +239,35 @@ def region_of(location, company="", notes=""):
     return UNSPECIFIED
 
 
+def location_ok(entry, source_region):
+    """Keep a posting only if it is remote or in an Indian city.
+
+    A title naming a foreign on-site location (San Francisco, London, ...) is
+    dropped; remote or India-city titles are kept. When the title carries no
+    location, it is kept for India-based sources and dropped for global ones
+    (YC / overseas boards), since an untagged role there is most likely abroad.
+    """
+    if not REMOTE_OR_INDIA:
+        return True
+    if OUTSIDE_RE.search(entry) and not INDIA_RE.search(entry):
+        return False
+    if REMOTE_RE.search(entry):
+        return True
+    if INDIA_RE.search(entry):
+        return True
+    return source_region == INDIA
+
+
 def city_focus_ok(location, company="", notes=""):
     """True if the source belongs to a target city (or a pan-India portal).
 
     When CITY_FOCUS is off, every source qualifies (original behaviour).
     """
     if not CITY_FOCUS:
+        return True
+    # Curated priority sources (YC startups, marquee MNCs) are watched wherever
+    # they are based — their postings are still software / fresher filtered.
+    if ALLOW_PRIORITY and PRIORITY_RE.search(notes or ""):
         return True
     # The Location column is authoritative: a target/national Location keeps
     # the source; any other named place is off-focus even if Company/Notes
@@ -484,6 +533,12 @@ def main():
         if entry_only:
             keep = is_software_fresher if SOFTWARE_ONLY else is_fresher
             new = [e for e in new if keep(e)]
+        elif SOFTWARE_ONLY:
+            # Non-entry sources (YC / MNC boards that don't tag seniority) still
+            # get software-only filtering, so sales / HR / ops don't leak in.
+            new = [e for e in new if is_software(e)]
+        # Keep only remote or Indian-city roles (drops foreign on-site).
+        new = [e for e in new if location_ok(e, region)]
 
         if new and not first_run:
             alerts.append((region, label, url, new))
@@ -549,9 +604,12 @@ def main():
     focus = []
     if CITY_FOCUS:
         focus.append("cities=" + "/".join(TARGET_CITIES)
-                     + ("+national" if ALLOW_NATIONAL else ""))
+                     + ("+national" if ALLOW_NATIONAL else "")
+                     + ("+priority" if ALLOW_PRIORITY else ""))
     if SOFTWARE_ONLY:
         focus.append("software-only")
+    if REMOTE_OR_INDIA:
+        focus.append("remote/india-only")
     focus_note = ("; ".join(focus) + f"; skipped {skipped_city} off-focus sources") if focus else ""
     print(f"Checked {len(pages)} pages ({mode}), {len(errors)} errors, {now}"
           + (f" [{focus_note}]" if focus_note else ""))
