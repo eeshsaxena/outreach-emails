@@ -22,6 +22,10 @@ ROOT = os.path.dirname(HERE)
 ALLOWED = {
     "README.md", "LICENSE", "CONTRIBUTING.md", "CODE_OF_CONDUCT.md",
     "CONTRIBUTORS.md", "requirements.txt", ".gitignore", ".gitattributes",
+    # Intentional root deliverables: the de-duplicated master email lists,
+    # auto-maintained by scripts/build_unified_emails.py + the unified-emails
+    # workflow. Kept at the root on purpose (one A->Z, one Z->A).
+    "unified_emails.csv", "unified_emails_z_to_a.csv",
 }
 
 # (regex on the root filename) -> where it should live instead.
