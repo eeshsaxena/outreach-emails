@@ -25,6 +25,14 @@ Fresher focus:
     architect/...) or asks for 2+ years of experience — so "Senior Associate"
     and "Graduate Engineer, 3-5 years" stay out of the inbox.
 
+City & software focus (all default ON, env-overridable):
+  - CITY_FOCUS=1 restricts to TARGET_CITIES (default Hyderabad, Pune,
+    Bengaluru) plus pan-India portals when ALLOW_NATIONAL=1. Sources for any
+    other explicit city are skipped before fetching, cutting render time.
+  - SOFTWARE_ONLY=1 keeps only software-engineering / dev / AI-ML fresher
+    roles and drops non-technical fresher openings (HR, sales, BPO, ...).
+  - Widen again with CITY_FOCUS=0 / SOFTWARE_ONLY=0 / TARGET_CITIES=... .
+
 Rendering:
   - Default: static fetch (requests). Fast, but JS-rendered/SPA career pages
     (most large MNC portals) return 0 entries.
@@ -64,6 +72,20 @@ UA = "Mozilla/5.0 (compatible; CareerWatch/1.0; internship-outreach)"
 TIMEOUT = 25
 RENDER = os.getenv("RENDER") == "1"
 CONCURRENCY = int(os.getenv("CONCURRENCY", "6"))
+
+# --- Focus knobs (all default ON; override via env to widen again) --------
+# CITY_FOCUS restricts the watch to the target cities below (plus, when
+# ALLOW_NATIONAL, pan-India portals). Sources for any other explicit city
+# (Ahmedabad, Gandhinagar, Gurugram, Chennai, Dubai, ...) are skipped BEFORE
+# fetching, which also cuts the render time / Actions minutes.
+CITY_FOCUS = os.getenv("CITY_FOCUS", "1") == "1"
+TARGET_CITIES = [c.strip().lower() for c in
+                 os.getenv("TARGET_CITIES", "hyderabad,pune,bengaluru,bangalore").split(",")
+                 if c.strip()]
+ALLOW_NATIONAL = os.getenv("ALLOW_NATIONAL", "1") == "1"
+# SOFTWARE_ONLY keeps only software-engineering / dev / AI-ML fresher roles and
+# drops non-technical fresher openings (HR, sales, BPO, marketing, ...).
+SOFTWARE_ONLY = os.getenv("SOFTWARE_ONLY", "1") == "1"
 
 ROLE_RE = re.compile(
     r"\b(engineer|developer|intern(ship)?|manager|designer|analyst|lead|architect|"
@@ -106,6 +128,39 @@ EXP_RE = re.compile(
 NOISE_RE = re.compile(
     r"^(home|about|contact|privacy|terms|cookie|login|sign in|menu|careers?|"
     r"life at|why join|benefits|culture|search|apply now|view all|learn more)$",
+    re.I,
+)
+# Broad software-engineering / dev role match (AIML_RE also counts as software).
+SOFTWARE_RE = re.compile(
+    r"\b(sde|sdet|software\s+(?:engineer|developer|development|programmer)|"
+    r"back[ -]?end|front[ -]?end|full[ -]?stack|web\s+(?:developer|development)|"
+    r"mobile\s+(?:app\s+)?(?:developer|development)|android|ios|programmer|"
+    r"devops|site\s+reliability|\bsre\b|cloud\s+engineer|data\s+engineer|"
+    r"platform\s+engineer|application\s+(?:developer|engineer)|python|java\b|"
+    r"javascript|golang|\.net|react|angular|node\.?js|test\s+automation|"
+    r"automation\s+engineer|qa\s+(?:engineer|automation))\b",
+    re.I,
+)
+# Non-software fresher roles to exclude even when they carry fresher wording.
+NONSOFTWARE_RE = re.compile(
+    r"\b(recruit(er|ment)|talent acquisition|\bhr\b|human resources|"
+    r"\bsales\b|business development|\bbde\b|\bbdm\b|marketing|\bseo\b|\bsmm\b|"
+    r"content writer|copywriter|tele[ -]?caller|customer (support|service|success)|"
+    r"\bbpo\b|\bkpo\b|voice process|non[ -]?voice|account(s|ant)|finance|"
+    r"admin(istrator|istration)?|receptionist|operations|logistics|procurement|"
+    r"mechanical|civil engineer|electrical engineer|graphic designer|"
+    r"digital marketing|social media)\b",
+    re.I,
+)
+# Target-city focus (default Hyderabad / Pune / Bengaluru).
+TARGET_CITY_RE = re.compile(
+    r"\b(" + "|".join(re.escape(c) for c in TARGET_CITIES) + r")\b", re.I
+) if TARGET_CITIES else None
+# Pan-India / national portals (kept when ALLOW_NATIONAL) — they surface the
+# target cities even though the source Location is just "India".
+NATIONAL_RE = re.compile(
+    r"\b(india|pan[ -]?india|all[ -]?india|across india|multiple locations|"
+    r"remote[ -]?india)\b",
     re.I,
 )
 
@@ -156,6 +211,39 @@ def region_of(location, company="", notes=""):
     if INDIA_RE.search(blob):
         return INDIA
     return UNSPECIFIED
+
+
+def city_focus_ok(location, company="", notes=""):
+    """True if the source belongs to a target city (or a pan-India portal).
+
+    When CITY_FOCUS is off, every source qualifies (original behaviour).
+    """
+    if not CITY_FOCUS:
+        return True
+    # The Location column is authoritative: a target/national Location keeps
+    # the source; any other named place is off-focus even if Company/Notes
+    # happen to mention India or another city.
+    loc = location or ""
+    if TARGET_CITY_RE and TARGET_CITY_RE.search(loc):
+        return True
+    if ALLOW_NATIONAL and NATIONAL_RE.search(loc):
+        return True
+    if loc.strip():
+        return False
+    # Only when Location is blank do we fall back to Company / Notes hints.
+    blob = " ".join(x for x in (company, notes) if x)
+    if TARGET_CITY_RE and TARGET_CITY_RE.search(blob):
+        return True
+    if ALLOW_NATIONAL and NATIONAL_RE.search(blob):
+        return True
+    return False
+
+
+def is_software(s):
+    """True for software-engineering / dev / AI-ML roles, excluding non-tech."""
+    if NONSOFTWARE_RE.search(s):
+        return False
+    return bool(SOFTWARE_RE.search(s) or AIML_RE.search(s))
 
 
 class TextLinkExtractor(HTMLParser):
@@ -240,6 +328,11 @@ def is_fresher(s):
         and not SENIOR_RE.search(s)
         and not demands_experience(s)
     )
+
+
+def is_software_fresher(s):
+    """0-experience AND software-engineering / dev / AI-ML role."""
+    return is_fresher(s) and is_software(s)
 
 
 def tags(s):
@@ -359,7 +452,11 @@ def send_email(subject, body):
 def main():
     now = dt.datetime.now().isoformat(timespec="seconds")
     state = load_state()
-    pages = read_pages()
+    all_pages = read_pages()
+    pages = [r for r in all_pages
+             if city_focus_ok(r.get("Location", ""), r.get("Company", ""),
+                              r.get("Notes", ""))]
+    skipped_city = len(all_pages) - len(pages)
     alerts = []    # (label, url, [entries])
     errors = []
 
@@ -385,7 +482,8 @@ def main():
         first_run = url not in state
         new = [e for e in entries if e not in prev]
         if entry_only:
-            new = [e for e in new if is_fresher(e)]
+            keep = is_software_fresher if SOFTWARE_ONLY else is_fresher
+            new = [e for e in new if keep(e)]
 
         if new and not first_run:
             alerts.append((region, label, url, new))
@@ -448,7 +546,15 @@ def main():
         print(f"  ! fetch failed: {label} <{url}> — {err}", file=sys.stderr)
 
     mode = "RENDER" if RENDER else "static"
-    print(f"Checked {len(pages)} pages ({mode}), {len(errors)} errors, {now}")
+    focus = []
+    if CITY_FOCUS:
+        focus.append("cities=" + "/".join(TARGET_CITIES)
+                     + ("+national" if ALLOW_NATIONAL else ""))
+    if SOFTWARE_ONLY:
+        focus.append("software-only")
+    focus_note = ("; ".join(focus) + f"; skipped {skipped_city} off-focus sources") if focus else ""
+    print(f"Checked {len(pages)} pages ({mode}), {len(errors)} errors, {now}"
+          + (f" [{focus_note}]" if focus_note else ""))
 
 
 if __name__ == "__main__":
