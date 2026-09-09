@@ -1,0 +1,51 @@
+name: unified-emails
+
+# Regenerates the root-level unified_emails.csv (all non-research industry
+# emails, de-duplicated) whenever any industry sheet changes, and commits it
+# back. This keeps the single "all emails" list in sync automatically, so every
+# email added to a city sheet / all_emails.csv / yc_emails.csv / batch flows
+# into unified_emails.csv without a manual step.
+#
+# Loop-safe: the trigger watches only industry/** , while the file this job
+# writes lives at the repo root, so its own commit never retriggers the run
+# (and the commit is tagged [skip ci] as a second guard).
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "industry/**.csv"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: unified-emails
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild unified_emails.csv
+        run: python scripts/build_unified_emails.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "unified-emails[bot]"
+          git config user.email "actions@github.com"
+          git add unified_emails.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "unified-emails: rebuild all-emails list [skip ci]"
+            git push
+          else
+            echo "unified_emails.csv already up to date."
+          fi
