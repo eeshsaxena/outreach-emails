@@ -1,160 +1,291 @@
-Company,Email,Person,Title,Location,Category,Notes
-EPAM Systems,,,,Hyderabad/Pune/Bengaluru/Gurugram,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.epam.com/careers/job-listings; offices: Hyderabad/Pune/Bengaluru/Gurugram
-Accenture,,,,Bengaluru/Hyderabad/Pune/Chennai,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.accenture.com/in-en/careers/life-at-accenture/entry-level; offices: Bengaluru/Hyderabad/Pune/Chennai
-Deloitte,,,,Hyderabad/Bengaluru/Pune/Gurugram,Consulting/IT,Cream MNC (Consulting/IT); applies via careers portal (no public email) - https://www2.deloitte.com/in/en/careers.html; offices: Hyderabad/Bengaluru/Pune/Gurugram
-Cognizant,,,,Chennai/Hyderabad/Pune/Bengaluru,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.cognizant.com/global-en/jobs/; offices: Chennai/Hyderabad/Pune/Bengaluru
-Capgemini,,,,Pune/Bengaluru/Mumbai/Chennai,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/; offices: Pune/Bengaluru/Mumbai/Chennai
-Infosys,,,,Bengaluru/Pune/Hyderabad/Mysuru,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.infosys.com/careers/graduates.html; offices: Bengaluru/Pune/Hyderabad/Mysuru
-Tata Consultancy Services,,,,Mumbai/Chennai/Bengaluru/Pune,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.tata.com/careers/jobs/joblisting; offices: Mumbai/Chennai/Bengaluru/Pune
-Wipro,,,,Bengaluru/Hyderabad/Pune/Chennai,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.wipro.com/careers-home/jobs; offices: Bengaluru/Hyderabad/Pune/Chennai
-HCLTech,,,,Noida/Bengaluru/Chennai/Hyderabad,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.hcltech.com/careers/jobs; offices: Noida/Bengaluru/Chennai/Hyderabad
-Tech Mahindra,,,,Pune/Bengaluru/Hyderabad/Noida,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.silvertouch.com/career/; offices: Pune/Bengaluru/Hyderabad/Noida
-LTIMindtree,,,,Mumbai/Bengaluru/Pune/Chennai,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.ltimindtree.com/; offices: Mumbai/Bengaluru/Pune/Chennai
-Mphasis,,,,Bengaluru/Pune/Chennai,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.mphasis.com/home/hot-jobs/location-search/india.html; offices: Bengaluru/Pune/Chennai
-Persistent Systems,,,,Pune/Bengaluru/Hyderabad/Nagpur,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.persistent.com/; offices: Pune/Bengaluru/Hyderabad/Nagpur
-Coforge,,,,Noida/Greater Noida/Bengaluru,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.coforge.com/; offices: Noida/Greater Noida/Bengaluru
-Hexaware,,,,Chennai/Mumbai/Pune/Bengaluru,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://hexaware.com/careers/; offices: Chennai/Mumbai/Pune/Bengaluru
-Birlasoft,,,,Noida/Pune/Bengaluru/Hyderabad,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.birlasoft.com/careers; offices: Noida/Pune/Bengaluru/Hyderabad
-Zensar,,,,Pune/Hyderabad/Bengaluru,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.zensar.com/careers; offices: Pune/Hyderabad/Bengaluru
-Cyient,,,,Hyderabad/Bengaluru/Pune,Engineering/IT,Cream MNC (Engineering/IT); applies via careers portal (no public email) - https://www.cyient.com/careers; offices: Hyderabad/Bengaluru/Pune
-GlobalLogic,careers@globallogic.com,Talent Acquisition,Careers,Bengaluru/Hyderabad/Pune/Nagpur,Digital engineering,VERIFIED careers inbox on globallogic.com; MX OK; offices: Bengaluru/Hyderabad/Pune/Nagpur
-Globant,,,,Pune/Bengaluru/Hyderabad,Digital engineering,Cream MNC (Digital engineering); applies via careers portal (no public email) - https://www.globant.com/careers; offices: Pune/Bengaluru/Hyderabad
-Thoughtworks,,,,Pune/Bengaluru/Hyderabad/Gurugram,Software consultancy,Cream MNC (Software consultancy); applies via careers portal (no public email) - https://www.thoughtworks.com/careers/jobs; offices: Pune/Bengaluru/Hyderabad/Gurugram
-Virtusa,,,,Hyderabad/Bengaluru/Chennai/Pune,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.virtusa.com/; offices: Hyderabad/Bengaluru/Chennai/Pune
-DXC Technology,,,,Bengaluru/Chennai/Hyderabad,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://careers.dxc.com/; offices: Bengaluru/Chennai/Hyderabad
-Endava,,,,Pune/Bengaluru,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.endava.com/careers; offices: Pune/Bengaluru
-Xebia,,,,Gurugram/Bengaluru/Hyderabad,Software consultancy,Cream MNC (Software consultancy); applies via careers portal (no public email) - https://xebia.com/careers/; offices: Gurugram/Bengaluru/Hyderabad
-Nagarro,,,,Gurugram/Bengaluru/Pune,Digital engineering,Cream MNC (Digital engineering); applies via careers portal (no public email) - https://www.nagarro.com/en/careers; offices: Gurugram/Bengaluru/Pune
-Sonata Software,,,,Bengaluru/Hyderabad,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.sonata-software.com/careers; offices: Bengaluru/Hyderabad
-Happiest Minds,,,,Bengaluru/Pune/Noida,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.happiestminds.com/careers/; offices: Bengaluru/Pune/Noida
-Mastek,,,,Mumbai/Pune/Chennai/Noida,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.mastek.com/careers/; offices: Mumbai/Pune/Chennai/Noida
-Publicis Sapient,hiring@publicissapient.com,Talent Acquisition,Careers,Bengaluru/Gurugram/Noida,Digital consulting,VERIFIED careers inbox on publicissapient.com; MX OK; offices: Bengaluru/Gurugram/Noida
-Microsoft,,,,Hyderabad/Bengaluru/Noida,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://careers.microsoft.com/students/us/en/search-results; offices: Hyderabad/Bengaluru/Noida
-Google,,,,Bengaluru/Hyderabad/Gurugram,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.google.com/about/careers/applications/jobs/results/?location=India&employment_type=INTERN; offices: Bengaluru/Hyderabad/Gurugram
-Amazon,,,,Bengaluru/Hyderabad/Chennai,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.amazon.jobs/en/search?base_query=intern&loc_query=India; offices: Bengaluru/Hyderabad/Chennai
-Adobe,,,,Noida/Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://careers.adobe.com/us/en/c/university-jobs; offices: Noida/Bengaluru
-Oracle,,,,Bengaluru/Hyderabad,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://careers.oracle.com/; offices: Bengaluru/Hyderabad
-SAP,,,,Bengaluru/Pune/Gurugram,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://careers.publicissapient.com/; offices: Bengaluru/Pune/Gurugram
-Salesforce,,,,Hyderabad/Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.salesforce.com/company/careers/university-recruiting/; offices: Hyderabad/Bengaluru
-IBM,,,,Bengaluru/Hyderabad/Pune/Kochi,Product/IT,Cream MNC (Product/IT); applies via careers portal (no public email) - https://www.ibm.com/in-en/careers/career-opportunities; offices: Bengaluru/Hyderabad/Pune/Kochi
-Cisco,,,,Bengaluru/Pune,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://jobs.cisco.com/jobs/SearchJobs; offices: Bengaluru/Pune
-VMware,,,,Bengaluru/Pune,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://vmware.com/careers; offices: Bengaluru/Pune
-Nvidia,,,,Bengaluru/Hyderabad/Pune,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite; offices: Bengaluru/Hyderabad/Pune
-Qualcomm,,,,Hyderabad/Bengaluru/Chennai,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://careers.qualcomm.com/careers; offices: Hyderabad/Bengaluru/Chennai
-Intel,,,,Bengaluru/Hyderabad,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://www.intel.com/content/www/us/en/jobs/locations/india.html; offices: Bengaluru/Hyderabad
-Samsung,,,,Bengaluru/Noida/Delhi,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://research.samsung.com/careers; offices: Bengaluru/Noida/Delhi
-ServiceNow,,,,Hyderabad/Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://careers.servicenow.com/careers/; offices: Hyderabad/Bengaluru
-Atlassian,,,,Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.atlassian.com/company/careers/all-jobs; offices: Bengaluru
-Uber,,,,Bengaluru/Hyderabad,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.aubergine.co/careers; offices: Bengaluru/Hyderabad
-PayPal,,,,Chennai/Bengaluru/Hyderabad,Fintech/product,Cream MNC (Fintech/product); applies via careers portal (no public email) - https://careers.pypl.com/home/; offices: Chennai/Bengaluru/Hyderabad
-Goldman Sachs,,,,Bengaluru/Hyderabad,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://www.goldmansachs.com/careers/students/; offices: Bengaluru/Hyderabad
-JPMorgan Chase,,,,Bengaluru/Hyderabad/Mumbai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://careers.jpmorgan.com/global/en/students; offices: Bengaluru/Hyderabad/Mumbai
-Morgan Stanley,,,,Bengaluru/Mumbai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://careers.jpmorgan.com/global/en/students; offices: Bengaluru/Mumbai
-Barclays,,,,Pune/Chennai/Noida,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://search.jobs.barclays/; offices: Pune/Chennai/Noida
-Deutsche Bank,,,,Pune/Bengaluru/Mumbai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://careers.db.com/professionals/search-roles/; offices: Pune/Bengaluru/Mumbai
-HSBC,,,,Hyderabad/Pune/Bengaluru,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://www.hsbc.com/careers; offices: Hyderabad/Pune/Bengaluru
-Wells Fargo,,,,Bengaluru/Hyderabad/Chennai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://www.wellsfargojobs.com/en/jobs/; offices: Bengaluru/Hyderabad/Chennai
-Bank of America,,,,Chennai/Hyderabad/Mumbai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://www.trustbank.sg/careers; offices: Chennai/Hyderabad/Mumbai
-American Express,,,,Gurugram/Bengaluru,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://www.americanexpress.com/en-us/careers/; offices: Gurugram/Bengaluru
-Mastercard,,,,Pune/Gurugram/Vadodara,Fintech/product,Cream MNC (Fintech/product); applies via careers portal (no public email) - https://careers.mastercard.com/us/en; offices: Pune/Gurugram/Vadodara
-Visa,,,,Bengaluru,Fintech/product,Cream MNC (Fintech/product); applies via careers portal (no public email) - https://corporate.visa.com/en/jobs.html; offices: Bengaluru
-Databricks,,,,Bengaluru,Data/AI product,Cream MNC (Data/AI product); applies via careers portal (no public email) - https://www.databricks.com/company/careers; offices: Bengaluru
-MongoDB,,,,Gurugram/Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.mongodb.com/careers; offices: Gurugram/Bengaluru
-Confluent,,,,Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://careers.confluent.io/; offices: Bengaluru
-Twilio,,,,Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.twilio.com/en-us/company/jobs; offices: Bengaluru
-Palo Alto Networks,,,,Bengaluru,Cybersecurity,Cream MNC (Cybersecurity); applies via careers portal (no public email) - https://jobs.paloaltonetworks.com; offices: Bengaluru
-Zscaler,,,,Bengaluru/Hyderabad/Mohali,Cybersecurity,Cream MNC (Cybersecurity); applies via careers portal (no public email) - https://www.zscaler.com/careers; offices: Bengaluru/Hyderabad/Mohali
-Cohesity,,,,Bengaluru/Pune,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.cohesity.com/company/careers/; offices: Bengaluru/Pune
-Nutanix,,,,Bengaluru/Pune,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.nutanix.com/careers; offices: Bengaluru/Pune
-Rubrik,,,,Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://www.rubrik.com/company/careers; offices: Bengaluru
-Honeywell,,,,Bengaluru/Hyderabad/Pune/Madurai,Engineering/tech,Cream MNC (Engineering/tech); applies via careers portal (no public email) - https://careers.honeywell.com/us/en/india-jobs; offices: Bengaluru/Hyderabad/Pune/Madurai
-Bloomberg,,,,Pune/Mumbai,Fintech/product,Cream MNC (Fintech/product); applies via careers portal (no public email) - https://careers.bloomberg.com/job/search; offices: Pune/Mumbai
-Thomson Reuters,,,,Bengaluru/Hyderabad,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://careers.thomsonreuters.com/us/en/search-results; offices: Bengaluru/Hyderabad
-Analog Devices,,,,Bengaluru/Hyderabad,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://analogdevices.wd1.myworkdayjobs.com/External; offices: Bengaluru/Hyderabad
-Western Digital,,,,Bengaluru,Semiconductor/storage,Cream MNC (Semiconductor/storage); applies via careers portal (no public email) - https://jobs.smartrecruiters.com/WesternDigital; offices: Bengaluru
-Applied Materials,,,,Bengaluru,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://careers.appliedmaterials.com/careers; offices: Bengaluru
-Marvell,,,,Pune/Bengaluru/Hyderabad,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://www.marvell.com/company/careers.html; offices: Pune/Bengaluru/Hyderabad
-NXP Semiconductors,,,,Noida/Bengaluru/Hyderabad,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://nxp.wd3.myworkdayjobs.com/careers; offices: Noida/Bengaluru/Hyderabad
-Micron Technology,,,,Hyderabad/Bengaluru,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://careers.micron.com/careers; offices: Hyderabad/Bengaluru
-Synopsys,,,,Bengaluru/Hyderabad/Noida,Semiconductor EDA,Cream MNC (Semiconductor EDA); applies via careers portal (no public email) - https://careers.synopsys.com/; offices: Bengaluru/Hyderabad/Noida
-Cadence,,,,Noida/Bengaluru/Pune,Semiconductor EDA,Cream MNC (Semiconductor EDA); applies via careers portal (no public email) - https://cadence.wd1.myworkdayjobs.com/External_Careers; offices: Noida/Bengaluru/Pune
-AMD,,,,Bengaluru/Hyderabad,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://careers.amd.com/careers-home; offices: Bengaluru/Hyderabad
-Texas Instruments,,,,Bengaluru,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://careers.ti.com/; offices: Bengaluru
-Citi,,,,Pune/Chennai/Bengaluru,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://jobs.citi.com/; offices: Pune/Chennai/Bengaluru
-Standard Chartered,,,,Bengaluru/Chennai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://jobs.standardchartered.com/; offices: Bengaluru/Chennai
-BNY,,,,Pune/Chennai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://www.bny.com/corporate/global/en/careers.html; offices: Pune/Chennai
-State Street,,,,Bengaluru/Hyderabad,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://careers.statestreet.com/global/en; offices: Bengaluru/Hyderabad
-Fidelity Investments,,,,Bengaluru/Chennai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://jobs.fidelity.com/; offices: Bengaluru/Chennai
-BlackRock,,,,Mumbai/Gurugram,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://careers.blackrock.com/; offices: Mumbai/Gurugram
-Societe Generale,,,,Bengaluru/Chennai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://careers.societegenerale.com/; offices: Bengaluru/Chennai
-UBS,,,,Pune/Mumbai/Hyderabad,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://www.subsets.com; offices: Pune/Mumbai/Hyderabad
-Nomura,,,,Mumbai/Powai,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://nomura.com/careers; offices: Mumbai/Powai
-Northern Trust,,,,Pune/Bengaluru,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://northerntrust.com/careers; offices: Pune/Bengaluru
-Genpact,,,,Hyderabad/Bengaluru/Gurugram,IT/BPM,Cream MNC (IT/BPM); applies via careers portal (no public email) - https://www.genpact.com/careers; offices: Hyderabad/Bengaluru/Gurugram
-WNS,,,,Mumbai/Pune/Bengaluru,IT/BPM,Cream MNC (IT/BPM); applies via careers portal (no public email) - https://www.wns.com/careers; offices: Mumbai/Pune/Bengaluru
-KPMG,,,,Bengaluru/Gurugram,Consulting/tech,Cream MNC (Consulting/tech); applies via careers portal (no public email) - https://kpmg.com/careers; offices: Bengaluru/Gurugram
-PwC,,,,Bengaluru/Kolkata/Hyderabad,Consulting/tech,Cream MNC (Consulting/tech); applies via careers portal (no public email) - https://pwc.com/careers; offices: Bengaluru/Kolkata/Hyderabad
-EY,,,,Bengaluru/Gurugram/Kochi,Consulting/tech,Cream MNC (Consulting/tech); applies via careers portal (no public email) - https://www.quadeye.com/careers; offices: Bengaluru/Gurugram/Kochi
-L&T Technology Services,,,,Vadodara/Bengaluru/Mysuru,Engineering/IT,Cream MNC (Engineering/IT); applies via careers portal (no public email) - https://www.ltts.com/careers; offices: Vadodara/Bengaluru/Mysuru
-KPIT Technologies,,,,Pune/Bengaluru,Automotive software,Cream MNC (Automotive software); applies via careers portal (no public email) - https://www.kpit.com/careers/; offices: Pune/Bengaluru
-Tata Elxsi,,,,Bengaluru/Thiruvananthapuram,Design/embedded,Cream MNC (Design/embedded); applies via careers portal (no public email) - https://www.tata.com/careers/jobs/joblisting; offices: Bengaluru/Thiruvananthapuram
-Sasken Technologies,,,,Bengaluru,Embedded/IT,Cream MNC (Embedded/IT); applies via careers portal (no public email) - https://www.sasken.com/careers; offices: Bengaluru
-Reliance Jio,,,,Navi Mumbai/Bengaluru/Hyderabad,Telecom/product,Cream MNC (Telecom/product); applies via careers portal (no public email) - https://jio.com/careers; offices: Navi Mumbai/Bengaluru/Hyderabad
-Flipkart,,,,Bengaluru,E-commerce product,Cream MNC (E-commerce product); applies via careers portal (no public email) - https://www.flipkartcareers.com/; offices: Bengaluru
-Swiggy,,,,Bengaluru,Food-tech product,Cream MNC (Food-tech product); applies via careers portal (no public email) - https://careers.swiggy.com/; offices: Bengaluru
-Razorpay,,,,Bengaluru,Fintech product,Cream MNC (Fintech product); applies via careers portal (no public email) - https://razorpay.com/jobs/; offices: Bengaluru
-PhonePe,,,,Bengaluru,Fintech product,Cream MNC (Fintech product); applies via careers portal (no public email) - https://www.phonepe.com/careers/; offices: Bengaluru
-Freshworks,,,,Chennai,SaaS product,Cream MNC (SaaS product); applies via careers portal (no public email) - https://www.freshworks.com/company/careers/; offices: Chennai
-Zoho,,,,Chennai,SaaS product,Cream MNC (SaaS product); applies via careers portal (no public email) - https://careers.zohocorp.com/jobs/Careers; offices: Chennai
-Postman,,,,Bengaluru,Dev-tools product,Cream MNC (Dev-tools product); applies via careers portal (no public email) - https://www.postman.com/company/careers/open-positions/; offices: Bengaluru
-BrowserStack,careers@browserstack.com,Talent Acquisition,Careers,Mumbai,Dev-tools product,VERIFIED careers inbox on browserstack.com; MX OK; offices: Mumbai
-Dell Technologies,,,,Bengaluru/Hyderabad,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://jobs.dell.com/; offices: Bengaluru/Hyderabad
-HPE,,,,Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://hpe.com/careers; offices: Bengaluru
-NetApp,,,,Bengaluru,Product/storage,Cream MNC (Product/storage); applies via careers portal (no public email) - https://netapp.com/careers; offices: Bengaluru
-Broadcom,,,,Bengaluru/Hyderabad,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://broadcom.com/careers; offices: Bengaluru/Hyderabad
-Ericsson,,,,Bengaluru/Chennai/Gurugram,Telecom/product,Cream MNC (Telecom/product); applies via careers portal (no public email) - https://www.ericsson.com/en/careers; offices: Bengaluru/Chennai/Gurugram
-Nokia,,,,Bengaluru/Chennai/Noida,Telecom/product,Cream MNC (Telecom/product); applies via careers portal (no public email) - https://www.nokia.com/about-us/careers/; offices: Bengaluru/Chennai/Noida
-Siemens,,,,Pune/Bengaluru/Gurugram,Engineering/software,Cream MNC (Engineering/software); applies via careers portal (no public email) - https://jobs.siemens.com/careers; offices: Pune/Bengaluru/Gurugram
-Bosch,,,,Bengaluru/Coimbatore/Hyderabad,Engineering/software,Cream MNC (Engineering/software); applies via careers portal (no public email) - https://www.bosch.in/careers/; offices: Bengaluru/Coimbatore/Hyderabad
-Continental,,,,Bengaluru/Pune,Automotive software,Cream MNC (Automotive software); applies via careers portal (no public email) - https://continental.com/careers; offices: Bengaluru/Pune
-Philips,,,,Bengaluru/Pune/Chennai,Healthtech/software,Cream MNC (Healthtech/software); applies via careers portal (no public email) - https://philips.com/careers; offices: Bengaluru/Pune/Chennai
-GE Aerospace,,,,Bengaluru,Engineering,Cream MNC (Engineering); applies via careers portal (no public email) - https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/; offices: Bengaluru
-Schneider Electric,,,,Bengaluru/Gurugram,Energy/software,Cream MNC (Energy/software); applies via careers portal (no public email) - https://se.com/careers; offices: Bengaluru/Gurugram
-Autodesk,,,,Pune/Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://autodesk.com/careers; offices: Pune/Bengaluru
-PTC,,,,Pune/Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://ptc.com/careers; offices: Pune/Bengaluru
-Ansys,,,,Pune/Bengaluru,Simulation software,Cream MNC (Simulation software); applies via careers portal (no public email) - https://ansys.com/careers; offices: Pune/Bengaluru
-Dassault Systemes,,,,Pune/Bengaluru,Simulation software,Cream MNC (Simulation software); applies via careers portal (no public email) - https://3ds.com/careers; offices: Pune/Bengaluru
-Informatica,,,,Bengaluru,Data product,Cream MNC (Data product); applies via careers portal (no public email) - https://informatica.com/careers; offices: Bengaluru
-Snowflake,,,,Pune/Bengaluru,Data/AI product,Cream MNC (Data/AI product); applies via careers portal (no public email) - https://careers.snowflake.com/us/en; offices: Pune/Bengaluru
-Workday,,,,Pune/Bengaluru,SaaS product,Cream MNC (SaaS product); applies via careers portal (no public email) - https://workday.com/careers; offices: Pune/Bengaluru
-Okta,,,,Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://okta.com/careers; offices: Bengaluru
-Zoom,,,,Bengaluru,Product/tech,Cream MNC (Product/tech); applies via careers portal (no public email) - https://zoom.com/careers; offices: Bengaluru
-GitLab,,,,Remote India,Dev-tools product,Cream MNC (Dev-tools product); applies via careers portal (no public email) - https://gitlab.com/careers; offices: Remote India
-Walmart Global Tech,,,,Bengaluru/Chennai,Retail-tech GCC,Cream MNC (Retail-tech GCC); applies via careers portal (no public email) - https://careers.walmart.com/technology; offices: Bengaluru/Chennai
-Target,,,,Bengaluru,Retail-tech GCC,Cream MNC (Retail-tech GCC); applies via careers portal (no public email) - https://corporate.target.com/careers; offices: Bengaluru
-Lowes India,,,,Bengaluru,Retail-tech GCC,Cream MNC (Retail-tech GCC); applies via careers portal (no public email) - https://lowes.com/careers; offices: Bengaluru
-Tesco Bengaluru,,,,Bengaluru,Retail-tech GCC,Cream MNC (Retail-tech GCC); applies via careers portal (no public email) - https://tesco.com/careers; offices: Bengaluru
-eBay,,,,Bengaluru,E-commerce product,Cream MNC (E-commerce product); applies via careers portal (no public email) - https://ebay.com/careers; offices: Bengaluru
-Expedia Group,,,,Gurugram/Bengaluru,Travel-tech,Cream MNC (Travel-tech); applies via careers portal (no public email) - https://careers.expediagroup.com/jobs/; offices: Gurugram/Bengaluru
-Booking.com,,,,Bengaluru,Travel-tech,Cream MNC (Travel-tech); applies via careers portal (no public email) - https://careers.booking.com/; offices: Bengaluru
-FIS,,,,Pune/Bengaluru/Gurugram,Fintech/BFSI,Cream MNC (Fintech/BFSI); applies via careers portal (no public email) - https://fissionlabs.com/careers; offices: Pune/Bengaluru/Gurugram
-Fiserv,,,,Pune/Noida/Bengaluru,Fintech/BFSI,Cream MNC (Fintech/BFSI); applies via careers portal (no public email) - https://fiserv.com/careers; offices: Pune/Noida/Bengaluru
-Macquarie,,,,Gurugram/Hyderabad,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://macquarie.com/careers; offices: Gurugram/Hyderabad
-NatWest,,,,Gurugram/Chennai/Bengaluru,BFSI tech,Cream MNC (BFSI tech); applies via careers portal (no public email) - https://natwest.com/careers; offices: Gurugram/Chennai/Bengaluru
-Swiss Re,,,,Bengaluru,Insurance tech,Cream MNC (Insurance tech); applies via careers portal (no public email) - https://swissre.com/careers; offices: Bengaluru
-Allianz,,,,Pune/Thiruvananthapuram,Insurance tech,Cream MNC (Insurance tech); applies via careers portal (no public email) - https://allianz.com/careers; offices: Pune/Thiruvananthapuram
-UST,careers@ust.com,Talent Acquisition,Careers,Thiruvananthapuram/Chennai/Bengaluru,IT services,VERIFIED careers inbox on ust.com; MX OK; offices: Thiruvananthapuram/Chennai/Bengaluru
-Brillio,,,,Bengaluru,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.brillio.com/careers/; offices: Bengaluru
-Tiger Analytics,careers@tigeranalytics.com,Talent Acquisition,Careers,Chennai/Bengaluru/Hyderabad,Analytics,VERIFIED careers inbox on tigeranalytics.com; MX OK; offices: Chennai/Bengaluru/Hyderabad
-Fractal Analytics,,,,Bengaluru/Mumbai/Gurugram,Analytics/AI,Cream MNC (Analytics/AI); applies via careers portal (no public email) - https://fractal.ai/careers/; offices: Bengaluru/Mumbai/Gurugram
-LatentView Analytics,,,,Chennai,Analytics,Cream MNC (Analytics); applies via careers portal (no public email) - https://latentview.com/careers; offices: Chennai
-Tredence,,,,Bengaluru,Analytics,Cream MNC (Analytics); applies via careers portal (no public email) - https://tredence.com/careers; offices: Bengaluru
-Mu Sigma,,,,Bengaluru,Analytics,Cream MNC (Analytics); applies via careers portal (no public email) - https://www.mu-sigma.com/careers; offices: Bengaluru
-Grid Dynamics,jobs@griddynamics.com,Talent Acquisition,Careers,Hyderabad/Chennai,IT services,VERIFIED careers inbox on griddynamics.com; MX OK; offices: Hyderabad/Chennai
-Incedo,careers@incedoinc.com,Talent Acquisition,Careers,Gurugram/Pune,IT services,VERIFIED careers inbox on incedoinc.com; MX OK; offices: Gurugram/Pune
-Iris Software,,,,Noida,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.hirist.tech/; offices: Noida
-Cybage,,,,Pune/Hyderabad/Gandhinagar,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.cybage.com/careers; offices: Pune/Hyderabad/Gandhinagar
-Tavant,,,,Bengaluru/Noida,IT services,Cream MNC (IT services); applies via careers portal (no public email) - https://www.tavant.com/careers; offices: Bengaluru/Noida
-eInfochips,,,,Ahmedabad/Bengaluru/Pune,Engineering/IT,Cream MNC (Engineering/IT); applies via careers portal (no public email) - https://www.einfochips.com/careers/; offices: Ahmedabad/Bengaluru/Pune
-ARM,,,,Bengaluru/Noida,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://pharmeasy.in/careers/; offices: Bengaluru/Noida
-Renesas,,,,Bengaluru/Noida,Semiconductor,Cream MNC (Semiconductor); applies via careers portal (no public email) - https://renesas.com/careers; offices: Bengaluru/Noida
+Company,Email,Person,Title,City,State,Category,Notes
+eInfochips,,,,Ahmedabad,Gujarat,Engineering/IT,Engineering/IT; applies via careers portal (no public email) - https://www.einfochips.com/careers/; offices: Ahmedabad/Bengaluru/Pune
+L&T Technology Services,,,,Vadodara,Gujarat,Engineering/IT,Engineering/IT; applies via careers portal (no public email) - https://www.ltts.com/careers; offices: Vadodara/Bengaluru/Mysuru
+American Express,,,,Gurugram,Haryana,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://www.americanexpress.com/en-us/careers/; offices: Gurugram/Bengaluru
+Aon,,,,Gurugram,Haryana,Insurance GCC,Insurance GCC; applies via careers portal (no public email) - https://aon.com/careers; offices: Gurugram/Bengaluru
+Boston Scientific,,,,Gurugram,Haryana,Medtech GCC,Medtech GCC; applies via careers portal (no public email) - https://bostonscientific.com/careers; offices: Gurugram/Pune
+Coca-Cola,,,,Gurugram,Haryana,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://coca-colacompany.com/careers; offices: Gurugram
+Expedia Group,,,,Gurugram,Haryana,Travel-tech,Travel-tech; applies via careers portal (no public email) - https://careers.expediagroup.com/jobs/; offices: Gurugram/Bengaluru
+Incedo,careers@incedoinc.com,Talent Acquisition,Careers,Gurugram,Haryana,IT services,VERIFIED careers inbox on incedoinc.com; MX OK; offices: Gurugram/Pune
+Macquarie,,,,Gurugram,Haryana,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://macquarie.com/careers; offices: Gurugram/Hyderabad
+MongoDB,,,,Gurugram,Haryana,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.mongodb.com/careers; offices: Gurugram/Bengaluru
+Nagarro,,,,Gurugram,Haryana,Digital engineering,Digital engineering; applies via careers portal (no public email) - https://www.nagarro.com/en/careers; offices: Gurugram/Bengaluru/Pune
+NatWest,,,,Gurugram,Haryana,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://natwest.com/careers; offices: Gurugram/Chennai/Bengaluru
+Nestle,,,,Gurugram,Haryana,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://nestle.com/careers; offices: Gurugram
+Stryker,,,,Gurugram,Haryana,Medtech GCC,Medtech GCC; applies via careers portal (no public email) - https://stryker.com/careers; offices: Gurugram
+Xebia,,,,Gurugram,Haryana,Software consultancy,Software consultancy; applies via careers portal (no public email) - https://xebia.com/careers/; offices: Gurugram/Bengaluru/Hyderabad
+3M,,,,Bengaluru,Karnataka,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://3m.com/careers; offices: Bengaluru
+ABB,,,,Bengaluru,Karnataka,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://tabby.ai/careers; offices: Bengaluru/Chennai
+Abbott,,,,Bengaluru,Karnataka,Healthcare GCC,Healthcare GCC; applies via careers portal (no public email) - https://abbott.com/careers; offices: Bengaluru/Mumbai
+Accenture,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://www.accenture.com/in-en/careers/life-at-accenture/entry-level; offices: Bengaluru/Hyderabad/Pune/Chennai
+AIG,,,,Bengaluru,Karnataka,Insurance GCC,Insurance GCC; applies via careers portal (no public email) - https://aig.com/careers; offices: Bengaluru
+Airbus,,,,Bengaluru,Karnataka,Aerospace GCC,Aerospace GCC; applies via careers portal (no public email) - https://airbus.com/careers; offices: Bengaluru
+Albertsons,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://albertsons.com/careers; offices: Bengaluru
+Amadeus,,,,Bengaluru,Karnataka,Travel-tech GCC,Travel-tech GCC; applies via careers portal (no public email) - https://amadeus.com/careers; offices: Bengaluru
+Amazon,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.amazon.jobs/en/search?base_query=intern&loc_query=India; offices: Bengaluru/Hyderabad/Chennai
+AMD,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://careers.amd.com/careers-home; offices: Bengaluru/Hyderabad
+Analog Devices,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://analogdevices.wd1.myworkdayjobs.com/External; offices: Bengaluru/Hyderabad
+ANZ,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://bhanzu.com/careers; offices: Bengaluru
+Applied Materials,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://careers.appliedmaterials.com/careers; offices: Bengaluru
+Aptiv,,,,Bengaluru,Karnataka,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://aptiv.com/careers; offices: Bengaluru
+ARM,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://pharmeasy.in/careers/; offices: Bengaluru/Noida
+AT&T,,,,Bengaluru,Karnataka,Telecom GCC,Telecom GCC; applies via careers portal (no public email) - https://att.com/careers; offices: Bengaluru/Hyderabad
+Atlassian,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.atlassian.com/company/careers/all-jobs; offices: Bengaluru
+Baker Hughes,,,,Bengaluru,Karnataka,Energy GCC,Energy GCC; applies via careers portal (no public email) - https://bakerhughes.com/careers; offices: Bengaluru/Mumbai
+Baxter,,,,Bengaluru,Karnataka,Medtech GCC,Medtech GCC; applies via careers portal (no public email) - https://baxter.com/careers; offices: Bengaluru
+Bayer,,,,Bengaluru,Karnataka,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://bayer.com/careers; offices: Bengaluru
+Best Buy,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://bestbuy.com/careers; offices: Bengaluru
+Biogen,,,,Bengaluru,Karnataka,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://biogen.com/careers; offices: Bengaluru
+BMO,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://webmobtech.com/careers/; offices: Bengaluru
+BMW TechWorks India,,,,Bengaluru,Karnataka,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://bmwtechworks.in/careers; offices: Bengaluru/Chennai/Pune
+Boeing India,,,,Bengaluru,Karnataka,Aerospace GCC,Aerospace GCC; applies via careers portal (no public email) - https://boeing.com/careers; offices: Bengaluru/Chennai
+Booking.com,,,,Bengaluru,Karnataka,Travel-tech,Travel-tech; applies via careers portal (no public email) - https://careers.booking.com/; offices: Bengaluru
+Bosch,,,,Bengaluru,Karnataka,Engineering/software,Engineering/software; applies via careers portal (no public email) - https://www.bosch.in/careers/; offices: Bengaluru/Coimbatore/Hyderabad
+Brillio,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://www.brillio.com/careers/; offices: Bengaluru
+Broadcom,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://broadcom.com/careers; offices: Bengaluru/Hyderabad
+Chevron,,,,Bengaluru,Karnataka,Energy GCC,Energy GCC; applies via careers portal (no public email) - https://chevron.com/careers; offices: Bengaluru
+Cigna,,,,Bengaluru,Karnataka,Healthcare GCC,Healthcare GCC; applies via careers portal (no public email) - https://cigna.com/careers; offices: Bengaluru/Hyderabad
+Cisco,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://jobs.cisco.com/jobs/SearchJobs; offices: Bengaluru/Pune
+Cloudera,,,,Bengaluru,Karnataka,Data GCC,Data GCC; applies via careers portal (no public email) - https://cloudera.com/careers; offices: Bengaluru
+Cohesity,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.cohesity.com/company/careers/; offices: Bengaluru/Pune
+Collins Aerospace,,,,Bengaluru,Karnataka,Aerospace GCC,Aerospace GCC; applies via careers portal (no public email) - https://collinsaerospace.com/careers; offices: Bengaluru/Hyderabad
+Commonwealth Bank,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://commbank.com.au/careers; offices: Bengaluru
+Commvault,,,,Bengaluru,Karnataka,Tech GCC,Tech GCC; applies via careers portal (no public email) - https://commvault.com/careers; offices: Bengaluru/Hyderabad
+Confluent,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://careers.confluent.io/; offices: Bengaluru
+Continental,,,,Bengaluru,Karnataka,Automotive software,Automotive software; applies via careers portal (no public email) - https://continental.com/careers; offices: Bengaluru/Pune
+CVS Health,,,,Bengaluru,Karnataka,Healthcare GCC,Healthcare GCC; applies via careers portal (no public email) - https://cvshealth.com/careers; offices: Bengaluru/Hyderabad
+Danaher,,,,Bengaluru,Karnataka,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://danaher.com/careers; offices: Bengaluru
+Databricks,,,,Bengaluru,Karnataka,Data/AI product,Data/AI product; applies via careers portal (no public email) - https://www.databricks.com/company/careers; offices: Bengaluru
+Decathlon,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://decathlon.in/careers; offices: Bengaluru
+Dell Technologies,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://jobs.dell.com/; offices: Bengaluru/Hyderabad
+Diageo,,,,Bengaluru,Karnataka,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://diageo.com/careers; offices: Bengaluru
+Discover,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://discover.com/careers; offices: Bengaluru
+Disney (Star India),,,,Bengaluru,Karnataka,Media/tech GCC,Media/tech GCC; applies via careers portal (no public email) - https://disney.com/careers; offices: Bengaluru/Mumbai
+DXC Technology,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://careers.dxc.com/; offices: Bengaluru/Chennai/Hyderabad
+eBay,,,,Bengaluru,Karnataka,E-commerce product,E-commerce product; applies via careers portal (no public email) - https://ebay.com/careers; offices: Bengaluru
+Elevance Health,,,,Bengaluru,Karnataka,Healthcare GCC,Healthcare GCC; applies via careers portal (no public email) - https://elevancehealth.com/careers; offices: Bengaluru/Gurugram
+Eli Lilly,,,,Bengaluru,Karnataka,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://www.intelivita.com/careers/; offices: Bengaluru
+Ericsson,,,,Bengaluru,Karnataka,Telecom/product,Telecom/product; applies via careers portal (no public email) - https://www.ericsson.com/en/careers; offices: Bengaluru/Chennai/Gurugram
+ExxonMobil,,,,Bengaluru,Karnataka,Energy GCC,Energy GCC; applies via careers portal (no public email) - https://exxonmobil.com/careers; offices: Bengaluru
+EY,,,,Bengaluru,Karnataka,Consulting/tech,Consulting/tech; applies via careers portal (no public email) - https://www.quadeye.com/careers; offices: Bengaluru/Gurugram/Kochi
+Fidelity Investments,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://jobs.fidelity.com/; offices: Bengaluru/Chennai
+Flipkart,,,,Bengaluru,Karnataka,E-commerce product,E-commerce product; applies via careers portal (no public email) - https://www.flipkartcareers.com/; offices: Bengaluru
+Fortinet,,,,Bengaluru,Karnataka,Cybersecurity GCC,Cybersecurity GCC; applies via careers portal (no public email) - https://fortinet.com/careers; offices: Bengaluru
+Fractal Analytics,,,,Bengaluru,Karnataka,Analytics/AI,Analytics/AI; applies via careers portal (no public email) - https://fractal.ai/careers/; offices: Bengaluru/Mumbai/Gurugram
+GE Aerospace,,,,Bengaluru,Karnataka,Engineering,Engineering; applies via careers portal (no public email) - https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/; offices: Bengaluru
+GE HealthCare,,,,Bengaluru,Karnataka,Medtech GCC,Medtech GCC; applies via careers portal (no public email) - https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/; offices: Bengaluru
+GlobalLogic,careers@globallogic.com,Talent Acquisition,Careers,Bengaluru,Karnataka,Digital engineering,VERIFIED careers inbox on globallogic.com; MX OK; offices: Bengaluru/Hyderabad/Pune/Nagpur
+GM,,,,Bengaluru,Karnataka,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://www.mu-sigma.com/careers; offices: Bengaluru
+Goldman Sachs,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://www.goldmansachs.com/careers/students/; offices: Bengaluru/Hyderabad
+Google,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.google.com/about/careers/applications/jobs/results/?location=India&employment_type=INTERN; offices: Bengaluru/Hyderabad/Gurugram
+GSK,,,,Bengaluru,Karnataka,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://gsk.com/careers; offices: Bengaluru
+Guidewire,,,,Bengaluru,Karnataka,Insurtech GCC,Insurtech GCC; applies via careers portal (no public email) - https://guidewire.com/careers; offices: Bengaluru
+H&M,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://hm.com/careers; offices: Bengaluru
+Happiest Minds,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://www.happiestminds.com/careers/; offices: Bengaluru/Pune/Noida
+Harman,,,,Bengaluru,Karnataka,Automotive/audio GCC,Automotive/audio GCC; applies via careers portal (no public email) - https://harman.com/careers; offices: Bengaluru/Pune
+Honeywell,,,,Bengaluru,Karnataka,Engineering/tech,Engineering/tech; applies via careers portal (no public email) - https://careers.honeywell.com/us/en/india-jobs; offices: Bengaluru/Hyderabad/Pune/Madurai
+HPE,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://hpe.com/careers; offices: Bengaluru
+IBM,,,,Bengaluru,Karnataka,Product/IT,Product/IT; applies via careers portal (no public email) - https://www.ibm.com/in-en/careers/career-opportunities; offices: Bengaluru/Hyderabad/Pune/Kochi
+ICON plc,,,,Bengaluru,Karnataka,Clinical-research GCC,Clinical-research GCC; applies via careers portal (no public email) - https://www.tessolve.com/careers/; offices: Bengaluru/Chennai
+IKEA,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://ikea.com/careers; offices: Bengaluru
+Informatica,,,,Bengaluru,Karnataka,Data product,Data product; applies via careers portal (no public email) - https://informatica.com/careers; offices: Bengaluru
+Infosys,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://www.infosys.com/careers/graduates.html; offices: Bengaluru/Pune/Hyderabad/Mysuru
+ING,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://www.smartsensesolutions.com/career; offices: Bengaluru/Chennai
+Intel,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://www.intel.com/content/www/us/en/jobs/locations/india.html; offices: Bengaluru/Hyderabad
+IQVIA,,,,Bengaluru,Karnataka,Healthcare/pharma GCC,Healthcare/pharma GCC; applies via careers portal (no public email) - https://iqvia.com/careers; offices: Bengaluru/Kochi/Thane
+JPMorgan Chase,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://careers.jpmorgan.com/global/en/students; offices: Bengaluru/Hyderabad/Mumbai
+Juniper Networks,,,,Bengaluru,Karnataka,Tech GCC,Tech GCC; applies via careers portal (no public email) - https://careers.juniper.net/; offices: Bengaluru
+Kimberly-Clark,,,,Bengaluru,Karnataka,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://kimberly-clark.com/careers; offices: Bengaluru/Pune
+KPMG,,,,Bengaluru,Karnataka,Consulting/tech,Consulting/tech; applies via careers portal (no public email) - https://kpmg.com/careers; offices: Bengaluru/Gurugram
+Kroger,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://thekrogerco.com/careers; offices: Bengaluru
+Labcorp,,,,Bengaluru,Karnataka,Life-sciences GCC,Life-sciences GCC; applies via careers portal (no public email) - https://labcorp.com/careers; offices: Bengaluru
+Lowes India,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://lowes.com/careers; offices: Bengaluru
+Magna,,,,Bengaluru,Karnataka,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://magna.com/careers; offices: Bengaluru/Pune
+McKesson,,,,Bengaluru,Karnataka,Healthcare GCC,Healthcare GCC; applies via careers portal (no public email) - https://mckesson.com/careers; offices: Bengaluru
+Mercedes-Benz R&D India,,,,Bengaluru,Karnataka,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://mercedes-benz.com/careers; offices: Bengaluru
+Merck,,,,Bengaluru,Karnataka,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://merck.com/careers; offices: Bengaluru
+Morgan Stanley,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://careers.jpmorgan.com/global/en/students; offices: Bengaluru/Mumbai
+Mphasis,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://careers.mphasis.com/home/hot-jobs/location-search/india.html; offices: Bengaluru/Pune/Chennai
+Mu Sigma,,,,Bengaluru,Karnataka,Analytics,Analytics; applies via careers portal (no public email) - https://www.mu-sigma.com/careers; offices: Bengaluru
+NetApp,,,,Bengaluru,Karnataka,Product/storage,Product/storage; applies via careers portal (no public email) - https://netapp.com/careers; offices: Bengaluru
+Nike,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://nike.com/careers; offices: Bengaluru
+Nokia,,,,Bengaluru,Karnataka,Telecom/product,Telecom/product; applies via careers portal (no public email) - https://www.nokia.com/about-us/careers/; offices: Bengaluru/Chennai/Noida
+Nutanix,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.nutanix.com/careers; offices: Bengaluru/Pune
+Nvidia,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite; offices: Bengaluru/Hyderabad/Pune
+Okta,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://okta.com/careers; offices: Bengaluru
+OpenText,,,,Bengaluru,Karnataka,Tech GCC,Tech GCC; applies via careers portal (no public email) - https://opentext.com/careers; offices: Bengaluru/Hyderabad
+Oracle,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://careers.oracle.com/; offices: Bengaluru/Hyderabad
+Palo Alto Networks,,,,Bengaluru,Karnataka,Cybersecurity,Cybersecurity; applies via careers portal (no public email) - https://jobs.paloaltonetworks.com; offices: Bengaluru
+Parker Hannifin,,,,Bengaluru,Karnataka,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://parker.com/careers; offices: Bengaluru
+Philips,,,,Bengaluru,Karnataka,Healthtech/software,Healthtech/software; applies via careers portal (no public email) - https://philips.com/careers; offices: Bengaluru/Pune/Chennai
+PhonePe,,,,Bengaluru,Karnataka,Fintech product,Fintech product; applies via careers portal (no public email) - https://www.phonepe.com/careers/; offices: Bengaluru
+Postman,,,,Bengaluru,Karnataka,Dev-tools product,Dev-tools product; applies via careers portal (no public email) - https://www.postman.com/company/careers/open-positions/; offices: Bengaluru
+Prudential Financial,,,,Bengaluru,Karnataka,Insurance GCC,Insurance GCC; applies via careers portal (no public email) - https://prudential.com/careers; offices: Bengaluru
+Publicis Sapient,hiring@publicissapient.com,Talent Acquisition,Careers,Bengaluru,Karnataka,Digital consulting,VERIFIED careers inbox on publicissapient.com; MX OK; offices: Bengaluru/Gurugram/Noida
+Pure Storage,,,,Bengaluru,Karnataka,Tech GCC,Tech GCC; applies via careers portal (no public email) - https://pureharvest.ag/careers/; offices: Bengaluru
+PwC,,,,Bengaluru,Karnataka,Consulting/tech,Consulting/tech; applies via careers portal (no public email) - https://pwc.com/careers; offices: Bengaluru/Kolkata/Hyderabad
+Razorpay,,,,Bengaluru,Karnataka,Fintech product,Fintech product; applies via careers portal (no public email) - https://razorpay.com/jobs/; offices: Bengaluru
+RBC,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://rbc.com/careers; offices: Bengaluru
+Renesas,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://renesas.com/careers; offices: Bengaluru/Noida
+Rolls-Royce,,,,Bengaluru,Karnataka,Aerospace GCC,Aerospace GCC; applies via careers portal (no public email) - https://rolls-royce.com/careers; offices: Bengaluru
+Rubrik,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.rubrik.com/company/careers; offices: Bengaluru
+Sabre,,,,Bengaluru,Karnataka,Travel-tech GCC,Travel-tech GCC; applies via careers portal (no public email) - https://sabre.com/careers; offices: Bengaluru
+Samsung,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://research.samsung.com/careers; offices: Bengaluru/Noida/Delhi
+Santander,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://santander.com/careers; offices: Bengaluru
+SAP,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://careers.publicissapient.com/; offices: Bengaluru/Pune/Gurugram
+Sasken Technologies,,,,Bengaluru,Karnataka,Embedded/IT,Embedded/IT; applies via careers portal (no public email) - https://www.sasken.com/careers; offices: Bengaluru
+Schneider Electric,,,,Bengaluru,Karnataka,Energy/software,Energy/software; applies via careers portal (no public email) - https://se.com/careers; offices: Bengaluru/Gurugram
+Scotiabank,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://scotiabank.com/careers; offices: Bengaluru
+Shell,,,,Bengaluru,Karnataka,Energy GCC,Energy GCC; applies via careers portal (no public email) - https://shell.com/careers; offices: Bengaluru/Chennai
+Siemens Healthineers,,,,Bengaluru,Karnataka,Medtech GCC,Medtech GCC; applies via careers portal (no public email) - https://jobs.siemens.com/careers; offices: Bengaluru
+Societe Generale,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://careers.societegenerale.com/; offices: Bengaluru/Chennai
+Sonata Software,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://www.sonata-software.com/careers; offices: Bengaluru/Hyderabad
+Standard Chartered,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://jobs.standardchartered.com/; offices: Bengaluru/Chennai
+State Street,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://careers.statestreet.com/global/en; offices: Bengaluru/Hyderabad
+Swiggy,,,,Bengaluru,Karnataka,Food-tech product,Food-tech product; applies via careers portal (no public email) - https://careers.swiggy.com/; offices: Bengaluru
+Swiss Re,,,,Bengaluru,Karnataka,Insurance tech,Insurance tech; applies via careers portal (no public email) - https://swissre.com/careers; offices: Bengaluru
+Synopsys,,,,Bengaluru,Karnataka,Semiconductor EDA,Semiconductor EDA; applies via careers portal (no public email) - https://careers.synopsys.com/; offices: Bengaluru/Hyderabad/Noida
+T-Mobile,,,,Bengaluru,Karnataka,Telecom GCC,Telecom GCC; applies via careers portal (no public email) - https://t-mobile.com/careers; offices: Bengaluru
+T. Rowe Price,,,,Bengaluru,Karnataka,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://www.cult.fit/careers; offices: Bengaluru
+Takeda,,,,Bengaluru,Karnataka,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://takeda.com/careers; offices: Bengaluru
+Target,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://corporate.target.com/careers; offices: Bengaluru
+Tata Elxsi,,,,Bengaluru,Karnataka,Design/embedded,Design/embedded; applies via careers portal (no public email) - https://www.tata.com/careers/jobs/joblisting; offices: Bengaluru/Thiruvananthapuram
+Tavant,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://www.tavant.com/careers; offices: Bengaluru/Noida
+Teradata,,,,Bengaluru,Karnataka,Data GCC,Data GCC; applies via careers portal (no public email) - https://teradata.com/careers; offices: Bengaluru/Pune
+Tesco Bengaluru,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://tesco.com/careers; offices: Bengaluru
+Texas Instruments,,,,Bengaluru,Karnataka,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://careers.ti.com/; offices: Bengaluru
+Thermo Fisher Scientific,,,,Bengaluru,Karnataka,Life-sciences GCC,Life-sciences GCC; applies via careers portal (no public email) - https://thermofisher.com/careers; offices: Bengaluru/Hyderabad
+Thomson Reuters,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://careers.thomsonreuters.com/us/en/search-results; offices: Bengaluru/Hyderabad
+Tredence,,,,Bengaluru,Karnataka,Analytics,Analytics; applies via careers portal (no public email) - https://tredence.com/careers; offices: Bengaluru
+Twilio,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.twilio.com/en-us/company/jobs; offices: Bengaluru
+Uber,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.aubergine.co/careers; offices: Bengaluru/Hyderabad
+Unilever,,,,Bengaluru,Karnataka,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://unilever.com/careers; offices: Bengaluru/Mumbai
+Visa,,,,Bengaluru,Karnataka,Fintech/product,Fintech/product; applies via careers portal (no public email) - https://corporate.visa.com/en/jobs.html; offices: Bengaluru
+VMware,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://vmware.com/careers; offices: Bengaluru/Pune
+Volvo Group,,,,Bengaluru,Karnataka,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://volvogroup.com/careers; offices: Bengaluru
+Walmart Global Tech,,,,Bengaluru,Karnataka,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://careers.walmart.com/technology; offices: Bengaluru/Chennai
+Wells Fargo,,,,Bengaluru,Karnataka,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://www.wellsfargojobs.com/en/jobs/; offices: Bengaluru/Hyderabad/Chennai
+Western Digital,,,,Bengaluru,Karnataka,Semiconductor/storage,Semiconductor/storage; applies via careers portal (no public email) - https://jobs.smartrecruiters.com/WesternDigital; offices: Bengaluru
+Wipro,,,,Bengaluru,Karnataka,IT services,IT services; applies via careers portal (no public email) - https://careers.wipro.com/careers-home/jobs; offices: Bengaluru/Hyderabad/Pune/Chennai
+Zoom,,,,Bengaluru,Karnataka,Product/tech,Product/tech; applies via careers portal (no public email) - https://zoom.com/careers; offices: Bengaluru
+Zscaler,,,,Bengaluru,Karnataka,Cybersecurity,Cybersecurity; applies via careers portal (no public email) - https://www.zscaler.com/careers; offices: Bengaluru/Hyderabad/Mohali
+UST,careers@ust.com,Talent Acquisition,Careers,Thiruvananthapuram,Kerala,IT services,VERIFIED careers inbox on ust.com; MX OK; offices: Thiruvananthapuram/Chennai/Bengaluru
+BlackRock,,,,Mumbai,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://careers.blackrock.com/; offices: Mumbai/Gurugram
+BNP Paribas,,,,Mumbai,Maharashtra,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://bnpparibas.com/careers; offices: Mumbai/Chennai
+BrowserStack,careers@browserstack.com,Talent Acquisition,Careers,Mumbai,Maharashtra,Dev-tools product,VERIFIED careers inbox on browserstack.com; MX OK; offices: Mumbai
+Colgate-Palmolive,,,,Mumbai,Maharashtra,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://colgatepalmolive.com/careers; offices: Mumbai
+L'Oreal,,,,Mumbai,Maharashtra,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://loreal.com/careers; offices: Mumbai/Bengaluru
+LTIMindtree,,,,Mumbai,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://careers.ltimindtree.com/; offices: Mumbai/Bengaluru/Pune/Chennai
+Marsh McLennan,,,,Mumbai,Maharashtra,Insurance GCC,Insurance GCC; applies via careers portal (no public email) - https://marshmclennan.com/careers; offices: Mumbai/Gurugram/Pune
+Mastek,,,,Mumbai,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://www.mastek.com/careers/; offices: Mumbai/Pune/Chennai/Noida
+Mondelez,,,,Mumbai,Maharashtra,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://mondelezinternational.com/careers; offices: Mumbai/Chennai
+Nomura,,,,Mumbai,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://nomura.com/careers; offices: Mumbai/Powai
+Spotify,,,,Mumbai,Maharashtra,Media/tech GCC,Media/tech GCC; applies via careers portal (no public email) - https://spotify.com/careers; offices: Mumbai/Gurugram
+Tata Consultancy Services,,,,Mumbai,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://www.tata.com/careers/jobs/joblisting; offices: Mumbai/Chennai/Bengaluru/Pune
+WNS,,,,Mumbai,Maharashtra,IT/BPM,IT/BPM; applies via careers portal (no public email) - https://www.wns.com/careers; offices: Mumbai/Pune/Bengaluru
+WTW,,,,Mumbai,Maharashtra,Insurance GCC,Insurance GCC; applies via careers portal (no public email) - https://wtwco.com/careers; offices: Mumbai/Thane/Gurugram
+Reliance Jio,,,,Navi Mumbai,Maharashtra,Telecom/product,Telecom/product; applies via careers portal (no public email) - https://jio.com/careers; offices: Navi Mumbai/Bengaluru/Hyderabad
+Allianz,,,,Pune,Maharashtra,Insurance tech,Insurance tech; applies via careers portal (no public email) - https://allianz.com/careers; offices: Pune/Thiruvananthapuram
+Ansys,,,,Pune,Maharashtra,Simulation software,Simulation software; applies via careers portal (no public email) - https://ansys.com/careers; offices: Pune/Bengaluru
+Autodesk,,,,Pune,Maharashtra,Product/tech,Product/tech; applies via careers portal (no public email) - https://autodesk.com/careers; offices: Pune/Bengaluru
+Barclays,,,,Pune,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://search.jobs.barclays/; offices: Pune/Chennai/Noida
+Bloomberg,,,,Pune,Maharashtra,Fintech/product,Fintech/product; applies via careers portal (no public email) - https://careers.bloomberg.com/job/search; offices: Pune/Mumbai
+BNY,,,,Pune,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://www.bny.com/corporate/global/en/careers.html; offices: Pune/Chennai
+bp,,,,Pune,Maharashtra,Energy GCC,Energy GCC; applies via careers portal (no public email) - https://bp.com/careers; offices: Pune
+Capgemini,,,,Pune,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/; offices: Pune/Bengaluru/Mumbai/Chennai
+Citi,,,,Pune,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://jobs.citi.com/; offices: Pune/Chennai/Bengaluru
+Cummins,,,,Pune,Maharashtra,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://cummins.com/careers; offices: Pune
+Cybage,,,,Pune,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://www.cybage.com/careers; offices: Pune/Hyderabad/Gandhinagar
+Dassault Systemes,,,,Pune,Maharashtra,Simulation software,Simulation software; applies via careers portal (no public email) - https://3ds.com/careers; offices: Pune/Bengaluru
+Deutsche Bank,,,,Pune,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://careers.db.com/professionals/search-roles/; offices: Pune/Bengaluru/Mumbai
+Eaton,,,,Pune,Maharashtra,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://eaton.com/careers; offices: Pune
+Emerson,,,,Pune,Maharashtra,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://www.emerson.com/en-us/careers; offices: Pune/Chennai/Mumbai
+Endava,,,,Pune,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://www.endava.com/careers; offices: Pune/Bengaluru
+FIS,,,,Pune,Maharashtra,Fintech/BFSI,Fintech/BFSI; applies via careers portal (no public email) - https://fissionlabs.com/careers; offices: Pune/Bengaluru/Gurugram
+Fiserv,,,,Pune,Maharashtra,Fintech/BFSI,Fintech/BFSI; applies via careers portal (no public email) - https://fiserv.com/careers; offices: Pune/Noida/Bengaluru
+Globant,,,,Pune,Maharashtra,Digital engineering,Digital engineering; applies via careers portal (no public email) - https://www.globant.com/careers; offices: Pune/Bengaluru/Hyderabad
+John Deere,,,,Pune,Maharashtra,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://deere.com/careers; offices: Pune
+Johnson Controls,,,,Pune,Maharashtra,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://johnsoncontrols.com/careers; offices: Pune/Mumbai
+KPIT Technologies,,,,Pune,Maharashtra,Automotive software,Automotive software; applies via careers portal (no public email) - https://www.kpit.com/careers/; offices: Pune/Bengaluru
+Marvell,,,,Pune,Maharashtra,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://www.marvell.com/company/careers.html; offices: Pune/Bengaluru/Hyderabad
+Mastercard,,,,Pune,Maharashtra,Fintech/product,Fintech/product; applies via careers portal (no public email) - https://careers.mastercard.com/us/en; offices: Pune/Gurugram/Vadodara
+NICE,,,,Pune,Maharashtra,Tech GCC,Tech GCC; applies via careers portal (no public email) - https://www.nice.com/careers; offices: Pune
+Northern Trust,,,,Pune,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://northerntrust.com/careers; offices: Pune/Bengaluru
+Persistent Systems,,,,Pune,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://careers.persistent.com/; offices: Pune/Bengaluru/Hyderabad/Nagpur
+Principal Financial,,,,Pune,Maharashtra,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://principal.com/careers; offices: Pune
+PTC,,,,Pune,Maharashtra,Product/tech,Product/tech; applies via careers portal (no public email) - https://ptc.com/careers; offices: Pune/Bengaluru
+Roche,,,,Pune,Maharashtra,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://roche.com/careers; offices: Pune/Chennai
+Rockwell Automation,,,,Pune,Maharashtra,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://rockwellautomation.com/careers; offices: Pune/Bengaluru
+Siemens,,,,Pune,Maharashtra,Engineering/software,Engineering/software; applies via careers portal (no public email) - https://jobs.siemens.com/careers; offices: Pune/Bengaluru/Gurugram
+SLB,,,,Pune,Maharashtra,Energy GCC,Energy GCC; applies via careers portal (no public email) - https://slb.com/careers; offices: Pune/Bengaluru
+Snowflake,,,,Pune,Maharashtra,Data/AI product,Data/AI product; applies via careers portal (no public email) - https://careers.snowflake.com/us/en; offices: Pune/Bengaluru
+Tech Mahindra,,,,Pune,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://www.silvertouch.com/career/; offices: Pune/Bengaluru/Hyderabad/Noida
+Thoughtworks,,,,Pune,Maharashtra,Software consultancy,Software consultancy; applies via careers portal (no public email) - https://www.thoughtworks.com/careers/jobs; offices: Pune/Bengaluru/Hyderabad/Gurugram
+TotalEnergies,,,,Pune,Maharashtra,Energy GCC,Energy GCC; applies via careers portal (no public email) - https://totalenergies.com/careers; offices: Pune
+UBS,,,,Pune,Maharashtra,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://www.subsets.com; offices: Pune/Mumbai/Hyderabad
+Vodafone (_VOIS),,,,Pune,Maharashtra,Telecom GCC,Telecom GCC; applies via careers portal (no public email) - https://vodafone.com/careers; offices: Pune/Bengaluru
+Williams-Sonoma,,,,Pune,Maharashtra,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://williams-sonomainc.com/careers; offices: Pune
+Workday,,,,Pune,Maharashtra,SaaS product,SaaS product; applies via careers portal (no public email) - https://workday.com/careers; offices: Pune/Bengaluru
+Zensar,,,,Pune,Maharashtra,IT services,IT services; applies via careers portal (no public email) - https://www.zensar.com/careers; offices: Pune/Hyderabad/Bengaluru
+GitLab,,,,Remote India,Remote,Dev-tools product,Dev-tools product; applies via careers portal (no public email) - https://gitlab.com/careers; offices: Remote India
+AstraZeneca,,,,Chennai,Tamil Nadu,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://astrazeneca.com/careers; offices: Chennai/Bengaluru
+Bank of America,,,,Chennai,Tamil Nadu,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://www.trustbank.sg/careers; offices: Chennai/Hyderabad/Mumbai
+BorgWarner,,,,Chennai,Tamil Nadu,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://borgwarner.com/careers; offices: Chennai
+Caterpillar,,,,Chennai,Tamil Nadu,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://caterpillar.com/careers; offices: Chennai/Bengaluru
+Cognizant,,,,Chennai,Tamil Nadu,IT services,IT services; applies via careers portal (no public email) - https://careers.cognizant.com/global-en/jobs/; offices: Chennai/Hyderabad/Pune/Bengaluru
+Comcast,,,,Chennai,Tamil Nadu,Media/tech GCC,Media/tech GCC; applies via careers portal (no public email) - https://comcast.com/careers; offices: Chennai
+Ford,,,,Chennai,Tamil Nadu,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://ford.com/careers; offices: Chennai
+Freshworks,,,,Chennai,Tamil Nadu,SaaS product,SaaS product; applies via careers portal (no public email) - https://www.freshworks.com/company/careers/; offices: Chennai
+Genesys,,,,Chennai,Tamil Nadu,Tech GCC,Tech GCC; applies via careers portal (no public email) - https://genesys.com/careers; offices: Chennai/Hyderabad
+Hexaware,,,,Chennai,Tamil Nadu,IT services,IT services; applies via careers portal (no public email) - https://hexaware.com/careers/; offices: Chennai/Mumbai/Pune/Bengaluru
+LatentView Analytics,,,,Chennai,Tamil Nadu,Analytics,Analytics; applies via careers portal (no public email) - https://latentview.com/careers; offices: Chennai
+PayPal,,,,Chennai,Tamil Nadu,Fintech/product,Fintech/product; applies via careers portal (no public email) - https://careers.pypl.com/home/; offices: Chennai/Bengaluru/Hyderabad
+Pfizer,,,,Chennai,Tamil Nadu,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://pfizer.com/careers; offices: Chennai/Mumbai
+Tiger Analytics,careers@tigeranalytics.com,Talent Acquisition,Careers,Chennai,Tamil Nadu,Analytics,VERIFIED careers inbox on tigeranalytics.com; MX OK; offices: Chennai/Bengaluru/Hyderabad
+Toyota Connected,,,,Chennai,Tamil Nadu,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://toyotaconnected.com/careers; offices: Chennai
+Verizon,,,,Chennai,Tamil Nadu,Telecom GCC,Telecom GCC; applies via careers portal (no public email) - https://verizon.com/careers; offices: Chennai/Hyderabad/Bengaluru
+Zoho,,,,Chennai,Tamil Nadu,SaaS product,SaaS product; applies via careers portal (no public email) - https://careers.zohocorp.com/jobs/Careers; offices: Chennai
+Amgen,,,,Hyderabad,Telangana,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://amgen.com/careers; offices: Hyderabad
+Bristol Myers Squibb,,,,Hyderabad,Telangana,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://bms.com/careers; offices: Hyderabad
+Carrier,,,,Hyderabad,Telangana,Industrial GCC,Industrial GCC; applies via careers portal (no public email) - https://carrier.com/careers; offices: Hyderabad/Gurugram
+Charles Schwab,,,,Hyderabad,Telangana,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://schwab.com/careers; offices: Hyderabad
+Chubb,,,,Hyderabad,Telangana,Insurance GCC,Insurance GCC; applies via careers portal (no public email) - https://chubb.com/careers; offices: Hyderabad/Bengaluru
+Cyient,,,,Hyderabad,Telangana,Engineering/IT,Engineering/IT; applies via careers portal (no public email) - https://www.cyient.com/careers; offices: Hyderabad/Bengaluru/Pune
+Deloitte,,,,Hyderabad,Telangana,Consulting/IT,Consulting/IT; applies via careers portal (no public email) - https://www2.deloitte.com/in/en/careers.html; offices: Hyderabad/Bengaluru/Pune/Gurugram
+Electronic Arts,,,,Hyderabad,Telangana,Gaming GCC,Gaming GCC; applies via careers portal (no public email) - https://ea.com/careers; offices: Hyderabad
+EPAM Systems,,,,Hyderabad,Telangana,IT services,IT services; applies via careers portal (no public email) - https://www.epam.com/careers/job-listings; offices: Hyderabad/Pune/Bengaluru/Gurugram
+Franklin Templeton,,,,Hyderabad,Telangana,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://franklintempleton.com/careers; offices: Hyderabad/Chennai
+Gap,,,,Hyderabad,Telangana,Retail-tech GCC,Retail-tech GCC; applies via careers portal (no public email) - https://aisingapore.org/careers/; offices: Hyderabad/Bengaluru
+Genpact,,,,Hyderabad,Telangana,IT/BPM,IT/BPM; applies via careers portal (no public email) - https://www.genpact.com/careers; offices: Hyderabad/Bengaluru/Gurugram
+Grid Dynamics,jobs@griddynamics.com,Talent Acquisition,Careers,Hyderabad,Telangana,IT services,VERIFIED careers inbox on griddynamics.com; MX OK; offices: Hyderabad/Chennai
+HSBC,,,,Hyderabad,Telangana,BFSI tech,BFSI tech; applies via careers portal (no public email) - https://www.hsbc.com/careers; offices: Hyderabad/Pune/Bengaluru
+Invesco,,,,Hyderabad,Telangana,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://invesco.com/careers; offices: Hyderabad
+Lloyds Banking Group,,,,Hyderabad,Telangana,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://lloydsbankinggroup.com/careers; offices: Hyderabad
+McDonald's,,,,Hyderabad,Telangana,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://mcdonalds.com/careers; offices: Hyderabad
+Medtronic,,,,Hyderabad,Telangana,Medtech GCC,Medtech GCC; applies via careers portal (no public email) - https://medtronic.com/careers; offices: Hyderabad/Bengaluru
+Micron Technology,,,,Hyderabad,Telangana,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://careers.micron.com/careers; offices: Hyderabad/Bengaluru
+Microsoft,,,,Hyderabad,Telangana,Product/tech,Product/tech; applies via careers portal (no public email) - https://careers.microsoft.com/students/us/en/search-results; offices: Hyderabad/Bengaluru/Noida
+Novartis,,,,Hyderabad,Telangana,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://novartis.com/careers; offices: Hyderabad
+Optum,,,,Hyderabad,Telangana,Healthcare GCC,Healthcare GCC; applies via careers portal (no public email) - https://careers.unitedhealthgroup.com/; offices: Hyderabad/Bengaluru/Gurugram/Noida
+Otis,careers@otis.com,Talent Acquisition,Careers,Hyderabad,Telangana,Industrial GCC,VERIFIED careers inbox on otis.com; MX OK; offices: Hyderabad
+PepsiCo,,,,Hyderabad,Telangana,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://pepsico.com/careers; offices: Hyderabad/Gurugram
+Procter & Gamble,,,,Hyderabad,Telangana,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://pg.com/careers; offices: Hyderabad/Mumbai
+Qualcomm,,,,Hyderabad,Telangana,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://careers.qualcomm.com/careers; offices: Hyderabad/Bengaluru/Chennai
+Salesforce,,,,Hyderabad,Telangana,Product/tech,Product/tech; applies via careers portal (no public email) - https://www.salesforce.com/company/careers/university-recruiting/; offices: Hyderabad/Bengaluru
+Sanofi,,,,Hyderabad,Telangana,Pharma GCC,Pharma GCC; applies via careers portal (no public email) - https://sanofi.com/careers; offices: Hyderabad
+ServiceNow,,,,Hyderabad,Telangana,Product/tech,Product/tech; applies via careers portal (no public email) - https://careers.servicenow.com/careers/; offices: Hyderabad/Bengaluru
+Starbucks,,,,Hyderabad,Telangana,Consumer GCC,Consumer GCC; applies via careers portal (no public email) - https://starbucks.com/careers; offices: Hyderabad/Bengaluru
+Synchrony,,,,Hyderabad,Telangana,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://synchrony.com/careers; offices: Hyderabad/Pune
+TD Bank,,,,Hyderabad,Telangana,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://www.astralpipes.com/careers; offices: Hyderabad
+Virtusa,,,,Hyderabad,Telangana,IT services,IT services; applies via careers portal (no public email) - https://careers.virtusa.com/; offices: Hyderabad/Bengaluru/Chennai/Pune
+Warner Bros Discovery,,,,Hyderabad,Telangana,Media/tech GCC,Media/tech GCC; applies via careers portal (no public email) - https://wbd.com/careers; offices: Hyderabad/Bengaluru
+ZF,,,,Hyderabad,Telangana,Automotive GCC,Automotive GCC; applies via careers portal (no public email) - https://zf.com/careers; offices: Hyderabad/Chennai/Pune
+Adobe,,,,Noida,Uttar Pradesh,Product/tech,Product/tech; applies via careers portal (no public email) - https://careers.adobe.com/us/en/c/university-jobs; offices: Noida/Bengaluru
+Ameriprise Financial,,,,Noida,Uttar Pradesh,BFSI GCC,BFSI GCC; applies via careers portal (no public email) - https://ameriprise.com/careers; offices: Noida/Gurugram
+Birlasoft,,,,Noida,Uttar Pradesh,IT services,IT services; applies via careers portal (no public email) - https://www.birlasoft.com/careers; offices: Noida/Pune/Bengaluru/Hyderabad
+Cadence,,,,Noida,Uttar Pradesh,Semiconductor EDA,Semiconductor EDA; applies via careers portal (no public email) - https://cadence.wd1.myworkdayjobs.com/External_Careers; offices: Noida/Bengaluru/Pune
+Coforge,,,,Noida,Uttar Pradesh,IT services,IT services; applies via careers portal (no public email) - https://careers.coforge.com/; offices: Noida/Greater Noida/Bengaluru
+HCLTech,,,,Noida,Uttar Pradesh,IT services,IT services; applies via careers portal (no public email) - https://www.hcltech.com/careers/jobs; offices: Noida/Bengaluru/Chennai/Hyderabad
+Iris Software,,,,Noida,Uttar Pradesh,IT services,IT services; applies via careers portal (no public email) - https://www.hirist.tech/; offices: Noida
+MetLife,,,,Noida,Uttar Pradesh,Insurance GCC,Insurance GCC; applies via careers portal (no public email) - https://metlife.com/careers; offices: Noida/Pune/Jaipur
+NXP Semiconductors,,,,Noida,Uttar Pradesh,Semiconductor,Semiconductor; applies via careers portal (no public email) - https://nxp.wd3.myworkdayjobs.com/careers; offices: Noida/Bengaluru/Hyderabad
