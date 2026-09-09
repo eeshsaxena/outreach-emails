@@ -211,9 +211,29 @@ OUTSIDE_RE = re.compile(
     r"\b(dubai|u\.?a\.?e|united arab emirates|sharjah|abu dhabi|ajman|"
     r"singapore|qatar|doha|saudi|riyadh|jeddah|oman|muscat|bahrain|manama|"
     r"kuwait|usa|u\.?s\.?a|united states|new york|san francisco|silicon valley|"
-    r"uk|united kingdom|london|ireland|dublin|canada|toronto|vancouver|"
-    r"germany|berlin|munich|netherlands|amsterdam|france|paris|"
-    r"australia|sydney|melbourne|europe|remote[ -]?(us|usa|eu|global))\b",
+    r"boston|seattle|austin|chicago|los angeles|atlanta|denver|palo alto|"
+    r"uk|united kingdom|london|manchester|cambridge|oxford|edinburgh|scotland|"
+    r"ireland|dublin|canada|toronto|vancouver|montreal|ottawa|waterloo|kitchener|"
+    r"germany|berlin|munich|hamburg|netherlands|amsterdam|france|paris|"
+    r"australia|sydney|melbourne|new zealand|auckland|europe|"
+    # additional foreign tech hubs these firms post from
+    r"portugal|lisbon|porto|spain|madrid|barcelona|valencia|"
+    r"poland|warsaw|krak(o|ó)w|wroc(l|ł)aw|gda(n|ń)sk|"
+    r"romania|bucharest|cluj|ia(s|ș)i|bulgaria|sofia|"
+    r"hungary|budapest|czech|prague|slovakia|"
+    r"italy|milan|rome|turin|sweden|stockholm|denmark|copenhagen|"
+    r"norway|oslo|finland|helsinki|switzerland|zurich|geneva|lausanne|"
+    r"belgium|brussels|austria|vienna|greece|athens|"
+    r"israel|tel aviv|haifa|"
+    r"japan|tokyo|osaka|china|shanghai|beijing|shenzhen|hangzhou|"
+    r"hong kong|taiwan|taipei|south korea|seoul|"
+    r"philippines|manila|cebu|vietnam|hanoi|ho chi minh|"
+    r"indonesia|jakarta|malaysia|kuala lumpur|thailand|bangkok|"
+    r"mexico|guadalajara|brazil|s(a|ã)o paulo|argentina|buenos aires|"
+    r"colombia|bogot(a|á)|chile|santiago|"
+    r"egypt|cairo|nigeria|lagos|kenya|nairobi|south africa|"
+    r"johannesburg|cape town|turkey|istanbul|"
+    r"remote[ -]?(us|usa|u\.?s\.?|eu|emea|apac|latam|uk|canada|europe|global))\b",
     re.I,
 )
 INDIA_RE = re.compile(
