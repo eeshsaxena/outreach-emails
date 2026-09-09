@@ -106,14 +106,14 @@ Hasura,https://hasura.io/careers/,Bengaluru,yes,GraphQL/data + AI
 Kore.ai,https://kore.ai/careers/,Hyderabad,yes,Enterprise AI
 Haptik,https://www.haptik.ai/careers,Mumbai,yes,Conversational AI
 SigTuple,https://sigtuple.com/careers,Bengaluru,yes,Medical AI/CV
-Tower Research Capital,https://tower-research.com/open-positions/,Gurugram,yes,HFT SDE/quant
-Optiver,https://www.optiver.com/working-at-optiver/career-opportunities/,Mumbai,yes,Market maker SDE/quant
-WorldQuant,https://www.worldquant.com/careers/,Mumbai,yes,Quant research
-Graviton Research Capital,https://www.gravitontrading.com/careers.html,Gurugram,yes,HFT SDE/quant
-Quadeye,https://www.quadeye.com/careers,Gurugram,yes,HFT SDE/quant
+Tower Research Capital,https://tower-research.com/open-positions/,Gurugram,yes,HFT SDE/quant [priority]
+Optiver,https://www.optiver.com/working-at-optiver/career-opportunities/,Mumbai,yes,Market maker SDE/quant [priority]
+WorldQuant,https://www.worldquant.com/careers/,Mumbai,yes,Quant research [priority]
+Graviton Research Capital,https://www.gravitontrading.com/careers.html,Gurugram,yes,HFT SDE/quant [priority]
+Quadeye,https://www.quadeye.com/careers,Gurugram,yes,HFT SDE/quant [priority]
 AlphaGrep,https://www.alpha-grep.com/careers/,Bengaluru,yes,Quant trading
 Jump Trading,https://www.jumptrading.com/careers/,India,yes,HFT SDE/quant
-NK Securities,https://www.nksecurities.com/,Gurugram,yes,HFT SDE/quant
+NK Securities,https://www.nksecurities.com/,Gurugram,yes,HFT SDE/quant [priority]
 Intel India,https://www.intel.com/content/www/us/en/jobs/locations/india.html,Bengaluru,yes,Silicon/SDE (SPA)
 AMD India,https://careers.amd.com/careers-home,Bengaluru,yes,VLSI/SDE (SPA)
 Texas Instruments,https://careers.ti.com/,Bengaluru,yes,Analog/embedded (SPA)
@@ -1214,3 +1214,38 @@ Morgan Stanley,https://www.morganstanley.com/careers,India,yes,BFSI tech; Bengal
 PayPal,https://careers.pypl.com/home/,India,yes,Payments product; Bengaluru/Chennai/Hyderabad (SPA)
 Optum,https://careers.unitedhealthgroup.com/,India,yes,Healthtech GCC; Hyderabad/Bengaluru/Noida (SPA)
 Target India,https://corporate.target.com/careers,Bengaluru,yes,Retail-tech GCC; Bengaluru (SPA)
+Cohesity,https://www.cohesity.com/company/careers/,India,yes,Data-management product; Bengaluru/Pune (SPA)
+Barclays,https://search.jobs.barclays/,India,yes,BFSI tech; Pune/Chennai (SPA)
+Zscaler,https://www.zscaler.com/careers,India,yes,Cloud security; Bengaluru/Hyderabad/Mohali (SPA)
+HSBC,https://www.hsbc.com/careers,India,yes,BFSI tech GSC; Hyderabad/Pune/Bengaluru (SPA)
+Citi,https://jobs.citi.com/,India,yes,BFSI tech; Pune/Chennai/Bengaluru (SPA)
+Samsung R&D India,https://www.samsung.com/in/about-us/careers/,India,yes,R&D; Bengaluru/Noida/Delhi (SPA)
+Honeywell,https://careers.honeywell.com/us/en/india-jobs,India,yes,Eng/software; Bengaluru/Hyderabad/Pune/Madurai (SPA)
+Deutsche Bank,https://careers.db.com/professionals/search-roles/,India,yes,BFSI tech; Pune/Bengaluru (SPA)
+Standard Chartered,https://jobs.standardchartered.com/,India,yes,BFSI GBS; Bengaluru/Chennai (SPA)
+Twilio,https://www.twilio.com/en-us/company/jobs,Bengaluru,yes,Comms API; Bengaluru (SPA)
+Fidelity Investments,https://jobs.fidelity.com/,India,yes,Fintech GCC; Bengaluru/Chennai (SPA)
+State Street,https://careers.statestreet.com/global/en,India,yes,BFSI tech; Bengaluru/Hyderabad (SPA)
+BNY,https://www.bny.com/corporate/global/en/careers.html,India,yes,BFSI tech; Pune/Chennai (SPA)
+Confluent,https://www.confluent.io,Bengaluru,yes,Data-streaming; Bengaluru (SPA)
+Wayfair,https://www.aboutwayfair.com/careers,Bengaluru,yes,E-commerce tech; Bengaluru (SPA)
+Palo Alto Networks,https://jobs.paloaltonetworks.com,Bengaluru,yes,Cybersecurity product; Bengaluru (SPA)
+Jane Street,https://www.janestreet.com/join-jane-street/open-roles/,India,yes,Trading SWE; global/remote (IIT recruiter) [priority]
+Millennium,https://www.mlp.com/careers/,Bengaluru,yes,Quant tech; Bengaluru [priority]
+InMobi,https://www.inmobi.com/company/careers,Bengaluru,yes,Adtech product; Bengaluru (SPA)
+Arcesium,https://www.arcesium.com/careers/,Hyderabad,yes,Fintech SaaS (DE Shaw); Hyderabad/Bengaluru (SPA)
+Hudson River Trading,https://www.hudsonrivertrading.com/careers/,India,yes,HFT SWE; global/remote [priority]
+IMC Trading,https://careers.imc.com/ap-en,India,yes,Market-maker SWE; Mumbai (IIT recruiter) [priority]
+Media.net,https://www.media.net/careers,India,yes,Adtech product; Mumbai/Bengaluru (SPA)
+Squarepoint Capital,https://www.squarepoint-capital.com,India,yes,Quant SWE; Bengaluru/global [priority]
+Apple India,https://jobs.apple.com/en-in/search,India,yes,Product; Hyderabad/Bengaluru (SPA) [priority]
+Bloomberg,https://careers.bloomberg.com/job/search,India,yes,Fintech eng; Pune/Mumbai (SPA) [priority]
+Thomson Reuters,https://careers.thomsonreuters.com/us/en/search-results,India,yes,Product/eng; Bengaluru/Hyderabad (SPA)
+Bank of America,https://careers.bankofamerica.com/en-us/job-search,India,yes,BFSI tech; Chennai/Hyderabad/Mumbai (SPA)
+Meta,https://www.metacareers.com/jobs,India,yes,Product; recruits IITs (SPA) [priority]
+Visa,https://corporate.visa.com/en/jobs.html,India,yes,Payments product; Bengaluru (SPA)
+Expedia Group,https://careers.expediagroup.com/jobs/,India,yes,Travel-tech; Gurugram/Bengaluru (SPA)
+Analog Devices,https://careers.analog.com,India,yes,Semiconductor; Bengaluru/Hyderabad (SPA)
+Western Digital,https://jobs.smartrecruiters.com/WesternDigital,Bengaluru,yes,Storage; Bengaluru (SPA)
+Applied Materials,https://careers.appliedmaterials.com/careers,India,yes,Semiconductor equip; Bengaluru (SPA)
+Booking.com,https://careers.booking.com/,Bengaluru,yes,Travel-tech; Bengaluru (SPA)
